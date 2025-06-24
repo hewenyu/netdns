@@ -20,7 +20,14 @@
     *   确保您的**国内VPS**已按其`README.md`部署完毕，并正常运行。
     *   确保您的终端拥有 `bash` 环境。
 
-2.  **配置域名**:
+2.  **生成自签名证书 (首次部署需要)**:
+    *   为了屏蔽所有未绑定域名的访问，需要一个默认的自签名证书。如果您在配置国内VPS时已经执行过此脚本，可以跳过此步。在项目根目录执行：
+        ```bash
+        chmod +x ./scripts/generate-self-signed-cert.sh
+        ./scripts/generate-self-signed-cert.sh
+        ```
+
+3.  **配置域名**:
     *   在本目录下 (`overseas-vps/`)，执行域名修改脚本：
         ```bash
         chmod +x rename-domain.sh
@@ -29,7 +36,7 @@
     *   请将 `your-overseas-domain.com` 替换为您自己的**海外**域名。
     *   请将 `your-cn-doh-domain.com` 替换为您**国内VPS**的DoH域名。
 
-3.  **申请SSL证书**:
+4.  **申请SSL证书**:
     *   为您的海外域名执行证书申请脚本：
         ```bash
         chmod +x issue-cert.sh
@@ -37,22 +44,22 @@
         ```
     *   **重要**: 此脚本同样会先停止正在运行的服务来完成证书申请。
 
-4.  **启动服务**:
+5.  **启动服务**:
     *   证书申请成功后，启动所有服务：
         ```bash
         docker-compose up -d
         ```
     *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。
 
-5.  **配置AdGuardHome**:
+6.  **配置AdGuardHome**:
     *   首次启动后，访问 `http://<您的海外VPS_IP>:3001` 进行初始化设置。
     *   在"上游DNS服务器"处填写 `172.16.233.3` (即MosDNS在内部Docker网络中的地址)。
     *   完成向导。
 
-6.  **终端用户配置**:
+7.  **终端用户配置**:
     *   所有配置完成后，您需要提供给最终用户的DoH地址为：`https://<您的海外域名>/dns-query`。
     *   将此地址配置到路由器、浏览器或操作系统中，即可开始使用。
 
-7.  **验证**:
+8.  **验证**:
     *   执行 `nslookup qq.com https://<您的海外域名>/dns-query` 和 `nslookup google.com https://<您的海外域名>/dns-query`，检查返回的IP地址是否符合预期（国内/国外）。
     *   检查各容器日志确保无异常：`docker-compose logs -f`。 

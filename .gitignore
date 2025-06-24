@@ -48,6 +48,7 @@ logs/
 # 忽略SSL证书文件 (这些是运行时生成的，不应提交到git)
 **/openresty/ssl/*.pem
 **/openresty/ssl/*.key
+**/openresty/ssl/default/
 
 # 忽略脚本生成的备份文件
 *.bak
