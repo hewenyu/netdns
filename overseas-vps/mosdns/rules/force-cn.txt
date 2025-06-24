@@ -1,0 +1,5 @@
+# 自定义强制直连域名列表
+# 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
+# 每行一个域名，例如：
+# example-direct.com
+# another-direct.net 

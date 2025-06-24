@@ -1,0 +1,58 @@
+version: "3.8"
+
+services:
+  openresty:
+    image: openresty/openresty:1.21.4.1-focal
+    container_name: netdns-domestic-openresty
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./openresty/conf.d:/etc/openresty/conf.d:ro
+      - ./openresty/ssl:/etc/openresty/ssl:ro
+      - ./certbot/www:/var/www/certbot:ro # 用于ACME http-01 质询
+    networks:
+      netdns-domestic:
+        ipv4_address: 172.16.232.5
+    depends_on:
+      - adguardhome
+    labels:
+      - "netdns.role=entrypoint"
+
+  adguardhome:
+    image: adguard/adguardhome:latest
+    container_name: netdns-domestic-adguardhome
+    restart: always
+    volumes:
+      - ./adguardhome/work:/opt/adguardhome/work
+      - ./adguardhome/conf:/opt/adguardhome/conf
+    networks:
+      netdns-domestic:
+        ipv4_address: 172.16.232.4
+    ports:
+      - "3000:3000/tcp" # 用于初始配置
+    depends_on:
+      - smartdns
+    labels:
+      - "netdns.role=filter"
+
+  smartdns:
+    image: pymumu/smartdns:latest
+    container_name: netdns-domestic-smartdns
+    restart: always
+    volumes:
+      - ./smartdns/smartdns.conf:/etc/smartdns/smartdns.conf:ro
+      - ./smartdns/cache:/smartdns/cache
+    networks:
+      netdns-domestic:
+        ipv4_address: 172.16.232.2
+    labels:
+      - "netdns.role=resolver"
+
+networks:
+  netdns-domestic:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.16.232.0/24 

@@ -1,0 +1,68 @@
+# MosDNS 配置文件 (海外VPS)
+log:
+  level: info
+  file: "/mosdns/mosdns.log"
+
+# 数据和插件配置
+data:
+  # GeoIP and GeoSite data files
+  # geoip_files:
+  #   - file: geoip.dat
+  #     tag: geoip
+  # geosite_files:
+  #   - file: geosite.dat
+  #     tag: geosite
+
+plugins:
+  # 缓存插件
+  - tag: cache
+    type: cache
+    args:
+      size: 10000
+      lazy_cache_ttl: 86400
+      dump_file: /mosdns/cache.dump
+
+  # 转发至本地 GFW 解析器 (SmartDNS)
+  - tag: forward_local_gfw
+    type: forward
+    args:
+      # smartdns 在 docker 网络中的地址和端口
+      upstream: "udp://172.16.233.2:5354"
+
+  # 转发至远程国内 DoH 解析器
+  # !!! 重要: 将下面的 URL 替换为你的国内VPS的DoH地址 !!!
+  - tag: forward_remote_cn
+    type: forward
+    args:
+      upstream: "https://dns.your-cn-domain.com/dns-query"
+      bootstrap: "223.5.5.5" # 用于解析DoH服务本身的域名
+
+  # 主要执行序列
+  - tag: main_sequence
+    type: sequence
+    args:
+      # 1. 匹配自定义代理域名 -> 转发到Gfw解析器
+      - exec: "jump_if(query_is_domain_file('rules/force-nocn.txt'), forward_local_gfw)"
+      # 2. 匹配自定义直连域名 -> 转发到国内解析器
+      - exec: "jump_if(query_is_domain_file('rules/force-cn.txt'), forward_remote_cn)"
+      # 3. 匹配代理域名列表 -> 转发到Gfw解析器
+      - exec: "jump_if(query_is_domain_file('rules/proxy-list.txt'), forward_local_gfw)"
+      # 4. 匹配直连域名列表 -> 转发到国内解析器
+      - exec: "jump_if(query_is_domain_file('rules/direct-list.txt'), forward_remote_cn)"
+      # 5. Fallback 逻辑: 默认先尝试国内解析器
+      - exec: forward_remote_cn
+      # 6. 如果国内解析失败(可选)，可以再尝试 GFW 解析器
+      # - exec: forward_local_gfw
+
+  # 入口设置
+  - tag: "udp_server"
+    type: "udp_server"
+    args:
+      entry: "main_sequence"
+      listen: ":5335"
+
+  - tag: "tcp_server"
+    type: "tcp_server"
+    args:
+      entry: "main_sequence"
+      listen: ":5335" 

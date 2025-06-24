@@ -1,0 +1,74 @@
+version: "3.8"
+
+services:
+  openresty:
+    image: openresty/openresty:1.21.4.1-focal
+    container_name: netdns-overseas-openresty
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./openresty/conf.d:/etc/openresty/conf.d:ro
+      - ./openresty/ssl:/etc/openresty/ssl:ro
+      - ./certbot/www:/var/www/certbot:ro # 用于ACME http-01 质询
+    networks:
+      netdns-overseas:
+        ipv4_address: 172.16.233.5
+    depends_on:
+      - adguardhome
+    labels:
+      - "netdns.role=entrypoint"
+
+  adguardhome:
+    image: adguard/adguardhome:latest
+    container_name: netdns-overseas-adguardhome
+    restart: always
+    volumes:
+      - ./adguardhome/work:/opt/adguardhome/work
+      - ./adguardhome/conf:/opt/adguardhome/conf
+    networks:
+      netdns-overseas:
+        ipv4_address: 172.16.233.4
+    ports:
+      - "3001:3000/tcp" # 注意: 映射到3001，避免和国内VPS的3000端口冲突
+    depends_on:
+      - mosdns
+    labels:
+      - "netdns.role=filter"
+
+  mosdns:
+    image: irinesistiana/mosdns:v5
+    container_name: netdns-overseas-mosdns
+    restart: always
+    volumes:
+      - ./mosdns/config.yaml:/etc/mosdns/config.yaml:ro
+      - ./mosdns/rules:/etc/mosdns/rules:ro
+      - ./mosdns/data:/etc/mosdns
+    networks:
+      netdns-overseas:
+        ipv4_address: 172.16.233.3
+    depends_on:
+      - smartdns
+    labels:
+      - "netdns.role=router"
+
+  smartdns:
+    image: pymumu/smartdns:latest
+    container_name: netdns-overseas-smartdns
+    restart: always
+    volumes:
+      - ./smartdns/smartdns.conf:/etc/smartdns/smartdns.conf:ro
+      - ./smartdns/cache:/smartdns/cache
+    networks:
+      netdns-overseas:
+        ipv4_address: 172.16.233.2
+    labels:
+      - "netdns.role=resolver-gfw"
+
+networks:
+  netdns-overseas:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.16.233.0/24 
