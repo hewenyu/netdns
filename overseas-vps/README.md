@@ -29,21 +29,20 @@
     *   请将 `your-overseas-domain.com` 替换为您自己的**海外**域名。
     *   请将 `your-cn-doh-domain.com` 替换为您**国内VPS**的DoH域名。
 
-3.  **启动服务以验证域名**:
-    *   执行以下命令启动服务：
-        ```bash
-        docker-compose up -d
-        ```
-    *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。
-
-4.  **申请SSL证书**:
-    *   执行证书申请脚本：
+3.  **申请SSL证书**:
+    *   为您的海外域名执行证书申请脚本：
         ```bash
         chmod +x issue-cert.sh
         ./issue-cert.sh your-overseas-domain.com
         ```
-    *   脚本将为您的海外域名申请证书。成功后，重启 `openresty` 来应用证书：
-    *   `docker-compose restart openresty`
+    *   **重要**: 此脚本同样会先停止正在运行的服务来完成证书申请。
+
+4.  **启动服务**:
+    *   证书申请成功后，启动所有服务：
+        ```bash
+        docker-compose up -d
+        ```
+    *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。
 
 5.  **配置AdGuardHome**:
     *   首次启动后，访问 `http://<您的海外VPS_IP>:3001` 进行初始化设置。

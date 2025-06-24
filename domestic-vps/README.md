@@ -24,21 +24,20 @@
         ```
     *   请将 `your-cn-domain.com` 替换为您自己的域名。
 
-3.  **启动服务以验证域名**:
-    *   为了使用 `webroot` 方式申请证书，需要先让您的域名可以通过HTTP访问。执行以下命令启动服务：
-        ```bash
-        docker-compose up -d
-        ```
-    *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。
-
-4.  **申请SSL证书**:
-    *   执行证书申请脚本：
+3.  **申请SSL证书**:
+    *   执行证书申请脚本。此脚本会自动处理证书的申请、安装和续期配置。
         ```bash
         chmod +x issue-cert.sh
         ./issue-cert.sh your-cn-domain.com
         ```
-    *   脚本会自动处理证书的申请、安装和续期配置。成功后，它会提示您重启 `openresty` 服务。
-    *   执行 `docker-compose restart openresty` 来应用新的SSL证书。
+    *   **重要**: 此脚本会先停止正在运行的服务（如果有），以使用standalone模式申请证书，请确保在执行此操作前没有重要任务正在运行。
+
+4.  **启动服务**:
+    *   证书申请成功后，执行以下命令启动所有服务：
+        ```bash
+        docker-compose up -d
+        ```
+    *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。OpenResty服务现在将使用刚刚申请到的证书。
 
 5.  **配置AdGuardHome**:
     *   首次启动后，访问 `http://<您的国内VPS_IP>:3000` 进行初始化设置。

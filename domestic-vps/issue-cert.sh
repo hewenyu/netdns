@@ -13,7 +13,7 @@ SSL_PATH="$(pwd)/openresty/ssl"
 ACME_DATA_PATH="$(pwd)/acme.sh"
 WEBROOT_PATH="$(pwd)/certbot/www"
 
-# 检查 docker-compose.yml 是否存在，以确认在正确的目录下
+# 检查 docker-compose.yml 是否存在
 if [ ! -f "docker-compose.yml" ]; then
   echo "错误: 'docker-compose.yml' 未找到。"
   echo "请确保您在 'domestic-vps' 目录下运行此脚本。"
@@ -25,31 +25,48 @@ mkdir -p "$SSL_PATH"
 mkdir -p "$ACME_DATA_PATH"
 mkdir -p "$WEBROOT_PATH"
 
-echo "正在为域名 '$DOMAIN' 申请证书..."
-echo "证书将安装到: $SSL_PATH"
-echo "ACME数据将保存到: $ACME_DATA_PATH"
+# 步骤1: 停止现有服务，释放80端口
+if [ "$(docker-compose ps -q)" ]; then
+    echo "检测到服务正在运行，正在停止服务以释放80端口..."
+    docker-compose down --remove-orphans
+    echo "服务已停止。"
+fi
 
-# 运行 acme.sh 容器来申请证书
-# --webroot 模式需要在80端口提供服务
-# 我们的 openresty 服务已经配置好了 /.well-known/acme-challenge/ 路径
+# 步骤2: 使用 standalone 模式首次申请证书
+echo "================================================================="
+echo "步骤1/3: 正在使用 Standalone 模式为 '$DOMAIN' 申请证书..."
+echo "================================================================="
+docker run --rm -it \
+  -v "$ACME_DATA_PATH":/acme.sh \
+  -p 80:80 \
+  neilpang/acme.sh --issue --standalone -d "$DOMAIN" --server letsencrypt
+
+# 步骤3: 安装证书
+echo "================================================================="
+echo "步骤2/3: 正在安装证书到 $SSL_PATH ..."
+echo "================================================================="
+docker run --rm -it \
+  -v "$ACME_DATA_PATH":/acme.sh \
+  -v "$SSL_PATH":/certs \
+  neilpang/acme.sh --install-cert -d "$DOMAIN" \
+  --cert-file      /certs/fullchain.pem \
+  --key-file       /certs/privkey.pem
+
+# 步骤4: 将续期模式更新为 webroot，为自动续期做准备
+echo "================================================================="
+echo "步骤3/3: 正在将续期模式更新为 Webroot ..."
+echo "================================================================="
 docker run --rm -it \
   -v "$ACME_DATA_PATH":/acme.sh \
   -v "$WEBROOT_PATH":/webroot \
   neilpang/acme.sh --issue --webroot /webroot -d "$DOMAIN" --server letsencrypt
 
-# 安装证书到指定目录
-echo "正在安装证书到 $SSL_PATH ..."
-docker run --rm -it \
-  -v "$ACME_DATA_PATH":/acme.sh \
-  -v "$SSL_PATH":/certs \
-  neilpang/acme.sh --install-cert -d "$DOMAIN" \
-  --cert-file      /certs/cert.pem \
-  --key-file       /certs/privkey.pem \
-  --fullchain-file /certs/fullchain.pem
-
-# 赋予证书正确的权限，尽管在docker外可能不是必须的
+# 赋予证书正确的权限
 chmod 644 "$SSL_PATH"/*
 
-echo "证书申请和安装完成！"
-echo "acme.sh 将会自动在容器数据卷中创建续期任务。"
-echo "请执行 'docker-compose restart openresty' 来加载新证书。" 
+echo "================================================================="
+echo "证书申请和配置全部完成！"
+echo " "
+echo "现在，请执行 'docker-compose up -d' 来启动所有服务。"
+echo "未来的证书续期将自动通过 Webroot 方式进行。"
+echo "=================================================================" 
