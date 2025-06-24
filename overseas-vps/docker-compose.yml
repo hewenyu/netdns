@@ -25,6 +25,7 @@ services:
     volumes:
       - ./adguardhome/work:/opt/adguardhome/work
       - ./adguardhome/conf:/opt/adguardhome/conf
+      - ./openresty/ssl:/opt/adguardhome/ssl
     networks:
       netdns-overseas:
         ipv4_address: 172.16.233.4
