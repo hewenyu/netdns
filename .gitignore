@@ -28,5 +28,30 @@ go.work.sum
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.vscode/
+.idea/
+
+# 忽略日志文件
+*.log
+logs/
+
+# 忽略运行时数据和缓存
+**/adguardhome/data/
+**/adguardhome/work/
+**/smartdns/cache/
+**/mosdns/cache.dump
+**/certbot/
+
+# 忽略acme.sh证书数据
+**/acme.sh/
+
+# 忽略SSL证书文件 (这些是运行时生成的，不应提交到git)
+**/openresty/ssl/*.pem
+**/openresty/ssl/*.key
+
+# 忽略脚本生成的备份文件
+*.bak
+
+# 忽略操作系统文件
+.DS_Store
+Thumbs.db

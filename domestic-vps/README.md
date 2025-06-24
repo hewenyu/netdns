@@ -14,25 +14,38 @@
     *   一台位于中国大陆的VPS。
     *   一个域名，并将其A记录指向此VPS的IP地址。
     *   安装好 `docker` 和 `docker-compose`。
+    *   确保您的终端拥有 `bash` 环境 (例如 Git Bash on Windows, or native shell on Linux)。
 
-2.  **获取SSL证书**:
-    *   使用 `acme.sh` 或 `certbot` 为您的域名申请SSL证书。
-    *   将获取到的证书文件 (`fullchain.cer` 或 `fullchain.pem`) 和私钥文件 (`private.key` 或 `privkey.pem`) 放入本目录下的 `openresty/ssl/` 文件夹中。
+2.  **配置域名**:
+    *   在本目录下 (`domestic-vps/`)，执行域名修改脚本，将配置文件中的占位符替换为您的域名：
+        ```bash
+        chmod +x rename-domain.sh
+        ./rename-domain.sh your-cn-domain.com
+        ```
+    *   请将 `your-cn-domain.com` 替换为您自己的域名。
 
-3.  **配置环境变量**:
-    *   (此项目暂无特定环境变量，所有配置均在文件中完成)。
-
-4.  **修改配置**:
-    *   **OpenResty**: 打开 `openresty/conf.d/default.conf`，将 `server_name` 修改为您的域名，并确认SSL证书文件名正确。**重要**：在 `location /dns-query` 块中，将 `allow` 后面的IP地址修改为您**海外VPS**的公网IP，并保留 `deny all;`，以实现访问控制。
-    *   **AdGuardHome**: 首次启动后，访问 `http://<您的国内VPS_IP>:3000` 进行初始化设置。在"上游DNS服务器"处填写 `172.16.233.2` (即SmartDNS在内部Docker网络中的地址)，并根据向导完成后续配置。
-    *   **SmartDNS**: `smartdns/smartdns.conf` 已配置好国内常用上游，通常无需修改。
-
-5.  **启动服务**:
-    *   在本目录下 (`domestic-vps/`) 执行命令：
+3.  **启动服务以验证域名**:
+    *   为了使用 `webroot` 方式申请证书，需要先让您的域名可以通过HTTP访问。执行以下命令启动服务：
         ```bash
         docker-compose up -d
         ```
+    *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。
+
+4.  **申请SSL证书**:
+    *   执行证书申请脚本：
+        ```bash
+        chmod +x issue-cert.sh
+        ./issue-cert.sh your-cn-domain.com
+        ```
+    *   脚本会自动处理证书的申请、安装和续期配置。成功后，它会提示您重启 `openresty` 服务。
+    *   执行 `docker-compose restart openresty` 来应用新的SSL证书。
+
+5.  **配置AdGuardHome**:
+    *   首次启动后，访问 `http://<您的国内VPS_IP>:3000` 进行初始化设置。
+    *   在"上游DNS服务器"处填写 `172.16.232.2` (即SmartDNS在内部Docker网络中的地址)。
+    *   在"DNS服务器"处，AdGuardHome会监听 `172.16.232.4`，这是正确的。
+    *   完成向导。
 
 6.  **验证**:
-    *   在您的**海外VPS**上，执行 `curl -v https://<您的国内DoH域名>/dns-query`。如果配置正确，应能看到来自OpenResty的响应。
+    *   在您的**海外VPS**上，执行 `curl -v https://<您的国内DoH域名>/dns-query`。如果配置正确，应能看到来自OpenResty的响应和有效的SSL证书信息。
     *   检查各容器日志确保无异常：`docker-compose logs -f`。 
