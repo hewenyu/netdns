@@ -6,7 +6,7 @@ WORKDIR=$(dirname "$0")/../overseas-vps/mosdns/rules
 echo "工作目录: $WORKDIR"
 
 # 确保工作目录存在
-mkdir -p $WORKDIR
+mkdir -p "$WORKDIR"
 
 # 定义规则来源
 # 直连列表
@@ -32,33 +32,82 @@ proxy_tmp="$WORKDIR/proxy.tmp"
 direct_final="$WORKDIR/direct-list.txt"
 proxy_final="$WORKDIR/proxy-list.txt"
 cn_ip_final="$WORKDIR/cn-ip-cidr.txt"
+force_cn_path="$WORKDIR/force-cn.txt"
+force_nocn_path="$WORKDIR/force-nocn.txt"
 
-# 清理临时文件
+# 清理可能存在的旧文件
 rm -f "$direct_tmp" "$proxy_tmp"
 
-echo "开始下载直连域名规则..."
+# 下载函数
+download() {
+  local url=$1
+  local output=$2
+  echo "开始下载: $url"
+  if ! curl -L --connect-timeout 10 --retry 3 -sS "$url" >> "$output"; then
+    echo "下载失败: $url" >&2
+    exit 1
+  fi
+}
+
+# 并行下载
+pids=""
+
+echo "开始并行下载直连域名规则..."
 for url in "${direct_list[@]}"; do
-  echo "下载: $url"
-  curl -L --connect-timeout 10 --retry 3 "$url" | grep -v -E "^#|^$" >> "$direct_tmp" || echo "下载失败: $url"
+  download "$url" "$direct_tmp" &
+  pids="$pids $!"
 done
 
-echo "开始下载代理域名规则..."
+echo "开始并行下载代理域名规则..."
 for url in "${proxy_list[@]}"; do
-  echo "下载: $url"
-  curl -L --connect-timeout 10 --retry 3 "$url" | grep -v -E "^#|^$" >> "$proxy_tmp" || echo "下载失败: $url"
+  download "$url" "$proxy_tmp" &
+  pids="$pids $!"
 done
 
 echo "开始下载CN IP库..."
-curl -L --connect-timeout 10 --retry 3 "$cn_ip_url" | grep -v -E "^#|^$" > "$cn_ip_final" || echo "下载CN IP库失败"
+download "$cn_ip_url" "$cn_ip_final.tmp" &
+pids="$pids $!"
 
-echo "合并与去重规则..."
+# 等待所有后台下载任务完成
+for pid in $pids; do
+  if ! wait "$pid"; then
+    echo "一个或多个下载任务失败。" >&2
+    # 清理临时文件
+    rm -f "$direct_tmp" "$proxy_tmp" "$cn_ip_final.tmp"
+    exit 1
+  fi
+done
+echo "所有规则文件下载成功。"
+
+echo "处理和合并规则..."
+
+# 处理下载的规则文件，移除注释和空行
+process_file() {
+    local input=$1
+    local output=$2
+    grep -v -E "^#|^$" "$input" > "$output"
+    rm "$input"
+}
+
+process_file "$direct_tmp" "$direct_tmp.processed" &
+process_file "$proxy_tmp" "$proxy_tmp.processed" &
+process_file "$cn_ip_final.tmp" "$cn_ip_final" &
+wait
+
 # 合并用户自定义规则和下载的规则，然后排序去重
-# 用户自定义规则 force-cn.txt 和 force-nocn.txt 需要预先存在
-cat "$WORKDIR/force-cn.txt" "$direct_tmp" 2>/dev/null | sort -u > "$direct_final"
-cat "$WORKDIR/force-nocn.txt" "$proxy_tmp" 2>/dev/null | sort -u > "$proxy_final"
+{
+    if [[ -f "$force_cn_path" ]]; then cat "$force_cn_path"; fi
+    cat "$direct_tmp.processed"
+} | sort -u > "$direct_final"
+
+{
+    if [[ -f "$force_nocn_path" ]]; then cat "$force_nocn_path"; fi
+    cat "$proxy_tmp.processed"
+} | sort -u > "$proxy_final"
+
 
 # 清理临时文件
-rm -f "$direct_tmp" "$proxy_tmp"
+rm -f "$direct_tmp.processed" "$proxy_tmp.processed"
 
 echo "规则更新完成。"
 echo "直连域名列表: $direct_final"
