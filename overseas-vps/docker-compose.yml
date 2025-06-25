@@ -45,7 +45,7 @@ services:
     volumes:
       - ./mosdns/config.yaml:/etc/mosdns/config.yaml:ro
       - ./mosdns/rules:/etc/mosdns/rules:ro
-      - ./mosdns/data:/etc/mosdns
+      - ./mosdns/data:/mosdns
     networks:
       netdns-overseas:
         ipv4_address: 172.16.233.3
