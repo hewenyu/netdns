@@ -39,7 +39,7 @@ services:
       - "netdns.role=filter"
 
   mosdns:
-    image: irinesistiana/mosdns:v5
+    image: irinesistiana/mosdns:v5.3.3
     container_name: netdns-overseas-mosdns
     restart: always
     volumes:
