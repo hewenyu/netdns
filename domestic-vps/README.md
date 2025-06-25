@@ -46,12 +46,21 @@
         ```
     *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。OpenResty服务现在将使用刚刚申请到的证书。
 
-6.  **配置AdGuardHome**:
+6.  **证书续期**:
+    *   Let's Encrypt 证书有效期为90天，您需要在此之前进行续期。
+    *   执行续期脚本即可，此过程不会停止您的服务：
+        ```bash
+        chmod +x renew-cert.sh
+        ./renew-cert.sh your-cn-domain.com
+        ```
+    *   建议您设置一个 Cron Job 来自动执行此命令。
+
+7.  **配置AdGuardHome**:
     *   首次启动后，访问 `http://<您的国内VPS_IP>:3000` 进行初始化设置。
     *   在"上游DNS服务器"处填写 `172.16.232.2:5353` (即SmartDNS在内部Docker网络中的地址)。
     *   在"DNS服务器"处，AdGuardHome会监听 `172.16.232.4`，这是正确的。
     *   完成向导。
 
-7.  **验证**:
+8.  **验证**:
     *   在您的**海外VPS**上，执行 `curl -v https://<您的国内DoH域名>/dns-query`。如果配置正确，应能看到来自OpenResty的响应和有效的SSL证书信息。
     *   检查各容器日志确保无异常：`docker-compose logs -f`。 

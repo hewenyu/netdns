@@ -51,15 +51,24 @@
         ```
     *   请确保您的VPS防火墙已放行 `80` 和 `443` 端口。
 
-6.  **配置AdGuardHome**:
+6.  **证书续期**:
+    *   Let's Encrypt 证书有效期为90天，您需要在此之前进行续期。
+    *   执行续期脚本即可，此过程不会停止您的服务：
+        ```bash
+        chmod +x renew-cert.sh
+        ./renew-cert.sh your-overseas-domain.com
+        ```
+    *   建议您设置一个 Cron Job 来自动执行此命令。
+
+7.  **配置AdGuardHome**:
     *   首次启动后，访问 `http://<您的海外VPS_IP>:3001` 进行初始化设置。
     *   在"上游DNS服务器"处填写 `172.16.233.3` (即MosDNS在内部Docker网络中的地址)。
     *   完成向导。
 
-7.  **终端用户配置**:
+8.  **终端用户配置**:
     *   所有配置完成后，您需要提供给最终用户的DoH地址为：`https://<您的海外域名>/dns-query`。
     *   将此地址配置到路由器、浏览器或操作系统中，即可开始使用。
 
-8.  **验证**:
+9.  **验证**:
     *   执行 `nslookup qq.com https://<您的海外域名>/dns-query` 和 `nslookup google.com https://<您的海外域名>/dns-query`，检查返回的IP地址是否符合预期（国内/国外）。
     *   检查各容器日志确保无异常：`docker-compose logs -f`。 
