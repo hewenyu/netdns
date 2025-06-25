@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 20 * * *' # 每天 UTC 时间 20:00 (北京时间 04:00) 执行
 
+permissions:
+  contents: write
+
 jobs:
   update-rules:
     runs-on: ubuntu-latest

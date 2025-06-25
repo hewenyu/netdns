@@ -41,7 +41,7 @@ echo "正在更新 MosDNS 的国内上游DoH域名为: $CN_DOH_DOMAIN"
 sed -i.bak "s/$MOSDNS_PLACEHOLDER/$CN_DOH_DOMAIN/g" "$MOSDNS_CONFIG"
 
 echo "正在更新 Compose 文件中的域名为: $OVERSEAS_DOMAIN"
-sed -i.bak "s/$OVERSEAS_PLACEHOLDER/$OVERSEAS_DOMAIN/g" "$COMPOSE_FILE"
+sed -i.bak "s/$OPENRESTY_PLACEHOLDER/$OVERSEAS_DOMAIN/g" "$COMPOSE_FILE"
 
 
 echo "域名更新完成。"
