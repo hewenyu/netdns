@@ -13,6 +13,8 @@ services:
     networks:
       netdns-overseas:
         ipv4_address: 172.16.233.5
+    extra_hosts:
+      - "YOUR_OVERSEAS_DOMAIN.COM:172.16.233.4"
     depends_on:
       - adguardhome
     labels:
