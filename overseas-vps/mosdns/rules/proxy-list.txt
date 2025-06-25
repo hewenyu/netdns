@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1143,7 +1143,6 @@ airhorn.solutions
 airhornbot.com
 airiti.com
 airitilibrary.com
-airle.com.fj
 airmax360.com
 airmay.com
 airport-gov-cn.com
@@ -1181,6 +1180,7 @@ airwick.fr
 airwick.hr
 airwick.hu
 airwick.ie
+airwick.it
 airwick.jp
 airwick.net
 airwick.nl
@@ -1965,7 +1965,6 @@ apple.co.mz
 apple.co.nz
 apple.co.th
 apple.co.uk
-apple.coe.net
 apple.com
 apple.com.af
 apple.com.au
@@ -1976,6 +1975,7 @@ apple.com.de
 apple.com.do
 apple.com.gr
 apple.com.gy
+apple.com.jm
 apple.com.lk
 apple.com.mg
 apple.com.mx
@@ -12239,7 +12239,6 @@ goodtv.com.tw
 goodtv.tv
 goofind.com
 goog
-goog000webhost.com
 googel.com
 googil.com
 googl.com
@@ -17236,7 +17235,6 @@ m-power.com
 m-rhex.ac.uk
 m-team.cc
 m.hkgalden.com
-m.jm
 m.me
 m.moegirl.org
 m12.vc
@@ -19005,7 +19003,6 @@ mushroomtrack.com
 mushymush.tv
 music-research.ac.uk
 musicade.net
-musicadwick.it
 musical.ly
 musicandphilosophy.ac.uk
 musicbay.net
