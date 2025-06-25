@@ -53,7 +53,11 @@
         chmod +x renew-cert.sh
         ./renew-cert.sh your-cn-domain.com
         ```
-    *   建议您设置一个 Cron Job 来自动执行此命令。
+    *   建议您设置一个 Cron Job 来自动执行此命令。例如，执行 `crontab -e` 添加以下行，即可每天凌晨3点检查续期：
+        ```cron
+        0 3 * * * cd /path/to/netdns/domestic-vps && /bin/bash ./renew-cert.sh your-cn-domain.com >> /path/to/netdns/cert-renewal.log 2>&1
+        ```
+        **注意**: 请务必将 `/path/to/netdns/` 替换为您项目存放的绝对路径。
 
 7.  **配置AdGuardHome**:
     *   首次启动后，访问 `http://<您的国内VPS_IP>:3000` 进行初始化设置。
