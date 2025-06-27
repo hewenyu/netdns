@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -1142,7 +1143,6 @@ airhorn.solutions
 airhornbot.com
 airiti.com
 airitilibrary.com
-airmag.com
 airmax360.com
 airmay.com
 airport-gov-cn.com
@@ -1180,6 +1180,7 @@ airwick.fr
 airwick.hr
 airwick.hu
 airwick.ie
+airwick.it
 airwick.jp
 airwick.net
 airwick.nl
@@ -2239,7 +2240,6 @@ apps.evozi.com
 apps5.oingo.com
 appsflayer.com
 appshopper.com
-appshopperle.com.fj
 appsocks.net
 appsonebay.net
 appspot.com
@@ -3032,7 +3032,6 @@ bams.ac.uk
 bamtoki.com
 banan.tv
 banana-vpn.com
-banapplecensorship.com
 banatfun.com
 banbury-bicester.ac.uk
 banbury-college.ac.uk
@@ -3046,6 +3045,7 @@ bandpage.com
 bandpcoll.ac.uk
 bandwagonhost.com
 banff-buchan.ac.uk
+bang-movies.com
 bangbros.com
 bangbrosnetwork.com
 bangchen.net
@@ -6016,7 +6016,6 @@ chemnetbase.com
 chemreact.ac.uk
 chenel.ac.uk
 chengjuanseo.com
-chengming000webhost.com
 chengmingmag.com
 chengrendouyin-app.com
 chengrenshipin-app.com
@@ -6048,7 +6047,6 @@ chianxv.buzz
 chibabank.co.jp
 chibakogyo-bank.co.jp
 chicagolandbmw.com
-chicagoncmtv.com
 chichester.ac.uk
 chichestercollegegroup.ac.uk
 chickstagram.com
@@ -10738,8 +10736,6 @@ freefacebookads.net
 freefblikes.com
 freefbx.com
 freeforums.org
-freefq.com
-freefuckvids.com
 freegao.com
 freegaypornhdtube.com
 freegaysexgames.com
@@ -11568,7 +11564,6 @@ fxporn.net
 fzdm.com
 fzdshare.net
 g-area.org
-g-movies.com
 g-queen.com
 g-technology.com
 g-tun.com
@@ -12508,7 +12503,6 @@ googlevideo.com
 googleweblight.com
 googlezip.net
 googlr.com
-googwick.it
 goole-college.ac.uk
 goolge.com
 gooogle.com
@@ -17234,7 +17228,6 @@ lyzsxx.com
 lz.ac.uk
 lzjscript.com
 lzmtnews.org
-m
 m-power.com
 m-rhex.ac.uk
 m-team.cc
@@ -22966,6 +22959,7 @@ radiotavisupleba.ge
 radiovaticana.org
 radiovncr.com
 radiyoyacuvoa.com
+radmin-vpn.com
 rae.ac.uk
 rael.org
 raft.ac.uk
@@ -25856,7 +25850,6 @@ sth-leic-coll.ac.uk
 stheadline.com
 sthelens.ac.uk
 sthelensacl.ac.uk
-sthoo.co.com
 sthoo.com
 stickam.com
 stickeraction.com
