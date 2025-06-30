@@ -1,9 +1,8 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -733,11 +732,11 @@
 0757p.com
 0757rc.com
 0758net.com
-0759.pw
 0759home.com
 0759job.com
 0759k.com
 0759yc.com
+075full:265.com
 0760.com
 0760bw.com
 0760rc.com
@@ -954,6 +953,7 @@
 0snd.cc
 0u.com
 0voice.com
+0vr.com
 0x3.com
 0x3.me
 0x5.me
@@ -1100,7 +1100,6 @@
 100tv.com
 100txy.com
 100u.com
-100vr.com
 100wa.com
 100web.store
 100weidu.com
@@ -1182,6 +1181,7 @@
 109ya.com
 10bests.com
 10fang.com
+10full:a1.mzstatic.com
 10futu.com
 10gjkj.com
 10gt.com
@@ -1846,6 +1846,7 @@
 163mail.net
 163nos.com
 163ns.com
+163pinglun.com
 163py.com
 163qb.com
 163qikanlunwen.com
@@ -2526,7 +2527,6 @@
 1foo.com
 1fooai.com
 1fqw.com
-1full:a1.mzstatic.com
 1g31.com
 1gaifang.com
 1gbru.com
@@ -3374,7 +3374,7 @@
 2lian.com
 2liang.net
 2ll.co
-2loveyou.cre.storeimages.apple.com.akadns.net
+2loveyou.com
 2lvj.com
 2m2j.com
 2m3m.com
@@ -8675,6 +8675,7 @@
 9-xin.com
 9-zhuce.com
 9.biz
+9.pw
 900.la
 900.vc
 9000wy.com
@@ -38008,7 +38009,6 @@ full:staging.databe.floonet.goog
 full:static-login.gog-statics.com
 full:static.gc.apple.com
 full:statics.teams.cdn.office.net
-full:sto63pinglun.com
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:stocks-sparkline.apple.com
 full:store.apple.com
@@ -76412,7 +76412,6 @@ olymtech.com
 olymvax.com
 olys88.com
 olzz.com
-om
 omacloud.com
 omanlin.com
 omarea.com
