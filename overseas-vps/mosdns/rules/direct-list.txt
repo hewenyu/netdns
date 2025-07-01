@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -732,11 +733,11 @@
 0757p.com
 0757rc.com
 0758net.com
+0759.pw
 0759home.com
 0759job.com
 0759k.com
 0759yc.com
-075full:265.com
 0760.com
 0760bw.com
 0760rc.com
@@ -953,7 +954,6 @@
 0snd.cc
 0u.com
 0voice.com
-0vr.com
 0x3.com
 0x3.me
 0x5.me
@@ -1100,6 +1100,7 @@
 100tv.com
 100txy.com
 100u.com
+100vr.com
 100wa.com
 100web.store
 100weidu.com
@@ -1181,7 +1182,6 @@
 109ya.com
 10bests.com
 10fang.com
-10full:a1.mzstatic.com
 10futu.com
 10gjkj.com
 10gt.com
@@ -8675,7 +8675,6 @@
 9-xin.com
 9-zhuce.com
 9.biz
-9.pw
 900.la
 900.vc
 9000wy.com
