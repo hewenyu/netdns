@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -915,7 +916,7 @@ adobetag.com
 adobetarget.com
 adobetcstrialdvd.com
 adobetechcomm.com
-adobetechcommcallback.c000webhost.com
+adobetechcommcallback.com
 adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
@@ -1480,7 +1481,6 @@ alzheimers.ac.uk
 am730.com.hk
 amaaozn.com
 amabitch.com
-amag.com
 amakings.com
 amamanualofstyle.com
 amandalist.com
@@ -1708,6 +1708,7 @@ anfutong.com
 angel-gto.com
 angel.ac.uk
 angela-merkel.de
+angelbeats.jp
 angelfire.com
 angelweb.jp
 anglia-polytechnic.ac.uk
@@ -2523,7 +2524,7 @@ att.com
 att.jobs
 att.net
 att.tv
-attackers.ogle.com.gi
+attackers.net
 attalascom.com
 attbelieves.com
 attbusiness.net
@@ -3031,7 +3032,6 @@ bams.ac.uk
 bamtoki.com
 banan.tv
 banana-vpn.com
-banatch.com
 banatfun.com
 banbury-bicester.ac.uk
 banbury-college.ac.uk
@@ -3045,6 +3045,7 @@ bandpage.com
 bandpcoll.ac.uk
 bandwagonhost.com
 banff-buchan.ac.uk
+bang-movies.com
 bangbros.com
 bangbrosnetwork.com
 bangchen.net
@@ -4005,7 +4006,7 @@ blackvpn.com
 blake.ac.uk
 blaoshi.cc
 blazor.net
-blc.ac.uk.com
+blc.ac.uk
 ble.ac.uk
 blend-ed.ac.uk
 blender.org
@@ -6016,7 +6017,6 @@ chemreact.ac.uk
 chenel.ac.uk
 chengjuanseo.com
 chengmingmag.com
-chengmingom
 chengrendouyin-app.com
 chengrenshipin-app.com
 chenguangcheng.com
@@ -12226,7 +12226,6 @@ goldvip.cyou
 goldwave.com
 golos-ameriki.ru
 golosameriki.com
-gongelbeats.jp
 gongkou-cc.sbs
 gonglchuangl.net
 gongm.in
@@ -13403,7 +13402,6 @@ hindawi.com
 hindiweb.com
 hindustantimes.com
 hinet.net
-hip.com
 hipaa6020.com
 hiperduct.ac.uk
 hiporn.net
@@ -15554,7 +15552,6 @@ java
 java.com
 java.net
 javakiba.org
-javapplecensorship.com
 javbabe.net
 javbangers.com
 javbest.tv
@@ -19031,7 +19028,6 @@ musiche.ac.uk
 musickit.net
 musiconline.ac.uk
 musixmatch.com
-musixmnet
 muslimcollege.ac.uk
 muslimvideo.com
 mut.ch
@@ -25875,7 +25871,6 @@ stheadline.com
 sthelens.ac.uk
 sthelensacl.ac.uk
 sthoo.com
-sthoog-movies.com
 stickam.com
 stickeraction.com
 stickofjoy.com
