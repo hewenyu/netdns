@@ -12165,7 +12165,6 @@ go4uni.ac.uk
 go5.dev
 goagent.biz
 goals.ac.uk
-goapplecensorship.com
 gobeatsye.com
 gobianywhere.com
 gobuildx.net
@@ -20763,7 +20762,6 @@ ogameblog.com
 ogaoga.org
 ogate.org
 oge.ac.uk
-ogle.com.gi
 ogp.me
 ogsa-dai.ac.uk
 ohentai.org
