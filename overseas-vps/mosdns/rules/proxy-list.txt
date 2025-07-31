@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1965,7 +1965,6 @@ apple.co.mz
 apple.co.nz
 apple.co.th
 apple.co.uk
-apple.co000webhost.com
 apple.com
 apple.com.af
 apple.com.au
@@ -1976,6 +1975,7 @@ apple.com.de
 apple.com.do
 apple.com.gr
 apple.com.gy
+apple.com.jm
 apple.com.lk
 apple.com.mg
 apple.com.mx
@@ -2878,7 +2878,6 @@ awwcn.xyz
 axbdoll.com.tw
 axios.com
 axureformac.com
-ay.info
 ayabank.com
 aylesbury.ac.uk
 ayrcoll.ac.uk
@@ -4007,7 +4006,7 @@ blackvpn.com
 blake.ac.uk
 blaoshi.cc
 blazor.net
-blc.ac.ukogle.com.gi
+blc.ac.uk
 ble.ac.uk
 blend-ed.ac.uk
 blender.org
@@ -6124,7 +6123,7 @@ chinaview.wordpress.com
 chinaway.org
 chinaworker.info
 chinayouth.org.hk
-chinchuqi-ade.net
+chinchuqi-av.lat
 chinese-empires.ac.uk
 chinese-leaders.org
 chinese-memorial.org
@@ -7187,8 +7186,8 @@ cwcfe.ac.uk
 cwrc.ac.uk
 cws.ac.uk
 cy22.tv
+cyber-bay.info
 cyber-bay.org
-cyber-bered.com
 cyber-college.ac.uk
 cyberghost.natado.com
 cyberghostvpn.com
@@ -12227,7 +12226,6 @@ goldvip.cyou
 goldwave.com
 golos-ameriki.ru
 golosameriki.com
-gom.jm
 gongkou-cc.sbs
 gonglchuangl.net
 gongm.in
@@ -19021,7 +19019,6 @@ museumofwriting.ac.uk
 museumwales.ac.uk
 mushroomtrack.com
 mushymush.tv
-music
 music-research.ac.uk
 musicade.net
 musical.ly
@@ -25860,7 +25857,6 @@ stemequals.ac.uk
 stepchina.com
 stepdaughter.love
 stepfamilyporn.com
-stephaniav.lat
 stephaniered.com
 stephenson.ac.uk
 stephensoncoll.ac.uk
