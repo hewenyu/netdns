@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -30099,6 +30099,8 @@ wwwpornhub.pro
 wwwwebay.com
 wwwxoom.com
 wxoyt.com
+wxw.cat
+wxw.moe
 wyams.ac.uk
 wyke.ac.uk
 wylln.ac.uk
