@@ -68647,7 +68647,6 @@ maxfor-tool.com
 maxgj.net
 maxhub.com
 maxhub.vip
-maxi.com
 maxiang.info
 maxiang.io
 maxiaobang.com
@@ -70203,7 +70202,6 @@ minidaxue.com
 minidso.com
 minieye.cc
 minieye.tech
-minifull:a1.mzstatic.com
 minigameam.com
 minigui.com
 minigui.org
@@ -70211,6 +70209,7 @@ minihaowan.com
 miniluck.com
 minimaituan.com
 minimax.chat
+minimaxi.com
 mining120.com
 mininglamp.com
 minip-service.com
