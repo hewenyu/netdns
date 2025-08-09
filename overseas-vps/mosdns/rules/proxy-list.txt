@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -2878,6 +2878,7 @@ awwcn.xyz
 axbdoll.com.tw
 axios.com
 axureformac.com
+ay.info
 ayabank.com
 aylesbury.ac.uk
 ayrcoll.ac.uk
@@ -6672,6 +6673,7 @@ colombianas.webcam
 colorfulstage.com
 colorprotechnology.com
 colpet.ac.uk
+com
 combinedhonours.ac.uk
 comdotgame.com
 come29.xyz
@@ -7186,7 +7188,7 @@ cwcfe.ac.uk
 cwrc.ac.uk
 cws.ac.uk
 cy22.tv
-cyber-bay.info
+cyber-b000webhost.com
 cyber-bay.org
 cyber-college.ac.uk
 cyberghost.natado.com
@@ -15588,6 +15590,7 @@ javfull.net
 javfun.me
 javfv.com
 javgg.net
+javgoogle.com.fj
 javgrown.com
 javhard.net
 javhard.org
@@ -18855,7 +18858,7 @@ moviepost.com
 moviesanywhere.com
 moviesarena.com
 moviesfree4u.xyz
-moviesneek.com
+moviesneek.pload.com
 movinghistory.ac.uk
 movingmedicine.ac.uk
 mox.moe
@@ -19003,6 +19006,7 @@ multicurrencycashpassport.com
 multiply.com
 multiplydiversity.com
 multiproxy.org
+multiuhip.com
 multiupload.com
 multporn.net
 mummysgold.com
@@ -28137,6 +28141,7 @@ uol.ac.uk
 uos.ac.uk
 up01.cc
 upa.ac.uk
+upbit.com
 update.crashlytics.com
 updates.ac.uk
 updates.tdesktop.com
@@ -30055,7 +30060,6 @@ www.monlamit.org
 www.moztw.org
 www.msn.com
 www.nbc.com
-www.nodeloc.com
 www.owind.com
 www.oxid.it
 www.powerpointninja.com
