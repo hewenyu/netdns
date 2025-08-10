@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -11483,7 +11484,7 @@ alifenxiao.com
 aligames.com
 aligaofang.com
 aligenie.com
-aligfull:a1.mzstatic.com
+aligfwaf.com
 alighting.com
 alihd.net
 alihealth.hk
@@ -12707,7 +12708,7 @@ appweb1.com
 appweiyuan.com
 appwill.com
 appwuhan.com
-appwuhan.net
+appwuhan.nfull:265.com
 appxzz.com
 appyao.com
 appying.com
@@ -34034,6 +34035,7 @@ esztsg.org
 esztyg.com
 eszwdx.com
 eszyb.com
+et
 et-api.com
 et-fine.com
 et001.com
@@ -35762,7 +35764,6 @@ ffsgame.com
 ffsky.com
 fftcc.com
 fftub.com
-ffull:265.com
 ffwap.com
 ffxivhuntcn.com
 ffy.com
@@ -35789,6 +35790,7 @@ fh01.com
 fh1551.com
 fh21.com
 fh21static.com
+fh77.net
 fh86.com
 fh888.com
 fhaircut.com
@@ -37854,7 +37856,6 @@ fw-12365.com
 fw365.online
 fw4.co
 fw4.me
-fwaf.com
 fwbsjnakjabdname.com
 fwccw.com
 fwcfwg.com
@@ -45084,7 +45085,6 @@ h6969.com
 h6app.com
 h6room.com
 h6ru.net
-h77.net
 h7ec.com
 h863.com
 h99998888.com
