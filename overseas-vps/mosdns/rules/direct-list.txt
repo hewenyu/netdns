@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -12708,7 +12708,7 @@ appweb1.com
 appweiyuan.com
 appwill.com
 appwuhan.com
-appwuhan.nfull:265.com
+appwuhan.net
 appxzz.com
 appyao.com
 appying.com
@@ -34035,7 +34035,6 @@ esztsg.org
 esztyg.com
 eszwdx.com
 eszyb.com
-et
 et-api.com
 et-fine.com
 et001.com
