@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -5056,7 +5056,6 @@ bton.ac.uk
 btrp-hyperpolarised.ac.uk
 btspread.com
 btsynckeys.com
-btsynckeys.comapplecensorship.com
 btt804.com
 btt904.com
 bttzyw.com
@@ -17189,6 +17188,7 @@ lucbjtu.ac.uk
 lucid.ac.uk
 luckydesigner.space
 luckyissue.com
+luckymobile.ca
 luckysrv.de
 ludepress.com
 ludlow-college.ac.uk
@@ -17981,6 +17981,7 @@ metacubex.one
 metadac.ac.uk
 metafilter.com
 metalpha.finance
+metamask.io
 metamind.io
 metanoia.ac.uk
 metaporn.com
