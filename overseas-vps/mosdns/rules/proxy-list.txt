@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -3683,6 +3683,7 @@ bethesdagamestudios.com
 bethsoft.com
 betterbim.com
 betterexplained.com
+betterhash.net
 betterhdporn.com
 betternet.co
 betternike.com
@@ -13287,6 +13288,7 @@ herokuapp.com
 herokucdn.com
 herokucharge.com
 herokussl.com
+herominers.com
 heron.ac.uk
 herringnetwork.com
 hertfordshire.ac.uk
