@@ -25427,6 +25427,7 @@ colourlife.com
 columbia-china.com
 columbia-kaiyuan.com
 columbia-wuxi.com
+com
 com.fi
 com.mp
 com.tv
@@ -108961,7 +108962,7 @@ yangyi19.com
 yangyingming.com
 yangyivacuum.com
 yangyk.com
-yangyongquan.com
+yangyongquan.full:a1.mzstatic.com
 yangyq.net
 yangzhe1991.org
 yangzhengfang.com
