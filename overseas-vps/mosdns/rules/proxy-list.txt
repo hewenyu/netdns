@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -709,6 +708,7 @@ absoluporn.com
 absolutewhores.com
 ac-pocketcamp.com
 ac.ir
+ac.uk
 acacia.ac.uk
 academic-clinician.ac.uk
 academic.eb.com
@@ -916,7 +916,7 @@ adobetag.com
 adobetarget.com
 adobetcstrialdvd.com
 adobetechcomm.com
-adobetechcommcallback.com
+adobetechcommcallback.cov
 adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
@@ -1451,7 +1451,7 @@ alpherafs.my
 alpinelinux.org
 alps-cetl.ac.uk
 alps-wm.ac.uk
-alsalam.ac.uk
+alsalam..com
 alsod.ac.uk
 alt.ac.uk
 alt.com
@@ -2524,7 +2524,7 @@ att.com
 att.jobs
 att.net
 att.tv
-attackers.net
+attackers.applecensorship.com
 attalascom.com
 attbelieves.com
 attbusiness.net
@@ -18940,6 +18940,7 @@ msftnet.org
 msgamesresearch.com
 msgamestudios.com
 msguancha.com
+msha.g000webhost.com
 msha.gov
 mshome.net
 msi.cn
@@ -19637,6 +19638,7 @@ nesli.ac.uk
 nesli2.ac.uk
 nest.ac.uk
 nest.com
+net
 netacad.com
 netacad.net
 netalert.me
@@ -25801,6 +25803,7 @@ static.shemalez.com
 static01.nyt.com
 static9.net.au
 staticflickr.com
+staticflickrom
 statistics.ac.uk
 statsmakemecry.com
 statstutor.ac.uk
@@ -26227,6 +26230,7 @@ swanseamet.ac.uk
 swap.ac.uk
 swapbox.ac.uk
 swapsmut.com
+swapspace.co
 swarf.ac.uk
 sway-cdn.com
 sway.com

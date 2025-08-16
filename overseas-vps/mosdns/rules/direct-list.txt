@@ -25427,7 +25427,6 @@ colourlife.com
 columbia-china.com
 columbia-kaiyuan.com
 columbia-wuxi.com
-com
 com.fi
 com.mp
 com.tv
@@ -29250,7 +29249,7 @@ desheng-school.com
 desheng.net
 deshengdachem.com
 deshenghonglan.com
-deshengzj.com
+deshengzj.cofull:a1.mzstatic.com
 deshicheng.com
 design-engine.org
 design006.com
@@ -30549,7 +30548,7 @@ dn8188.com
 dnake-park.com
 dnatupu.com
 dnbbn.com
-dnbbs.com
+dnbbre.storeimages.apple.com.akadns.net
 dnbiz.com
 dnc21.com
 dncable.com
@@ -37582,6 +37581,7 @@ full:static.gc.apple.com
 full:statics.teams.cdn.office.net
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:stocks-sparkline.apple.com
+full:stom
 full:store.apple.com
 full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
@@ -83569,6 +83569,7 @@ s-ts.net
 s-xsenyuan.com
 s-yue.com
 s-zone.com
+s.com
 s019.com
 s0599.com
 s10000.com
@@ -108962,7 +108963,7 @@ yangyi19.com
 yangyingming.com
 yangyivacuum.com
 yangyk.com
-yangyongquan.full:a1.mzstatic.com
+yangyongquan.com
 yangyq.net
 yangzhe1991.org
 yangzhengfang.com
