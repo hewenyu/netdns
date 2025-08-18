@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -4005,7 +4006,7 @@ blacktowhite.net
 blackvpn.com
 blake.ac.uk
 blaoshi.cc
-blazo000webhost.com
+blazor.net
 blc.ac.uk
 ble.ac.uk
 blend-ed.ac.uk
@@ -4135,7 +4136,6 @@ blogspot.td
 blogspot.tw
 blogspot.ug
 blogspot.vn
-blogspotr.net
 blogtd.org
 blogterest.net
 bloodshed.net
@@ -5056,7 +5056,6 @@ btku.org
 bton.ac.uk
 btrp-hyperpolarised.ac.uk
 btspread.com
-btspread.com.ba
 btsynckeys.com
 btt804.com
 btt904.com
@@ -5772,7 +5771,6 @@ cdninstagram.com
 cdnjs.com
 cdnlab.live
 cdnpure.com
-cdonalds.co.nz
 cdp1989.org
 cdp1998.org
 cdp2006.org
@@ -7188,6 +7186,7 @@ cwcams.com
 cwcfe.ac.uk
 cwrc.ac.uk
 cws.ac.uk
+cy22.tv
 cyber-bay.info
 cyber-bay.org
 cyber-college.ac.uk
@@ -11767,7 +11766,6 @@ gcs.ac.uk
 gcsp.ac.uk
 gcu.ac.uk
 gculondon.ac.uk
-gcy22.tv
 gda.ac.uk
 gdaily.org
 gdansk-amazon.com
@@ -12120,6 +12118,7 @@ gloucestershirecollege.ac.uk
 gloucestershirecolleges.ac.uk
 gloucestershirelaunchpad.ac.uk
 gloucs.ac.uk
+glovitas.ac.uk
 glow.ac.uk
 glsms.ac.uk
 gltc.ac.uk
@@ -14396,7 +14395,7 @@ ieee-pels.org
 ieee-pes.org
 ieee-ras.org
 ieee-region6.org
-ieee-sensors.orgov
+ieee-sensors.org
 ieee-tems.org
 ieee-uffc.org
 ieee-vics.org
@@ -17256,7 +17255,6 @@ lzmtnews.org
 m-power.com
 m-rhex.ac.uk
 m-team.cc
-m.com
 m.hkgalden.com
 m.me
 m.moegirl.org
@@ -17799,6 +17797,7 @@ mcdonalds.ca
 mcdonalds.co.id
 mcdonalds.co.jp
 mcdonalds.co.kr
+mcdonalds.co.nz
 mcdonalds.co.uk
 mcdonalds.com
 mcdonalds.com.au
@@ -18941,7 +18940,6 @@ msftnet.org
 msgamesresearch.com
 msgamestudios.com
 msguancha.com
-msha.glovitas.ac.uk
 msha.gov
 mshome.net
 msi.cn
@@ -25798,7 +25796,6 @@ stat.gov.tw
 stateofthemap.com
 stateofthemap.org
 static-cisco.com
-static-economist
 static-economist.com
 static-nike.com
 static-verizon.com
