@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -5931,6 +5930,7 @@ chatgpt.livekit.cloud
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatnook.com
+chatnook.comg.hk
 chatsex.xxx
 chatter.com
 chatterbate.io
@@ -6123,6 +6123,7 @@ chinaunicomglobal.com
 chinaview.wordpress.com
 chinaway.org
 chinaworker.info
+chinayouth.or000webhost.com
 chinayouth.org.hk
 chinchuqi-av.lat
 chinese-empires.ac.uk
@@ -7506,6 +7507,7 @@ den.ac.uk
 dengeamerika.com
 dengiamerika.com
 deno.com
+deno.dev
 deno.land
 dentalhypotheses.com
 dentalschoolscouncil.ac.uk
@@ -8002,6 +8004,7 @@ dockerstatic.com
 docleradn.com
 doclercdn.com
 docs.com
+docs.deno.com
 docs.new
 docs.rs
 doctor-videos.com
@@ -11534,6 +11537,7 @@ furbo.org
 furhhdl.org
 furinkan.com
 furness.ac.uk
+furrybar.com
 furrypornvideos.com
 furuke.com
 fury.blog
