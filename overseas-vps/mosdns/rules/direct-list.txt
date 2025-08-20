@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -1097,7 +1097,7 @@
 100yiyao.net
 100zd.com
 100zhuang.com
-100zhuoyue.com
+100zhuoyue.comfull:a1.mzstatic.com
 100zp.com
 101.com
 10100.com
@@ -71943,8 +71943,6 @@ mypharma.com
 mypian.com
 mypiao.com
 mypiaojia.com
-mypikpak.com
-mypikpak.net
 mypitaya.com
 mypity.com
 mypiwik.com
@@ -72211,7 +72209,6 @@ naitta.com
 naiveadmin.com
 naiveblue.com
 naiwch.com
-naixi.net
 naixuecha.com
 naiyouxuexi.com
 najingtech.com
@@ -98068,7 +98065,6 @@ ustarl.com
 ustbtc.com
 ustc.edu
 ustcers.com
-ustclug.org
 ustui.com
 usuredata.com
 usuuu.com
@@ -105323,7 +105319,6 @@ xiaomei.cc
 xiaomeiti.com
 xiaomeng1235.com
 xiaomi.com
-xiaomi.eu
 xiaomi.hk
 xiaomi.net
 xiaomi.org
@@ -107109,6 +107104,7 @@ xn--4xup5j.com
 xn--54q23ckxiyx0e.com
 xn--54q249denfzw9a.net
 xn--54q40czz0g7xp.com
+xn--55qw42g
 xn--55qw7biqf7g3d004h8yuw1ctrt04sep1cjfb.com
 xn--55qwa79fh6ku8czve.com
 xn--55qx2ag79c1iq.com

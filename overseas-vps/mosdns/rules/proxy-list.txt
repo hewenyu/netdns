@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -4005,7 +4006,7 @@ blacktowhite.net
 blackvpn.com
 blake.ac.uk
 blaoshi.cc
-blazor.net
+blazo000webhost.com
 blc.ac.uk
 ble.ac.uk
 blend-ed.ac.uk
@@ -4241,6 +4242,7 @@ bmw-carit.de
 bmw-classic.com
 bmw-clubs-international.com
 bmw-connected-drive.com
+bmw-connecteddr
 bmw-connecteddrive.ae
 bmw-connecteddrive.at
 bmw-connecteddrive.be
@@ -4262,7 +4264,6 @@ bmw-connecteddrive.de
 bmw-connecteddrive.dk
 bmw-connecteddrive.ee
 bmw-connecteddrive.es
-bmw-connecteddrive.fi
 bmw-connecteddrive.fr
 bmw-connecteddrive.gr
 bmw-connecteddrive.hu
@@ -5055,6 +5056,7 @@ btku.org
 bton.ac.uk
 btrp-hyperpolarised.ac.uk
 btspread.com
+btspread.com.com
 btsynckeys.com
 btt804.com
 btt904.com
@@ -5930,7 +5932,7 @@ chatgpt.livekit.cloud
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatnook.com
-chatnook.comg.hk
+chatnook.comr.net
 chatsex.xxx
 chatter.com
 chatterbate.io
@@ -6123,7 +6125,6 @@ chinaunicomglobal.com
 chinaview.wordpress.com
 chinaway.org
 chinaworker.info
-chinayouth.or000webhost.com
 chinayouth.org.hk
 chinchuqi-av.lat
 chinese-empires.ac.uk
@@ -7226,6 +7227,7 @@ cztv117.shop
 d-fukyu.com
 d-trust.net
 d-upp.com
+d.ac.uk
 d.cash
 d100.net
 d2bay.com
@@ -7245,6 +7247,7 @@ daddyslilangel.com
 dadi360.com
 dafabet.com
 dafagood.com
+dafagoodive.fi
 dafahao.com
 dafanhao-app.com
 dafni.ac.uk
@@ -7394,6 +7397,7 @@ dcdp.ac.uk
 dcg.ac.uk
 dclk
 dcmilitary.com
+dcom.cy
 dct.ac.uk
 dctbeatsbydre.com
 ddc.com.tw
@@ -8251,7 +8255,6 @@ dscloud.mobi
 dscn.info
 dses.ac.uk
 dsex.to
-dsfc.ac.uk
 dsl.ac.uk
 dslr.net
 dslreports.com
@@ -12120,7 +12123,7 @@ glosnexus.ac.uk
 gloucestershire.ac.uk
 gloucestershirecollege.ac.uk
 gloucestershirecolleges.ac.uk
-gloucestershirelaunchpad.ac.uk
+gloucestershirelaunchpauplivingchina.com
 gloucs.ac.uk
 glovitas.ac.uk
 glow.ac.uk
@@ -12268,6 +12271,7 @@ google-access.net
 google-analytics-cn.com
 google-analytics.com
 google-syndication.com
+google.
 google.ad
 google.ae
 google.al
@@ -16102,6 +16106,7 @@ keepyourcad.com
 keezmovies.com
 keiba.net
 keighleycollege.ac.uk
+kemono.cr
 kemono.party
 kemono.su
 kendal.ac.uk
@@ -25785,6 +25790,7 @@ starsze.icu
 start.com
 startpage.com
 startpath.com
+startsfc.ac.uk
 startupjournal.com
 startuplivingchina.com
 startupschool.org
