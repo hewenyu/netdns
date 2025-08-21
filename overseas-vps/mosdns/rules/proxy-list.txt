@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -4006,7 +4006,7 @@ blacktowhite.net
 blackvpn.com
 blake.ac.uk
 blaoshi.cc
-blazo000webhost.com
+blazor.net
 blc.ac.uk
 ble.ac.uk
 blend-ed.ac.uk
@@ -4242,7 +4242,6 @@ bmw-carit.de
 bmw-classic.com
 bmw-clubs-international.com
 bmw-connected-drive.com
-bmw-connecteddr
 bmw-connecteddrive.ae
 bmw-connecteddrive.at
 bmw-connecteddrive.be
@@ -4264,6 +4263,7 @@ bmw-connecteddrive.de
 bmw-connecteddrive.dk
 bmw-connecteddrive.ee
 bmw-connecteddrive.es
+bmw-connecteddrive.fi
 bmw-connecteddrive.fr
 bmw-connecteddrive.gr
 bmw-connecteddrive.hu
@@ -5056,7 +5056,6 @@ btku.org
 bton.ac.uk
 btrp-hyperpolarised.ac.uk
 btspread.com
-btspread.com.com
 btsynckeys.com
 btt804.com
 btt904.com
@@ -5932,7 +5931,6 @@ chatgpt.livekit.cloud
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatnook.com
-chatnook.comr.net
 chatsex.xxx
 chatter.com
 chatterbate.io
@@ -7227,7 +7225,6 @@ cztv117.shop
 d-fukyu.com
 d-trust.net
 d-upp.com
-d.ac.uk
 d.cash
 d100.net
 d2bay.com
@@ -7247,7 +7244,6 @@ daddyslilangel.com
 dadi360.com
 dafabet.com
 dafagood.com
-dafagoodive.fi
 dafahao.com
 dafanhao-app.com
 dafni.ac.uk
@@ -7397,7 +7393,6 @@ dcdp.ac.uk
 dcg.ac.uk
 dclk
 dcmilitary.com
-dcom.cy
 dct.ac.uk
 dctbeatsbydre.com
 ddc.com.tw
@@ -8255,6 +8250,7 @@ dscloud.mobi
 dscn.info
 dses.ac.uk
 dsex.to
+dsfc.ac.uk
 dsl.ac.uk
 dslr.net
 dslreports.com
@@ -11954,6 +11950,7 @@ ggpds.com
 ggpht.com
 ggsrv.com
 ggssl.com
+gh.io
 ghbi.ir
 ghcr.io
 ghettotube.com
@@ -12123,7 +12120,7 @@ glosnexus.ac.uk
 gloucestershire.ac.uk
 gloucestershirecollege.ac.uk
 gloucestershirecolleges.ac.uk
-gloucestershirelaunchpauplivingchina.com
+gloucestershirelaunchpad.ac.uk
 gloucs.ac.uk
 glovitas.ac.uk
 glow.ac.uk
@@ -12271,7 +12268,6 @@ google-access.net
 google-analytics-cn.com
 google-analytics.com
 google-syndication.com
-google.
 google.ad
 google.ae
 google.al
@@ -25790,7 +25786,6 @@ starsze.icu
 start.com
 startpage.com
 startpath.com
-startsfc.ac.uk
 startupjournal.com
 startuplivingchina.com
 startupschool.org
@@ -27906,6 +27901,7 @@ udn.com.tw
 udnbkk.com
 udndata.com
 udnfunlife.com
+udomain.hk
 udtrucksmeena.com
 uea.ac.uk
 ueberamazon.de
