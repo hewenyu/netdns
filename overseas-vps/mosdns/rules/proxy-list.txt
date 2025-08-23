@@ -6862,6 +6862,7 @@ courtauld.ac.uk
 cov.ac.uk
 covcollege.ac.uk
 cove4careinkent.ac.uk
+covenantswatch.org.tw
 coventry.ac.uk
 coventrycollege.ac.uk
 coventryuniversity.ac.uk
@@ -12334,6 +12335,7 @@ google.com.bo
 google.com.br
 google.com.bz
 google.com.co
+google.com.coapplecensorship.com
 google.com.cu
 google.com.cy
 google.com.do
