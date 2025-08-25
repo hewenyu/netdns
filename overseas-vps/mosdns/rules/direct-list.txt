@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -8667,7 +8667,7 @@
 91danji.com
 91datong.com
 91dba.com
-91dbb.com
+91dbb.cofull:a1.mzstatic.com
 91dbq.com
 91ddcc.com
 91ddedu.com
@@ -67880,6 +67880,7 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
+m
 m-edu.com
 m-finder.com
 m-hero.com
