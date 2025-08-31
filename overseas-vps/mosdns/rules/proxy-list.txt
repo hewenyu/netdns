@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -650,7 +650,7 @@ abcheadphones.com
 abchinese.com
 abclider.com
 abcol.ac.uk
-abcolstu000webhost.com
+abcolstudents.ac.uk
 abdn-access-biomedical.ac.uk
 abdn-online.ac.uk
 abdn.ac.uk
@@ -916,8 +916,8 @@ adobestock.com
 adobetag.com
 adobetarget.com
 adobetcstrialdvd.com
-adobetechc
 adobetechcomm.com
+adobetechcommcallback.com
 adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
@@ -1857,7 +1857,6 @@ aopcuk.ac.uk
 aorus.com
 aoxx69.net
 aozorabank.co.jp
-ap
 ap-bangkok.myqcloud.com
 ap-bangkok.tencentcos.cn
 ap-bangkok.tencentcos.com
@@ -1923,7 +1922,6 @@ apisof.net
 apk.support
 apkcombo.com
 apkmirror.com
-apkmirror.comdents.ac.uk
 apkmonk.com
 apkplz.com
 apkpure.com
@@ -1964,6 +1962,7 @@ appdynamics.com
 appdynamics.de
 appdynamics.fr
 appdynamics.info
+appdynamics.jp
 appdynamics.org
 appe-store.com
 appexchange.com
@@ -4000,7 +3999,7 @@ bitcointalk.org
 bitcoinworld.com
 bite.ac.uk
 bitfinex.com
-bitflyer.coshr.ch
+bitflyer.com
 bitflyer.jp
 bitget.com
 bithumb.com
@@ -5987,7 +5986,6 @@ chatgpt.livekit.cloud
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatnook.com
-chatnook.comommcallback.com
 chatsex.xxx
 chatter.com
 chatterbate.io
@@ -6123,7 +6121,6 @@ chimeforchange.org
 china-autodesk.com
 china-facebook.com
 china-mmm.jp.net
-china-mmm.jpg
 china-mmm.net
 china-review.com.ua
 china-week.com
@@ -7175,7 +7172,6 @@ cuiweiping.net
 cukas.ac.uk
 culham.ac.uk
 cullenproject.ac.uk
-culpfortibet.org
 cultiva.ac.uk
 cultoferotica.com
 cultura-kolomna.ru
@@ -8333,7 +8329,6 @@ download.com
 download.qatp1.net
 downloadpass.com
 downloadsforipod.com
-dpdns.org
 dphk.org
 dpoc.ac.uk
 dpool.top
@@ -15399,7 +15394,6 @@ ipadmini.lk
 ipadpro.buzz
 ipcc-wg3.ac.uk
 ipdefenseforum.com
-ipdynamics.jp
 ipem.ac.uk
 ipfire.org
 ipforesightforum.ac.uk
@@ -24385,7 +24379,6 @@ scep.ac.uk
 scg.ac.uk
 scharferporno.com
 schema.org
-schema.orm
 schemer.com
 schiffvitamins.com
 schml.ac.uk
@@ -25954,7 +25947,6 @@ stamford.ac.uk
 stamfordparktrust.ac.uk
 standard.co.uk
 standardsuniversity.org
-standu.net
 standupfortibet.org
 standwithhk.org
 stanford.edu
@@ -27865,7 +27857,6 @@ turbogvideos.com
 turbohide.com
 turborepo.org
 turbulence.ac.uk
-ture.tw
 turing.ac.uk
 turingsafehaven.ac.uk
 turkeyblocks.org
