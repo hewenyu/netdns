@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1968,6 +1968,7 @@ appe-store.com
 appexchange.com
 appl-e.com
 appl.com
+appl.com.br
 appl4e.com
 appla.com
 apple
@@ -2236,7 +2237,6 @@ applestore.com.hk
 applestore.com.hr
 applestore.com.jo
 applestore.com.my
-applestore.com.ph
 applestore.com.pl
 applestore.com.pt
 applestore.com.ro
@@ -2509,7 +2509,7 @@ aspi.org.au
 aspire.ac.uk
 aspiretrainingteam.ac.uk
 aspistrategist.org.au
-aspnetcdn.com
+aspne
 asproex.com
 asproexapi.com
 asra.ac.uk
@@ -12692,6 +12692,7 @@ google.ventures
 google.vg
 google.vu
 google.ws
+google000webhost.com
 googleacquisitionmigration.com
 googleadservices-cn.com
 googleadservices.com
@@ -19121,6 +19122,7 @@ mpags.ac.uk
 mpese.ac.uk
 mpettis.com
 mpfinance.com
+mpfinance.comestore.com.ph
 mpinews.com
 mplstudios.com
 mpnevolution.com
@@ -26751,6 +26753,7 @@ tcat.ac.uk
 tcch.ac.uk
 tccr.ac.uk
 tccwonline.org
+tcdn.com
 tcewf.org
 tcg.ac.uk
 tchrd.org
