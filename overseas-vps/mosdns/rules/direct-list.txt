@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -19058,7 +19058,6 @@ case91.com
 casear.net
 casece.org
 casemic.com
-casfull:a1.mzstatic.com
 cashbackok.com
 cashbus.com
 cashcatads.com
@@ -19066,6 +19065,7 @@ cashtoutiao.com
 cashwaytech.com
 casia.com
 casibase.com
+casic-addsino.com
 casic-t.com
 casic.com
 casic304.com
@@ -52246,7 +52246,6 @@ ibuychem.com
 ibw.cc
 ibx8.com
 ibytedapm.com
-ic-addsino.com
 ic-captain.com
 ic-king.com
 ic-ldo.com
