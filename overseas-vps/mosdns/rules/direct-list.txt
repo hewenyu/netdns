@@ -9771,7 +9771,6 @@ acdianyuan.com
 ace-info.com
 ace-pow.com
 ace-rubber.com
-ace.com
 ace0898.com
 ace113.com
 acejoy.com
@@ -53360,7 +53359,7 @@ imetacloud.com
 imeyahair.com
 imfirewall.com
 imfooww.com
-img-spfull:a1.mzstatic.com
+img-space.com
 img-sys.com
 img.beauty
 img.ink
