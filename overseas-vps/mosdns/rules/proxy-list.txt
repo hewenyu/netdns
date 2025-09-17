@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -916,8 +917,8 @@ adobetag.com
 adobetarget.com
 adobetcstrialdvd.com
 adobetechcomm.com
+adobetechcommcallback.com
 adobetechcommdemo.com
-adobetechctgpt.com
 adobexdplatform.com
 adorevids.com
 adpl.org.hk
@@ -1965,7 +1966,6 @@ appdynamics.jp
 appdynamics.org
 appe-store.com
 appexchange.com
-appl
 appl-e.com
 appl.com
 appl4e.com
@@ -2236,6 +2236,7 @@ applestore.com.hk
 applestore.com.hr
 applestore.com.jo
 applestore.com.my
+applestore.com.ph
 applestore.com.pl
 applestore.com.pt
 applestore.com.ro
@@ -2508,7 +2509,7 @@ aspi.org.au
 aspire.ac.uk
 aspiretrainingteam.ac.uk
 aspistrategist.org.au
-aspnefap.com
+aspnetcdn.com
 asproex.com
 asproexapi.com
 asra.ac.uk
@@ -3029,7 +3030,7 @@ babylonbee.com
 babylongirls.co.uk
 babynet.com.hk
 babypink.to
-babyzo
+babyzone.com
 bach.ac.uk
 backchina.com
 backdoorlesbians.com
@@ -3998,7 +3999,7 @@ bitcointalk.org
 bitcoinworld.com
 bite.ac.uk
 bitfinex.com
-bitflyer.coes
+bitflyer.com
 bitflyer.jp
 bitget.com
 bithumb.com
@@ -5953,7 +5954,6 @@ cgh.ac.uk
 cglas.ac.uk
 cgst.edu
 ch9.ms
-cha000webhost.com
 chace.ac.uk
 championshipseriesleague.com
 change.org
@@ -12556,7 +12556,6 @@ google.com.au
 google.com.bd
 google.com.bh
 google.com.bn
-google.com.bnommcallback.com
 google.com.bo
 google.com.br
 google.com.bz
@@ -17491,7 +17490,6 @@ lyzsxx.com
 lz.ac.uk
 lzjscript.com
 lzmtnews.org
-m
 m-power.com
 m-rhex.ac.uk
 m-team.cc
@@ -19103,7 +19101,6 @@ movidius.com
 movidius.net
 movie-erog.com
 movie1000.xyz
-movieestore.com.ph
 moviefap.com
 moviepost.com
 moviesanywhere.com
@@ -25912,7 +25909,6 @@ sssuo1.xyz
 sstatic.net
 sstm.moe
 sstmlt.moe
-sstmlt.moetcdn.com
 sstmlt.net
 ssttest.net
 ssu.ac.uk
@@ -30765,7 +30761,6 @@ xvideos.co
 xvideos.com
 xvideos.es
 xvideos.la
-xvideos.ne.com
 xvideos.red
 xvideos.tv.br
 xvideos2.com
