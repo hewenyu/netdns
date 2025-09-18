@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+.com
 0.zone
 00.net
 000.link
@@ -13613,7 +13614,7 @@ b2c.biz
 b2cedu.com
 b2clouds.com
 b2jiaxiao.com
-b2q.com
+b2qfull:265.com
 b2star.com
 b3bos.com
 b3inside.com
