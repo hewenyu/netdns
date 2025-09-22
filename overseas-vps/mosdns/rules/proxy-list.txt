@@ -685,6 +685,7 @@ abitno.linpie.com
 ablmm.com
 ablwang.com
 aboluowang.com
+about.gitlab.com
 about.me
 aboutamazon.co.uk
 aboutamazon.com
@@ -1898,6 +1899,7 @@ ap.org
 ap0le.com
 apa.org
 apache.org
+apapplecensorship.com
 apartmentratings.com
 apartments.com
 apat1989.org
@@ -1962,7 +1964,6 @@ appdynamics.com
 appdynamics.de
 appdynamics.fr
 appdynamics.info
-appdynamics.jp
 appdynamics.org
 appe-store.com
 appexchange.com
@@ -13661,7 +13662,6 @@ hitun.io
 hitxhot.com
 hiveon.net
 hiwifi.com
-hizb-ut-tahapplecensorship.com
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 hizbuttahrir.org
@@ -21802,6 +21802,7 @@ pdproxy.com
 pds.ac.uk
 pds.nasa.gov
 pdxbmw.com
+pdynamics.jp
 peace.ca
 peacefire.org
 peach-cherry.com
@@ -23865,7 +23866,6 @@ riotpin.com
 riotpoints.com
 ripon-cuddesdon.ac.uk
 ripple.com
-rir.info
 riscl.ac.uk
 riseholme.ac.uk
 riseup.net

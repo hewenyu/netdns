@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -17754,7 +17754,7 @@ btcha.com
 btclass.net
 btcside.com
 btcsos.com
-btcwatch.com
+btcwatcfull:265.com
 btcxue.com
 btd56.com
 btdad.live
@@ -44376,6 +44376,7 @@ h-shgroup.com
 h-ui.net
 h-world.com
 h-zl.net
+h.com
 h0588.com
 h0591.com
 h0758.net
