@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -917,8 +916,8 @@ adobestock.com
 adobetag.com
 adobetarget.com
 adobetcstrialdvd.com
+adobetechcapplecensorship.com
 adobetechcomm.com
-adobetechcommcallback.com
 adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
@@ -1899,7 +1898,6 @@ ap.org
 ap0le.com
 apa.org
 apache.org
-apapplecensorship.com
 apartmentratings.com
 apartments.com
 apat1989.org
@@ -2301,6 +2299,7 @@ appyq.com
 apr.ac.uk
 apress.com
 aps.org
+apsebreaker.com
 apt.ac.uk
 aptoide.com
 apts.ac.uk
@@ -12514,6 +12513,7 @@ google.bj
 google.bs
 google.bt
 google.by
+google.c000webhost.com
 google.ca
 google.cat
 google.cd
@@ -19087,6 +19087,7 @@ motorshowblog.com
 mottainai.info
 moulton.ac.uk
 mountcollyer.ac.uk
+mouommcallback.com
 mousebreaker.com
 move-free.net
 move.ac.uk
@@ -21075,6 +21076,7 @@ oli-school.com
 oli.ac.uk
 olumpo.com
 olympicwatch.org
+om.bd
 omafotze.com
 omagh.ac.uk
 omaghcollege.ac.uk
@@ -28157,7 +28159,6 @@ udacity.com
 udel.ac.uk
 udemy.com
 udemycdn.com
-uderzo.it
 udfs.com
 udn.com
 udn.com.tw
