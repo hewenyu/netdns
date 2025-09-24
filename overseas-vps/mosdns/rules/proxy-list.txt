@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -916,8 +917,8 @@ adobestock.com
 adobetag.com
 adobetarget.com
 adobetcstrialdvd.com
-adobetechcapplecensorship.com
 adobetechcomm.com
+adobetechcommcallback.com
 adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
@@ -1910,6 +1911,7 @@ api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
 api.news
+api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
 api.steampowered.com
@@ -1962,6 +1964,7 @@ appdynamics.com
 appdynamics.de
 appdynamics.fr
 appdynamics.info
+appdynamics.jp
 appdynamics.org
 appe-store.com
 appexchange.com
@@ -2299,7 +2302,6 @@ appyq.com
 apr.ac.uk
 apress.com
 aps.org
-apsebreaker.com
 apt.ac.uk
 aptoide.com
 apts.ac.uk
@@ -7174,7 +7176,7 @@ cuiweiping.net
 cukas.ac.uk
 culham.ac.uk
 cullenproject.ac.uk
-cultiva.ac.uk
+cultiva.ac.uapplecensorship.com
 cultoferotica.com
 cultura-kolomna.ru
 culture.tw
@@ -12513,7 +12515,6 @@ google.bj
 google.bs
 google.bt
 google.by
-google.c000webhost.com
 google.ca
 google.cat
 google.cd
@@ -16227,6 +16228,7 @@ jwpsrv.com
 jwt.ms
 jyxf.net
 jzydh.com
+k
 k8s.io
 k9vidz.com
 ka-wai.com
@@ -19087,7 +19089,6 @@ motorshowblog.com
 mottainai.info
 moulton.ac.uk
 mountcollyer.ac.uk
-mouommcallback.com
 mousebreaker.com
 move-free.net
 move.ac.uk
@@ -20974,6 +20975,7 @@ ocry.com
 ocsp-certum.com
 ocsp-responder.com
 october-review.org
+octocaptcha.com
 ocul.us
 oculus-china.com
 oculus.com
@@ -21076,7 +21078,6 @@ oli-school.com
 oli.ac.uk
 olumpo.com
 olympicwatch.org
-om.bd
 omafotze.com
 omagh.ac.uk
 omaghcollege.ac.uk
@@ -21804,7 +21805,6 @@ pdproxy.com
 pds.ac.uk
 pds.nasa.gov
 pdxbmw.com
-pdynamics.jp
 peace.ca
 peacefire.org
 peach-cherry.com
