@@ -1452,7 +1452,6 @@ alphabet.info
 alphabet.jp
 alphabet.lt
 alphabet.lu
-alphabet.lv
 alphabet.mx
 alphabet.no
 alphabet.org.uk
@@ -1461,6 +1460,7 @@ alphabet.pt
 alphabet.uk
 alphabet.us
 alphabetfinance.net
+alphabetningsun.org
 alphaporno.com
 alphera-finance.co.in
 alphera-finance.com.hk
@@ -2509,6 +2509,7 @@ aspenpublishing.com
 aspi.org.au
 aspire.ac.uk
 aspiretrainingteam.ac.uk
+aspistal.me
 aspistrategist.org.au
 aspnetcdn.com
 asproex.com
@@ -5033,10 +5034,10 @@ bronch.ac.uk
 bronto.com
 brookehouse.ac.uk
 brookes.ac.uk
-brookgle.com.ar
 brookings.edu
 brooklands.ac.uk
 brooks.ac.uk
+brooksby.ac.uk
 brooksbymelton.ac.uk
 broomfield.ac.uk
 broomsbarn.ac.uk
@@ -8300,7 +8301,6 @@ dotrural.ac.uk
 dotsub.com
 dotvpn.com
 doub.io
-doubibackuningsun.org
 doubibackup.com
 doubiyunbackup.com
 doubleclick-cn.net
@@ -12295,6 +12295,7 @@ glasgowsciencecentre.ac.uk
 glasgowsequencingsolutions.ac.uk
 glass8.eu
 gle
+gle.com.ar
 gleline.com
 glen-coll.ac.uk
 glenfife.ac.uk
@@ -12473,7 +12474,7 @@ goo
 goo.gl
 goo.gle
 goo.ne.jp
-goo000webhost.com
+gooapplecensorship.com
 good-gay.com
 good.news
 gooday.xyz
@@ -18930,7 +18931,7 @@ mollnet.ac.uk
 molviewer.com
 mom-gfs.com
 mom-sex-videos.com
-mom50.cal.me
+mom50.com
 momami18.livedoor.blog
 momentumms.com
 momesear-chs.buzz
@@ -19054,6 +19055,7 @@ moorlands.ac.uk
 moov.hk
 moozporn.com
 moptt.tw
+mor000webhost.com
 moray.ac.uk
 morazzia.com
 moredun.ac.uk
@@ -19069,7 +19071,6 @@ morleycollegelondon.ac.uk
 morningsun.org
 mornporn.com
 morphcharts.com
-morsby.ac.uk
 mortein.co.in
 mortein.co.nz
 mortein.co.za
@@ -21081,7 +21082,6 @@ oli-school.com
 oli.ac.uk
 olumpo.com
 olympicwatch.org
-om
 omafotze.com
 omagh.ac.uk
 omaghcollege.ac.uk
@@ -23307,6 +23307,7 @@ raspberrypi.org
 raspbian.org
 rat.xxx
 ratedgross.com
+rategist.org.au
 rateyourmusic.com
 rationalwiki.org
 rau.ac.uk
@@ -25887,9 +25888,9 @@ ss7.vzw.com
 ssdevrd.com
 ssees.ac.uk
 ssfc.ac.uk
+ssglob.lv
 ssglobal.co
 ssglobal.me
-ssglobp.com
 sshm.ac.uk
 sshs.club
 sshs.pw
@@ -30020,6 +30021,7 @@ wikimedia.org
 wikimediacloud.org
 wikimediafoundation.org
 wikinews.org
+wikipedia.com
 wikipedia.org
 wikiporn.tv
 wikiquote.org
