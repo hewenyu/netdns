@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -1452,6 +1453,7 @@ alphabet.info
 alphabet.jp
 alphabet.lt
 alphabet.lu
+alphabet.lv
 alphabet.mx
 alphabet.no
 alphabet.org.uk
@@ -1460,7 +1462,6 @@ alphabet.pt
 alphabet.uk
 alphabet.us
 alphabetfinance.net
-alphabetningsun.org
 alphaporno.com
 alphera-finance.co.in
 alphera-finance.com.hk
@@ -2509,7 +2510,6 @@ aspenpublishing.com
 aspi.org.au
 aspire.ac.uk
 aspiretrainingteam.ac.uk
-aspistal.me
 aspistrategist.org.au
 aspnetcdn.com
 asproex.com
@@ -19055,7 +19055,6 @@ moorlands.ac.uk
 moov.hk
 moozporn.com
 moptt.tw
-mor000webhost.com
 moray.ac.uk
 morazzia.com
 moredun.ac.uk
@@ -23307,7 +23306,6 @@ raspberrypi.org
 raspbian.org
 rat.xxx
 ratedgross.com
-rategist.org.au
 rateyourmusic.com
 rationalwiki.org
 rau.ac.uk
@@ -25888,7 +25886,6 @@ ss7.vzw.com
 ssdevrd.com
 ssees.ac.uk
 ssfc.ac.uk
-ssglob.lv
 ssglobal.co
 ssglobal.me
 sshm.ac.uk
