@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1962,7 +1962,7 @@ appdownloader.net
 appdynamics.co.uk
 appdynamics.com
 appdynamics.de
-appdynamics.fr
+appdynamics.f000webhost.com
 appdynamics.info
 appdynamics.jp
 appdynamics.org
@@ -5034,10 +5034,10 @@ bronch.ac.uk
 bronto.com
 brookehouse.ac.uk
 brookes.ac.uk
+brookgle.com.ar
 brookings.edu
 brooklands.ac.uk
 brooks.ac.uk
-brooksby.ac.uk
 brooksbymelton.ac.uk
 broomfield.ac.uk
 broomsbarn.ac.uk
@@ -12295,7 +12295,6 @@ glasgowsciencecentre.ac.uk
 glasgowsequencingsolutions.ac.uk
 glass8.eu
 gle
-gle.com.ar
 gleline.com
 glen-coll.ac.uk
 glenfife.ac.uk
@@ -12474,7 +12473,6 @@ goo
 goo.gl
 goo.gle
 goo.ne.jp
-gooapplecensorship.com
 good-gay.com
 good.news
 gooday.xyz
@@ -12763,6 +12761,7 @@ googlr.com
 goole-college.ac.uk
 goolge.com
 gooogle.com
+goor
 gopetition.com
 gopivotal.com
 gopivotal.net
@@ -19070,6 +19069,7 @@ morleycollegelondon.ac.uk
 morningsun.org
 mornporn.com
 morphcharts.com
+morsby.ac.uk
 mortein.co.in
 mortein.co.nz
 mortein.co.za
@@ -20382,6 +20382,7 @@ nineentertainmentco.com.au
 ninemediaroom.com.au
 ninemsn.com.au
 nineteentube.com
+ningsun.org
 ninjacloak.com
 ninjaproxy.ninja
 ninpu.cyou
