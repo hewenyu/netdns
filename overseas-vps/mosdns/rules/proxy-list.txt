@@ -1962,7 +1962,7 @@ appdownloader.net
 appdynamics.co.uk
 appdynamics.com
 appdynamics.de
-appdynamics.f000webhost.com
+appdynamics.fr
 appdynamics.info
 appdynamics.jp
 appdynamics.org
@@ -5034,10 +5034,10 @@ bronch.ac.uk
 bronto.com
 brookehouse.ac.uk
 brookes.ac.uk
-brookgle.com.ar
 brookings.edu
 brooklands.ac.uk
 brooks.ac.uk
+brooksby.ac.uk
 brooksbymelton.ac.uk
 broomfield.ac.uk
 broomsbarn.ac.uk
@@ -12761,7 +12761,6 @@ googlr.com
 goole-college.ac.uk
 goolge.com
 gooogle.com
-goor
 gopetition.com
 gopivotal.com
 gopivotal.net
@@ -19069,7 +19068,6 @@ morleycollegelondon.ac.uk
 morningsun.org
 mornporn.com
 morphcharts.com
-morsby.ac.uk
 mortein.co.in
 mortein.co.nz
 mortein.co.za
@@ -20382,7 +20380,6 @@ nineentertainmentco.com.au
 ninemediaroom.com.au
 ninemsn.com.au
 nineteentube.com
-ningsun.org
 ninjacloak.com
 ninjaproxy.ninja
 ninpu.cyou
