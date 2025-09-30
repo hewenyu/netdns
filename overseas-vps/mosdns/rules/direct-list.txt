@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -3376,7 +3375,7 @@
 311.biz
 311100.com
 311wan.com
-312000.netfull:265.com
+312000.net
 31260939.com
 312green.com
 313033.com
@@ -57089,6 +57088,7 @@ jjedu.com
 jjedu.net
 jjeglobal.com
 jjfinder.com
+jjfull:a1.mzstatic.com
 jjfuzu.com
 jjg630.com
 jjgsxc.com
@@ -57151,7 +57151,6 @@ jjwxc.net
 jjwxc.org
 jjxxk.com
 jjxyls.com
-jjy118.com
 jjycc.cc
 jjycw.net
 jjygym.com
@@ -107037,6 +107036,7 @@ y.cool
 y.to
 y007.com
 y0mwy.icu
+y118.com
 y1995.com
 y2002.com
 y5000.com
