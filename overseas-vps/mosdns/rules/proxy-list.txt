@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -2509,7 +2510,7 @@ aspectnetwork.ac.uk
 aspenpublishing.com
 aspi.org.au
 aspire.ac.uk
-aspiretrainingteam.ac.u000webhost.com
+aspiretrainingteam.ac.uk
 aspistrategist.org.au
 aspnetcdn.com
 asproex.com
@@ -3030,7 +3031,6 @@ baby-me-nrt.ac.uk
 babycondom.com
 babylonbee.com
 babylongirls.co.uk
-babym
 babynet.com.hk
 babypink.to
 babyzone.com
@@ -5967,7 +5967,6 @@ changing-arctic-ocean.ac.uk
 changp.com
 channelnewsasia.com
 chanworld.org
-chaoex.cok
 chaoex.com
 chaos.social
 character.ai
@@ -7178,7 +7177,7 @@ cuinc.tw
 cuiweiping.net
 cukas.ac.uk
 culham.ac.uk
-cullenprojecm.ai
+cullenproject.ac.uk
 cultiva.ac.uk
 cultoferotica.com
 cultura-kolomna.ru
@@ -8287,7 +8286,6 @@ dopaminegirl.com
 dorjeshugden.com
 dorset-acl.ac.uk
 dorset-al.ac.uk
-dosale
 doseofporn.com
 dot-mac.de
 dot.net
@@ -12613,7 +12611,6 @@ google.com.ua
 google.com.uy
 google.com.vc
 google.com.vn
-google.conet.com.hk
 google.cv
 google.cz
 google.de
@@ -18932,7 +18929,7 @@ molihua.org
 mollnet.ac.uk
 molviewer.com
 mom-gfs.com
-mom-sex-videos.comapplecensorship.com
+mom-sex-videos.com
 mom50.com
 momami18.livedoor.blog
 momentumms.com
@@ -19062,7 +19059,6 @@ morazzia.com
 moredun.ac.uk
 moreheadphones.com
 moresci.sale
-moresci.t.ac.uk
 morewithautodesk.com
 morganclaypool.com
 morgannwg.ac.uk
@@ -20933,7 +20929,6 @@ nytimg.com
 nytstyle.com
 nyu.ac.uk
 nzchinese.com
-o
 o2action.co.kr
 o365weve-dev.com
 o365weve-ppe.com
@@ -25891,7 +25886,6 @@ ssdevrd.com
 ssees.ac.uk
 ssfc.ac.uk
 ssglobal.co
-ssglobal.cubibackup.com
 ssglobal.me
 sshm.ac.uk
 sshs.club
