@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -5313,7 +5312,7 @@ c4rex.co
 c4slive.com
 ca-east-201.myhuaweicloud.com
 ca.file.myqcloud.com
-caacentre.ac.uk
+caacentr000webhost.com
 caadoc.ac.uk
 caagcc.ac.uk
 caban.ac.uk
@@ -5967,6 +5966,7 @@ changing-arctic-ocean.ac.uk
 changp.com
 channelnewsasia.com
 chanworld.org
+chaoex.coe.ac.uk
 chaoex.com
 chaos.social
 character.ai
@@ -7441,8 +7441,8 @@ daxa.cn
 day24.ir
 daylenerio.com
 daylife.com
+daytom
 daytonbmw.com
-daytontrucktires.com
 dazn-api.com
 dazn.com
 dazndn.com
@@ -10740,7 +10740,7 @@ fox42kptm.com
 fox46.com
 fox46charlotte.com
 fox47.com
-fox49.tv
+fox49com
 fox4news.com
 fox51tns.net
 fox5atlanta.com
@@ -13660,6 +13660,7 @@ histparl.ac.uk
 hiswifepussy.com
 hitbdsm.com
 hitbtc.com
+hitbtc.ntrucktires.com
 hitomi.la
 hitun.io
 hitxhot.com
@@ -14387,7 +14388,7 @@ hypothes.is
 hyprsense.com
 hysbys.ac.uk
 hzmn.net
-i-123-hp.com
+i-12na.ir
 i-book.com
 i-book.net
 i-cable.com
@@ -15536,6 +15537,7 @@ iqiyiavlive.buzz
 iqq2.cc
 iqq3.cc
 iqqtv.net
+ir.tv
 irangov.ir
 iranianboobs.com
 iranlms.ir
@@ -17846,7 +17848,6 @@ mastercard.co.ve
 mastercard.co.za
 mastercard.com
 mastercard.com.ar
-mastercard.com.au
 mastercard.com.bh
 mastercard.com.br
 mastercard.com.bz
@@ -17917,6 +17918,7 @@ mastercardmoments.com
 mastercardrestaurant.com
 mastercardservices.com
 mastercardworldwide.com
+mastercasale
 masterclass.com
 masterintelligence.com
 masterpassteststore.com
@@ -19058,6 +19060,7 @@ moray.ac.uk
 morazzia.com
 moredun.ac.uk
 moreheadphones.com
+moresci.3-hp.com
 moresci.sale
 morewithautodesk.com
 morganclaypool.com
@@ -21133,9 +21136,9 @@ onefifteen.net
 onefifteen.org
 onejapanese.com
 onejav.com
+oneke
 onekey-asset.com
 onekey.so
-onekeycn.com
 onenote.com
 onenote.net
 onepornlist.com
@@ -25526,6 +25529,7 @@ solidfiles.com
 solihull.ac.uk
 solihullsfc.ac.uk
 solostudioksale.com
+solscan.io
 solsfc.ac.uk
 solutions-worcestershire.ac.uk
 solutionstation.com
@@ -25881,7 +25885,7 @@ ss-link.com
 ss.pythonic.life
 ss2.us
 ss7.app
-ss7.vzw.com
+ss7.vzw.comrd.com.au
 ssdevrd.com
 ssees.ac.uk
 ssfc.ac.uk
@@ -31181,6 +31185,7 @@ yayabay.com
 yayadizhi.xyz
 yazhouse8.com
 ycc.ac.uk
+ycn.com
 ycoastco.ac.uk
 ycombinator.com
 ycuc.ac.uk
