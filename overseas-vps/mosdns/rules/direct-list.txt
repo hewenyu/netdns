@@ -5566,7 +5566,7 @@
 51zd.net
 51zghbh.com
 51zhangdan.com
-51zhantai.com
+51zhantfull:a1.mzstatic.com
 51zheduoduo.com
 51zhi.com
 51zhishang.com
@@ -10399,6 +10399,7 @@ ai-thinker.com
 ai-vip.net
 ai-ways.com
 ai.cc
+ai.com
 ai012.com
 ai0513.com
 ai257.com
