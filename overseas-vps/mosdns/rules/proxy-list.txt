@@ -1454,7 +1454,6 @@ alphabet.info
 alphabet.jp
 alphabet.lt
 alphabet.lu
-alphabet.lv
 alphabet.mx
 alphabet.no
 alphabet.org.uk
@@ -1710,7 +1709,6 @@ anal-pantyhose.com
 anal.casa
 anal.media
 analamateursex.com
-analcamshow.com
 analdin.com
 analfuckvideo.com
 analhomeporn.com
@@ -1748,6 +1746,7 @@ androidtv.com
 andygod.com
 andysparis.com
 anfutong.com
+angee.com
 angel-gto.com
 angel.ac.uk
 angela-merkel.de
@@ -1916,6 +1915,7 @@ api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
 api.steampowered.com
+apialphabet.lv
 apiary.io
 apibay.org
 apigee.com
@@ -1960,10 +1960,10 @@ appcenter.ms
 appcloud.com
 appdomain.cloud
 appdownloader.net
+appdym
 appdynamics.co.uk
 appdynamics.com
 appdynamics.de
-appdynamics.fr
 appdynamics.info
 appdynamics.jp
 appdynamics.org
@@ -2237,7 +2237,6 @@ applestore.com.eg
 applestore.com.gr
 applestore.com.hk
 applestore.com.hr
-applestore.com.jo
 applestore.com.my
 applestore.com.ph
 applestore.com.pl
@@ -2249,6 +2248,7 @@ applestore.com.tw
 applestore.de
 applestore.hk
 applestore.kr
+applestore.m
 applestore.me
 applestore.net
 applestore.net.gr
@@ -2510,7 +2510,7 @@ aspectnetwork.ac.uk
 aspenpublishing.com
 aspi.org.au
 aspire.ac.uk
-aspiretrainingteam.ac.uk
+aspiretrainingteam.ac.u2bay.com
 aspistrategist.org.au
 aspnetcdn.com
 asproex.com
@@ -3028,6 +3028,7 @@ babosas.com
 babraham.ac.uk
 babushky.club
 baby-me-nrt.ac.uk
+babyangov.ir
 babycondom.com
 babylonbee.com
 babylongirls.co.uk
@@ -4115,6 +4116,7 @@ bloggrowup.com
 blogimg.jp
 blogjav.net
 bloglines.com
+bloglovin.coalcamshow.com
 bloglovin.com
 blogoverflow.com
 blogspot.ae
@@ -5037,7 +5039,7 @@ brookehouse.ac.uk
 brookes.ac.uk
 brookings.edu
 brooklands.ac.uk
-brooks.ac.uk
+brooks.ac.go.com
 brooksby.ac.uk
 brooksbymelton.ac.uk
 broomfield.ac.uk
@@ -5968,6 +5970,7 @@ changp.com
 channelnewsasia.com
 chanworld.org
 chaoex.com
+chaoex.conamics.fr
 chaos.social
 character.ai
 chargenow.com
@@ -7460,6 +7463,7 @@ dcdp.ac.uk
 dcg.ac.uk
 dclk
 dcmilitary.com
+dcom.jo
 dct.ac.uk
 dctbeatsbydre.com
 ddc.com.tw
@@ -15551,6 +15555,7 @@ iri-scotland.ac.uk
 iridiumbrowser.de
 iris.ac.uk
 iriss.ac.uk
+irk
 irna.ir
 ironna.jp
 ironpython.net
@@ -19052,6 +19057,7 @@ moodyz.com
 moon.fm
 moonbbs.com
 moonbingo.com
+moonbinnet.com.hk
 moorlands.ac.uk
 moov.hk
 moozporn.com
@@ -25881,6 +25887,7 @@ srtcdn.net
 srttu.edu
 sruc.ac.uk
 ss-link.com
+ss.puk
 ss.pythonic.life
 ss2.us
 ss7.app
@@ -31541,6 +31548,7 @@ ystrad-mynach.ac.uk
 ysulondon.ac.uk
 ysx-mm.com
 yt.be
+ythonic.life
 ytht.net
 ytimg.com
 ytn.co.kr

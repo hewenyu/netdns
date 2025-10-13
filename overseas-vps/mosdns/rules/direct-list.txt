@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -11399,7 +11400,7 @@ aliyunga0024.com
 aliyunga0025.com
 aliyunga0026.com
 aliyunga0027.com
-aliyunga0028.com
+aliyunga0028.cfull:a1.mzstatic.com
 aliyunga0029.com
 aliyunga0030.com
 aliyunga0031.com
@@ -74105,6 +74106,7 @@ olymtech.com
 olymvax.com
 olys88.com
 olzz.com
+om
 omacloud.com
 omanlin.com
 omarea.com
