@@ -15282,7 +15282,6 @@ bfsutw.com
 bft-robot.com
 bftq.com
 bftv.com
-bfull:265.com
 bfvvs.com
 bfw.wiki
 bfxiuxianqipai.com
@@ -16422,6 +16421,7 @@ bjqtsecbase.com
 bjqtthirdbase.com
 bjqtti.com
 bjqyjjlb.com
+bjqykc.com
 bjqzhd.com
 bjqzzh.net
 bjraee.com
@@ -57650,7 +57650,6 @@ jqueryfuns.com
 jquerywidget.com
 jqwater.com
 jqwwq.com
-jqykc.com
 jqyljt.com
 jqyou.com
 jqzhuangshi.com
