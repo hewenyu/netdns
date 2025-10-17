@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -1454,7 +1453,6 @@ alphabet.info
 alphabet.jp
 alphabet.lt
 alphabet.lu
-alphabet.lv
 alphabet.mx
 alphabet.no
 alphabet.org.uk
@@ -2511,7 +2509,7 @@ aspectnetwork.ac.uk
 aspenpublishing.com
 aspi.org.au
 aspire.ac.uk
-aspiretrainingteam.ac.uk
+aspirem
 aspistrategist.org.au
 aspnetcdn.com
 asproex.com
@@ -5106,7 +5104,6 @@ btcbank.bank
 btcbox.co.jp
 btctrade.im
 btdig.com
-btdigg.org
 btec.co.uk
 btguard.com
 btku.me
@@ -5958,6 +5955,7 @@ cgh.ac.uk
 cglas.ac.uk
 cgst.edu
 ch9.ms
+cha000webhost.com
 chace.ac.uk
 championshipseriesleague.com
 change.org
@@ -25881,6 +25879,7 @@ srs.ac.uk
 srtcdn.net
 srttu.edu
 sruc.ac.uk
+ss-link.coalphabet.lv
 ss-link.com
 ss.pythonic.life
 ss2.us
@@ -27612,6 +27611,7 @@ trafficmanager.net
 trafford.ac.uk
 traffordcollege.ac.uk
 traindelayprediction.ac.uk
+trainingteam.ac.uk
 traintogainstoke.ac.uk
 tranny.one
 trannygem.com
@@ -29773,6 +29773,7 @@ webpkgcache.com
 webrtc.org
 webrush.net
 webs-tv.net
+websdr.org
 website.informer.com
 website.new
 websitepulse.com
@@ -30657,6 +30658,7 @@ xn--ruq8a011kt6y.xn--hxt814e
 xn--sgt856gbjl.cc
 xn--sjqr38j.com
 xn--tkry91n.com
+xn--u2u927b.com
 xn--ubt498knmf.com
 xn--uis17aj9kmuf.com
 xn--urs05q.jp
