@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -1453,6 +1454,7 @@ alphabet.info
 alphabet.jp
 alphabet.lt
 alphabet.lu
+alphabet.lv
 alphabet.mx
 alphabet.no
 alphabet.org.uk
@@ -2509,7 +2511,7 @@ aspectnetwork.ac.uk
 aspenpublishing.com
 aspi.org.au
 aspire.ac.uk
-aspirem
+aspiretrainingteam.ac.uk
 aspistrategist.org.au
 aspnetcdn.com
 asproex.com
@@ -4681,6 +4683,7 @@ bnef.com
 bnext.com.tw
 bnn.co
 bnrmetal.com
+bntrace.com
 bnu.ac.uk
 boa.ac.uk
 boardreader.com
@@ -5913,6 +5916,7 @@ cepacol.com
 ceramics-cadcam.com
 cercia.ac.uk
 cerdas.com
+cerebras.ai
 ceredigion.ac.uk
 ceri.ac.uk
 cerlim.ac.uk
@@ -5955,7 +5959,6 @@ cgh.ac.uk
 cglas.ac.uk
 cgst.edu
 ch9.ms
-cha000webhost.com
 chace.ac.uk
 championshipseriesleague.com
 change.org
@@ -6417,6 +6420,8 @@ classicnike.com
 classics.ac.uk
 classymomsex.com
 claude.ai
+claude.com
+claudemcpclient.com
 claudeusercontent.com
 clb.org.hk
 clc-london.ac.uk
@@ -11328,6 +11333,7 @@ full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
 full:gamer2-cds.cdn.hinet.net
 full:gigabyte2.azureedge.net
+full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
 full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
 full:google-ohttp-relay-safebrowsing.fastly-edge.com
@@ -11545,6 +11551,7 @@ full:statics-marketingsites-eus-ms-com.akamaized.net
 full:statics-marketingsites-wcus-ms-com.akamaized.net
 full:steambroadcast.akamaized.net
 full:steamcdn-a.akamaihd.net
+full:steamcloudsweden.blob.core.windows.net
 full:steamcommunity-a.akamaihd.net
 full:steamcommunity-a.akamaihd.net.edgesuite.net
 full:steammobile.akamaized.net
@@ -11735,6 +11742,7 @@ full:wwis-dubc1-vip98.adobe.com
 full:wwis-dubc1-vip99.adobe.com
 full:www-cdn.icloud.com.akadns.net
 full:yangzhi.app
+full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
 full:ztedevices.com
 fulldesisex.com
@@ -15768,6 +15776,7 @@ jasper.ai
 jav-angel.net
 jav-subtitles.com
 jav-vr.net
+jav.app
 jav.com
 jav.dog
 jav.gallery
@@ -17790,6 +17799,7 @@ marlab.ac.uk
 marlin.ac.uk
 marplecollege.ac.uk
 marranazas.com
+marscode.com
 martau.com
 martsangkagyuofficial.org
 maruta.be
@@ -20149,6 +20159,7 @@ nfsc.global
 nfscdict.com
 nfscofficial.com
 nfsworld.com
+nftstatic.com
 nftstorage.link
 nga.mil
 ngc.ac.uk
@@ -23714,6 +23725,7 @@ regexp:^epicgames-download\d\.akamaized\.net$
 regexp:^ewcdn[0-9]+\.nowe\.com$
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 regexp:^hses[1-7]?\.akamaized\.net$
+regexp:javdb\d+\.com$
 regional-studies-assoc.ac.uk
 regionalhpc.ac.uk
 regionalsciencecentreoldham.ac.uk
@@ -25879,7 +25891,6 @@ srs.ac.uk
 srtcdn.net
 srttu.edu
 sruc.ac.uk
-ss-link.coalphabet.lv
 ss-link.com
 ss.pythonic.life
 ss2.us
@@ -27606,12 +27617,12 @@ tracker.network
 tracking-location.com
 tradevip1.com
 tradingview.com
+trae.ai
 traffcoll.ac.uk
 trafficmanager.net
 trafford.ac.uk
 traffordcollege.ac.uk
 traindelayprediction.ac.uk
-trainingteam.ac.uk
 traintogainstoke.ac.uk
 tranny.one
 trannygem.com
