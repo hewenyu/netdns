@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -36657,8 +36657,6 @@ full:misc-assets.itunes.apple.com
 full:ml.cdn-apple.com
 full:monitoring.qpdp1.net
 full:moocs.unipus.cn
-full:msgr.dlservice.microsoft.com
-full:msgruser.dlservice.microsoft.com
 full:music.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
@@ -36723,7 +36721,6 @@ full:proxyconfig.corp.google.com
 full:publicassets.cdn-apple.com
 full:qagpublic.qatp1.net
 full:qgadmin.qcpp1.net
-full:qh.dlservice.microsoft.com
 full:qiao-cn.com
 full:qpx.googleflights.net
 full:qualysapi.qatp1.net
@@ -36770,8 +36767,6 @@ full:sh-pod2-smp-device.apple.com
 full:shazam-insights.cdn-apple.com
 full:shell.cdn.office.net
 full:si.cdn.dell.com
-full:silverlight.dlservice.microsoft.com
-full:slupdate.dlservice.microsoft.com
 full:sm.dell.com
 full:smp-device-content.apple.com
 full:snp.cdn.dell.com
@@ -36851,7 +36846,6 @@ full:weather-data.apple.com.akadns.net
 full:weather-map.apple.com
 full:weather-map2.apple.com
 full:weatherkit.apple.com
-full:wl.dlservice.microsoft.com
 full:wscont1.apps.microsoft.com
 full:wscont2.apps.microsoft.com
 full:www-csb.dell.com
@@ -36871,7 +36865,6 @@ full:www.recaptcha.net
 full:www.support.apple.com
 full:www.ztedevices.com
 full:www4-static.gog-statics.com
-full:xb.dlservice.microsoft.com
 full:xn--flw351e.com
 full:xp.apple.com
 full:xz.pphimalayanrt.com
