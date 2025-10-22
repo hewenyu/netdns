@@ -1,9 +1,8 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -1097,7 +1096,7 @@
 1024ie.com
 1024nic.com
 1024ss.com
-1024tools.com
+1024tools.comfull:265.com
 1024wl.com
 1024zx.com
 1026jz.com
@@ -23679,6 +23678,7 @@ cn-zhentai.com
 cn-zhongrui.com
 cn.bing.com
 cn.bing.net
+cn.eset.com
 cn.mm.bing.net
 cn.net
 cn.online.standardchartered.com
