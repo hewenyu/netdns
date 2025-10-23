@@ -3,6 +3,8 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+.org
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -4000,7 +4002,7 @@ bitballoon.com
 bitbank.cc
 bitbay.net
 bitbucket.io
-bitbucket.org
+bitbucketapplecensorship.com
 bitchesgirls.com
 bitchmomporn.com
 bitchute.com
@@ -5968,7 +5970,6 @@ cgh.ac.uk
 cglas.ac.uk
 cgst.edu
 ch9.ms
-cha.uk
 chace.ac.uk
 championshipseriesleague.com
 change.org
@@ -6748,7 +6749,6 @@ colombianas.webcam
 colorfulstage.com
 colorprotechnology.com
 colpet.ac.uk
-com.af
 combinedhonours.ac.uk
 comdotgame.com
 come29.xyz
@@ -7842,6 +7842,7 @@ deviantart.net
 deviantclip.com
 device-manager.us
 devilsfilm.com
+devin.ai
 devio.us
 devm2m.com
 devolution.ac.uk
@@ -8235,6 +8236,7 @@ docker.com
 docker.io
 dockerizer.com
 dockerstatic.com
+dockerstatus.com
 docleradn.com
 doclercdn.com
 docs.com
@@ -9387,7 +9389,6 @@ epochmediagroup.com
 epochshop.com
 epochstories.com
 epochtime.com
-epochtimeapplecensorship.com
 epochtimes-bg.com
 epochtimes-romania.com
 epochtimes.bg
@@ -9406,6 +9407,7 @@ epochtimes.eu
 epochtimes.fr
 epochtimes.it
 epochtimes.jp
+epochtimes.nl
 epochtimes.pl
 epochtimes.ru
 epochtimes.se
@@ -11291,11 +11293,13 @@ full:d33wubrfki0l68.cloudfront.net
 full:d36nr0u3xmc4mm.cloudfront.net
 full:d3aqoihi2n8ty8.cloudfront.net
 full:d3c27h4odz752x.cloudfront.net
+full:d3r7nsslvs6aaf.cloudfront.net
 full:d3vd9lfkzbru3h.cloudfront.net
 full:d6d4ismr40iw.cloudfront.net
 full:d6tizftlrpuof.cloudfront.net
 full:databank.worldbank.org
 full:database.asahi.com
+full:datarouter.apps.netherrealm.com
 full:ddacn6pr5v0tl.cloudfront.net
 full:default.exp-tas.com
 full:dell.my.site.com
@@ -11457,7 +11461,7 @@ full:practivate.adobe.ipp
 full:practivate.adobe.newoa
 full:practivate.adobe.ntp
 full:prd-priconne-redive.akamaized.net
-full:preprod-publicca.googloex.com
+full:preprod-publicca.googleapis.com
 full:prodforza.blob.core.windows.net
 full:production-openaicom-storage.azureedge.net
 full:psg-int-centralus.cloudapp.net
@@ -11588,6 +11592,7 @@ full:steamstore-a.akamaihd.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 full:t21.nikkei.co.jp
 full:t21ipau.nikkei.co.jp
 full:teamviewer.com.cdn.cloudflare.net
@@ -11660,6 +11665,7 @@ full:vscode-sync.trafficmanager.net
 full:vscode.blob.core.windows.net
 full:vscode.search.windows.net
 full:vsmarketplacebadge.apphb.com
+full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:webchannel-alkalimakersuite-pa.clients6.google.com
 full:weblive-hamivideo.cdn.hinet.net
 full:wetv.qq.com
@@ -12654,7 +12660,6 @@ google.dj
 google.dk
 google.dm
 google.dz
-google.eapis.com
 google.ee
 google.es
 google.fi
@@ -16513,6 +16518,7 @@ kinkypeepz.com
 kinmen.org.tw
 kinmen.travel
 kinokuniya.com
+kinopoisk.ru
 kir.jp
 kir2kos.net
 kirbysepicyarn.com
@@ -24188,7 +24194,6 @@ s-msn.com
 s-nbcnews.com
 s-rewards.hk
 s-xoom.com
-s.nl
 s.team
 s.yimg.com
 s1s1s1.com
@@ -24549,7 +24554,7 @@ scpr.ac.uk
 scpwiki.com
 scramble.io
 scrambledmessages.ac.uk
-scran.ac000webhost.com
+scran.ac.uk
 scratch.mit.edu
 scre.ac.uk
 screenacademyscotland.ac.uk
@@ -26273,6 +26278,7 @@ stpadarns.ac.uk
 straightouttasomewhere.com
 straightpornstuds.com
 straitstimes.com
+straitsx.com
 stran.ac.uk
 stranabg.com
 straplessdildo.com
@@ -27176,6 +27182,7 @@ theopportunityproject.org
 thepaypalshop.com
 thepervs.com
 thepiratebay.org
+thepoizon.ru
 theporn.cc
 thepornarea.com
 thepornbest.com
@@ -29710,6 +29717,7 @@ warddogs.com
 wariolandshakeit.com
 wariowarediy.com
 warkscol.ac.uk
+warnerbrosgames.com
 warp.plus
 warr.ac.uk
 warrington.ac.uk
@@ -29756,9 +29764,12 @@ waverleyabbeycollege.ac.uk
 waybig.com
 waymo.com
 waze.com
+wbagora.com
 wballiance.com
 wbd.ms
 wbdnbo.net
+wbgames.com
+wbinsights.com
 wbrks.com
 wbs.ac.uk
 wbvm4s.com
