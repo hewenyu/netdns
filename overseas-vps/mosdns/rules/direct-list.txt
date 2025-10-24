@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -2976,7 +2975,7 @@
 23zw.com
 240yx.com
 246546.com
-246ys.com
+246ys.cfull:a1.mzstatic.com
 2478.com
 248.com
 2481e.com
@@ -3376,7 +3375,7 @@
 315i.com
 315img.com
 315mro.com
-315online.com
+315onlfull:265.com
 315rx.com
 315sc.org
 315tech.com
@@ -20034,6 +20033,7 @@ ceydz.com
 ceyice.net
 ceyige.com
 cezhu.net
+cf-china.info
 cf-ns.com
 cf-ns.net
 cf-ns.site
@@ -28450,7 +28450,6 @@ deepermobile.com
 deepfast.com
 deepin-ai.com
 deepin.com
-deepin.io
 deepin.org
 deepinghost.com
 deepinmind.com
@@ -52997,6 +52996,7 @@ indubd.com
 industrybamboo.com
 industryillusion.com
 induta.com
+ine.com
 inekoxia.com
 inengyuan.com
 inesa-it.com
@@ -63844,6 +63844,7 @@ lingla.com
 linglingkaimen.com
 linglingmo.site
 linglong.dev
+linglong.space
 linglongart.com
 linglonglife.com
 linglongtech.com
@@ -73980,6 +73981,7 @@ olymtech.com
 olymvax.com
 olys88.com
 olzz.com
+om
 omacloud.com
 omanlin.com
 omarea.com
