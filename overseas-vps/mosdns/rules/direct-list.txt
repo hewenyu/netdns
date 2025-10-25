@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -2975,7 +2976,7 @@
 23zw.com
 240yx.com
 246546.com
-246ys.cfull:a1.mzstatic.com
+246ys.com
 2478.com
 248.com
 2481e.com
@@ -3375,7 +3376,7 @@
 315i.com
 315img.com
 315mro.com
-315onlfull:265.com
+315online.com
 315rx.com
 315sc.org
 315tech.com
@@ -36394,6 +36395,7 @@ full:a2.mzstatic.com
 full:a3.mzstatic.com
 full:a4.mzstatic.com
 full:a5.mzstatic.com
+full:activation-v2.kaspersky.com
 full:adcdownload.apple.com
 full:adcdownload.apple.com.akadns.net
 full:admob-cn.com
@@ -36497,6 +36499,7 @@ full:crashlyticsreports-pa.googleapis.com
 full:crl-lb.apple.com.akadns.net
 full:crl.apple.com
 full:crl.globalsign.net
+full:crl.kaspersky.com
 full:crl.pki.goog
 full:crls.pki.goog
 full:csi.gstatic.com
@@ -36518,6 +36521,26 @@ full:discussionschinese.apple.com
 full:dl.dell.com
 full:dl.google.com
 full:dl.l.google.com
+full:dnl-00.geo.kaspersky.com
+full:dnl-01.geo.kaspersky.com
+full:dnl-02.geo.kaspersky.com
+full:dnl-03.geo.kaspersky.com
+full:dnl-04.geo.kaspersky.com
+full:dnl-05.geo.kaspersky.com
+full:dnl-06.geo.kaspersky.com
+full:dnl-07.geo.kaspersky.com
+full:dnl-08.geo.kaspersky.com
+full:dnl-09.geo.kaspersky.com
+full:dnl-10.geo.kaspersky.com
+full:dnl-11.geo.kaspersky.com
+full:dnl-12.geo.kaspersky.com
+full:dnl-13.geo.kaspersky.com
+full:dnl-14.geo.kaspersky.com
+full:dnl-15.geo.kaspersky.com
+full:dnl-16.geo.kaspersky.com
+full:dnl-17.geo.kaspersky.com
+full:dnl-18.geo.kaspersky.com
+full:dnl-19.geo.kaspersky.com
 full:docs.microsoft.com
 full:doubleclick-cn.net
 full:doubleclick.net
@@ -36655,6 +36678,10 @@ full:itunesconnect.apple.com
 full:js-cdn.music.apple.com
 full:kc.kexinshe.com
 full:km.support.apple.com
+full:ksn-cinfo-geo.kaspersky-labs.com
+full:ksn-file-geo.kaspersky-labs.com
+full:ksn-url-geo.kaspersky-labs.com
+full:ksn-verdict-geo.kaspersky-labs.com
 full:l2-uberproxy.corp.google.com
 full:learn.microsoft.com
 full:logger-dev.corp.google.com
@@ -36704,7 +36731,27 @@ full:oscdn.origin-apple.com.akadns.net
 full:osxapps.itunes.apple.com
 full:osxapps.itunes.g.aaplimg.com
 full:p.cdn.persaas.dell.com
+full:p00.upd.kaspersky.com
+full:p01.upd.kaspersky.com
+full:p02.upd.kaspersky.com
+full:p03.upd.kaspersky.com
+full:p04.upd.kaspersky.com
+full:p05.upd.kaspersky.com
+full:p06.upd.kaspersky.com
+full:p07.upd.kaspersky.com
+full:p08.upd.kaspersky.com
+full:p09.upd.kaspersky.com
 full:p1-juejin.byteimg.com
+full:p10.upd.kaspersky.com
+full:p11.upd.kaspersky.com
+full:p12.upd.kaspersky.com
+full:p13.upd.kaspersky.com
+full:p14.upd.kaspersky.com
+full:p15.upd.kaspersky.com
+full:p16.upd.kaspersky.com
+full:p17.upd.kaspersky.com
+full:p18.upd.kaspersky.com
+full:p19.upd.kaspersky.com
 full:p2-juejin.byteimg.com
 full:p3-juejin.byteimg.com
 full:p3-novel.byteimg.com
@@ -36758,7 +36805,27 @@ full:res-1.cdn.office.net
 full:res.cdn.office.net
 full:reserve-prime.apple.com
 full:s.mzstatic.com
+full:s00.upd.kaspersky.com
+full:s01.upd.kaspersky.com
+full:s02.upd.kaspersky.com
+full:s03.upd.kaspersky.com
+full:s04.upd.kaspersky.com
+full:s05.upd.kaspersky.com
+full:s06.upd.kaspersky.com
+full:s07.upd.kaspersky.com
+full:s08.upd.kaspersky.com
+full:s09.upd.kaspersky.com
 full:s1.mzstatic.com
+full:s10.upd.kaspersky.com
+full:s11.upd.kaspersky.com
+full:s12.upd.kaspersky.com
+full:s13.upd.kaspersky.com
+full:s14.upd.kaspersky.com
+full:s15.upd.kaspersky.com
+full:s16.upd.kaspersky.com
+full:s17.upd.kaspersky.com
+full:s18.upd.kaspersky.com
+full:s19.upd.kaspersky.com
 full:s2.mzstatic.com
 full:s3.mzstatic.com
 full:s4.mzstatic.com
@@ -52996,7 +53063,6 @@ indubd.com
 industrybamboo.com
 industryillusion.com
 induta.com
-ine.com
 inekoxia.com
 inengyuan.com
 inesa-it.com
@@ -73981,7 +74047,6 @@ olymtech.com
 olymvax.com
 olys88.com
 olzz.com
-om
 omacloud.com
 omanlin.com
 omarea.com

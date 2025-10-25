@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -2512,7 +2513,6 @@ aspi.org.au
 aspire.ac.uk
 aspiretrainingteam.ac.uk
 aspistrategist.org.au
-aspistrategist.org000webhost.com
 aspnetcdn.com
 asproex.com
 asproexapi.com
@@ -5964,7 +5964,6 @@ cgh.ac.uk
 cglas.ac.uk
 cgst.edu
 ch9.ms
-chaapplecensorship.com
 chace.ac.uk
 championshipseriesleague.com
 change.org
@@ -6381,7 +6380,7 @@ cityofglasgowcollege.ac.uk
 cityoflondonbschool.ac.uk
 cityoflove.com
 cityofoxford.ac.uk
-cityoogle.com
+cityplym.ac.uk
 citypopulation.de
 citysun.ac.uk
 citytalk.tw
@@ -7445,7 +7444,7 @@ daumpcbang.com
 davcoll.ac.uk
 daventrylearningpartnership.ac.uk
 david-kilgour.com
-david-laserscanner.com.fm
+david-laserscanner.com
 davidlewis.ac.uk
 dawangidc.com
 dawngate.com
@@ -11869,7 +11868,6 @@ g-technology.com
 g-tun.com
 g-tvapp.com
 g-xxxhub.com
-g.au
 g.co
 g.dev
 g.page
@@ -19119,7 +19117,6 @@ moodyz.com
 moon.fm
 moonbbs.com
 moonbingo.com
-moonplym.ac.uk
 moorlands.ac.uk
 moov.hk
 moozporn.com
