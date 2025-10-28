@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -6127,7 +6127,7 @@ chii.in
 chikiporn.com
 chikubank.co.jp
 chilbolton.ac.uk
-childre000webhost.com
+childrenofthe90s.ac.uk
 chillingo.com
 chimeforchange.org
 china-autodesk.com
@@ -7305,7 +7305,6 @@ d-trust.net
 d-upp.com
 d.cash
 d100.net
-d100nofthe90s.ac.uk
 d2bay.com
 d2mrry2to5rg.com
 d2pass.com
@@ -7529,6 +7528,7 @@ deepai.org
 deeper.com
 deepfake-porn.com
 deepfakeporn.net
+deepflood.com
 deepfreeze.co.uk
 deepfreeze.com
 deepfreeze.com.br
@@ -8559,7 +8559,6 @@ dumgal.ac.uk
 dump.xxx
 dumpxxx.net
 dun.ac.uk
-dun.net
 dund.ac.uk
 dundee-tech.ac.uk
 dundee.ac.uk
@@ -8569,6 +8568,7 @@ dundeecoll.ac.uk
 dundeecollege.ac.uk
 dune.ac.uk
 dungeonkeeper.cn
+dungeonkeeper.com
 dungeonkeeper.com.cn
 dunstable.ac.uk
 dunstaffnage-marine-lab.ac.uk
@@ -9263,7 +9263,6 @@ emttp.ac.uk
 emua.ac.uk
 emule-ed2k.com
 emulefans.com
-emuparadise.geonkeeper.com
 emuparadise.me
 emwprep.ac.uk
 en-compass.ac.uk
@@ -9379,7 +9378,6 @@ epikporn.com
 epinions.com
 episcopalchurch.org
 episodic.com
-epme
 epne.ac.uk
 epoch.cloud
 epoch.org.il
@@ -9410,6 +9408,7 @@ epochtimes.eu
 epochtimes.fr
 epochtimes.it
 epochtimes.jp
+epochtimes.nl
 epochtimes.pl
 epochtimes.ru
 epochtimes.se
@@ -15595,7 +15594,6 @@ iproperty.com.my
 iproperty.com.sg
 iptv.com.tw
 iptvbin.com
-iptvochtimes.nl
 ipv6.ac.uk
 ipvanish.com
 iq.com
@@ -18946,7 +18944,7 @@ mobile01.com
 mobilecumbria.ac.uk
 mobilefacebook.com
 mobileinternational.com
-mobilemabin.com
+mobilemarketo.com
 mobileme.dk
 mobileporngames.com
 mobilepornmovies.com
@@ -19126,7 +19124,6 @@ moodyz.com
 moon.fm
 moonbbs.com
 moonbingo.com
-moonrketo.com
 moorlands.ac.uk
 moov.hk
 moozporn.com
@@ -20278,7 +20275,6 @@ nicolepeters.com
 nicomanga.jp
 niconico.com
 nicoseiga.jp
-nicovi.fm
 nicovideo.jp
 niees.ac.uk
 niesr.ac.uk
@@ -20992,7 +20988,6 @@ nyaa.si
 nyahentai.re
 nyansa.com
 nybooks.com
-nydeo.jp
 nylon-angel.com
 nylonstockingsonline.com
 nym97.net
@@ -21146,9 +21141,9 @@ older.tube
 oldham-sfc.ac.uk
 oldham.ac.uk
 oldhornymilfs.com
+oldje.com
 oldroyd.ac.uk
 olds.ac.uk
-oldtchina.com
 oldvic.ac.uk
 olehd.com
 olehdtv.com
@@ -26986,7 +26981,6 @@ telegram.dog
 telegram.me
 telegram.org
 telegram.space
-telegram.spaom
 telegramdownload.com
 telegraph.co.uk
 telekom.com
@@ -27363,7 +27357,6 @@ throughnightsfire.com
 thtmod1.com
 thuhole.com
 thumbnailseries.com
-thumbzilla.cje.com
 thumbzilla.com
 thunderbird.net
 thunderbolttechnology.net
@@ -28094,7 +28087,6 @@ twidouga.net
 twidouga.tv
 twiends.com
 twifan.com
-twiffo.ce
 twiffo.com
 twifuli.com
 twiggit.org
@@ -28940,7 +28932,7 @@ versly.com
 vervesex.com
 verybs.com
 verygoodnike.com
-veryladyboy.comcom
+veryladyboy.com
 veryshortintroductions.com
 vetgate.ac.uk
 vetnetlln.ac.uk
@@ -29093,7 +29085,6 @@ vintage-erotica-forum.com
 vintageamateurporn.com
 vintagehomemadesex.com
 vintagemedicalpictures.com
-vintagesex.com
 vintagexxxfilms.com
 vip-beats.com
 vip-enterprise.com
@@ -30080,7 +30071,7 @@ whoreasianporn.com
 whoreshub.com
 whoreslag.com
 whoreteensex.com
-whorexn--noss43i.com
+whorevintagesex.com
 whosthehost.com
 whotalking.com
 whvn.cc
@@ -30875,6 +30866,7 @@ xsela.cc
 xshaker.net
 xshr.online
 xsijishe.com
+xsijishe.net
 xskywalker.com
 xslist.org
 xstas.biz
