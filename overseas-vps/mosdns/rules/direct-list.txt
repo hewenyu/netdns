@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -28130,8 +28130,14 @@ dckygroup.com
 dcloud.io
 dcloud.xin
 dcloudlive.com
+dcloudlive.net
 dclouds.cloud
+dcloudsp.com
+dcloudsp.net
 dcloudstc.com
+dcloudstc.net
+dcloudvod.com
+dcloudvod.net
 dclygroup.com
 dcmagcn.com
 dcmk17.com
@@ -46388,7 +46394,10 @@ herllamo-med.com
 herllamo.com
 hermod1.com
 hero-geek.com
+hero.com
 herocoming.com
+heroesports.com
+herogame.com
 herohr.net
 heroic-ltd.com
 heroje.com
@@ -86042,6 +86051,7 @@ shyuwl.com
 shyuzhai.com
 shywly.com
 shyx-bio.com
+shyxhy.com
 shyxi5.com
 shyxwz.com
 shyy6688.com
