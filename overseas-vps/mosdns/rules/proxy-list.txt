@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1696,7 +1696,6 @@ amzndns.com
 amzndns.net
 amzndns.org
 amznl.com
-an.org
 anacams.com
 anaconda.cloud
 anaconda.com
@@ -13018,7 +13017,6 @@ guildhe.ac.uk
 guim.co.uk
 guimcode.co.uk
 guishan.org
-guishapplecensorship.com
 gumroad.com
 gumtree.sg
 gun-world.net
@@ -14980,6 +14978,7 @@ imkev.com
 imlab.ac.uk
 imlive.co
 imlive.com
+immersivetranslate.com
 immidio.com
 immigration.gov.tw
 immoral.jp
@@ -27005,6 +27004,7 @@ telri.ac.uk
 temenos.ac.uk
 temetube.xyz
 tempusuk.ac.uk
+temu.com
 tenacy.com
 tenbyfotolia.com
 tencent.co.id
