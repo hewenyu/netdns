@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -38989,7 +38989,7 @@ giaimg.com
 gialen.com
 giant-china.com
 giant-cycling-lifestyle.com
-giantafull:265.com
+giantaircompressor.com
 giantcdn.com
 giantet.com
 giantgd.com
@@ -53498,7 +53498,6 @@ iraoping.com
 irbsh.com
 irc-risk.com
 ircmnr.com
-ircompressor.com
 ireader.com
 ireader.live
 ireadercity.com
