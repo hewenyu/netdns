@@ -260,6 +260,7 @@
 025zp.com
 026hao.com
 026idc.com
+026jz.com
 0270.cc
 02712122.com
 02727.com
@@ -927,6 +928,7 @@
 1-luxury.com
 1-yuan.net
 1.cc
+1.com
 100-tong.com
 100.com
 100.me
@@ -1097,7 +1099,6 @@
 1024tools.com
 1024wl.com
 1024zx.com
-1026jz.com
 102no.com
 102pay.com
 103153.com
@@ -2433,6 +2434,7 @@
 1flash.net
 1foo.com
 1fooai.com
+1full:a1.mzstatic.com
 1g31.com
 1gaifang.com
 1gbru.com
@@ -2600,7 +2602,7 @@
 2-mm.net
 20001104.com
 2000200.com
-2000211.com
+200021full:265.com
 200022.xyz
 2000240.com
 2000888.com
