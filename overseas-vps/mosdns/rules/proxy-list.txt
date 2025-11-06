@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -4118,7 +4119,6 @@ bloggrowup.com
 blogimg.jp
 blogjav.net
 bloglines.com
-bloglinesnofthe90s.ac.uk
 bloglovin.com
 blogoverflow.com
 blogspot.ae
@@ -6127,7 +6127,7 @@ chii.in
 chikiporn.com
 chikubank.co.jp
 chilbolton.ac.uk
-childre000webhost.com
+childrenofthe90s.ac.uk
 chillingo.com
 chimeforchange.org
 china-autodesk.com
@@ -7179,7 +7179,7 @@ cuckwimp.com
 cudah.ac.uk
 cudassh.ac.uk
 cudos.ac.uk
-cue..com
+cue.ac.uk
 cuebic.biz
 cuffiesaldi.com
 cuhkacs.org
@@ -8719,7 +8719,6 @@ e-studio.ac.uk
 e-szigno.hu
 e-tugra.com
 e-zone.com.hk
-e.com
 e123.hk
 e3an.ac.uk
 e5.sk
@@ -10416,6 +10415,7 @@ fi11av1.com
 fi11tv1.com
 fibank.bg
 fibre-diffraction.ac.uk
+ficbook.net
 ficeboock.com
 ficm.ac.uk
 fictionmania.tv
@@ -12172,7 +12172,6 @@ getprintersupports.com
 getscorecash.com
 getsession.org
 getsexgames.com
-getsocialscopapplecensorship.com
 getsocialscope.com
 getsync.com
 gettr.com
@@ -12229,6 +12228,8 @@ ggjav.com
 ggoogle.com
 ggpds.com
 ggpht.com
+ggsel.com
+ggsel.net
 ggsrv.com
 ggssl.com
 gh.io
@@ -14490,7 +14491,6 @@ ibeats-uk.com
 ibeatsbydre.cc
 ibeatsbydre.com
 ibiblio.org
-ibin.com
 ibis.ac.uk
 ibkr.ca
 ibkr.co.in
@@ -15598,7 +15598,6 @@ iproperty.com
 iproperty.com.my
 iproperty.com.sg
 iptv.com.tw
-iptvac.uk
 iptvbin.com
 ipv6.ac.uk
 ipvanish.com
@@ -18948,7 +18947,7 @@ mo.nightlife141.com
 mobatek.net
 mobile.de
 mobile01.com
-mobilectchina.com
+mobilecumbria.ac.uk
 mobilefacebook.com
 mobileinternational.com
 mobilemarketo.com
@@ -21001,7 +21000,6 @@ nym97.net
 nypost.com
 nypost.help
 nypostreprints.com
-nys.gd
 nyt.com
 nyt.net
 nytchina.com
@@ -28436,7 +28434,6 @@ ultraxs.com
 umagazine.com.hk
 umass.edu
 umbrella.com
-umbria.ac.uk
 umds.ac.uk
 umich.edu
 umis.ac.uk
