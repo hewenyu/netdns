@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
+.info
 01.org
 02weqj32.com
 030buy.com
@@ -296,7 +296,6 @@
 3ddecember.com
 3december.com
 3decemberonline.com
-3devilattack.net
 3dfuckhouse.com
 3dhentai.tv
 3dhentaix.com
@@ -316,6 +315,7 @@
 3movs.com
 3movs.xyz
 3naked.com
+3oon.fm
 3pornhere.com
 3pornstarmovies.com
 3proxy.ru
@@ -880,6 +880,7 @@ admeld.com
 admin.recaptcha.net
 admob-cn.com
 admob.com
+adob.ucam.org
 adobe-aemassets-value.com
 adobe-audience-finder.com
 adobe-video-partner-finder.com
@@ -919,7 +920,6 @@ adobestock.com
 adobetag.com
 adobetarget.com
 adobetcstrialdvd.com
-adobetechcomm.com
 adobetechcommcallback.com
 adobetechcommdemo.com
 adobexdplatform.com
@@ -1965,9 +1965,9 @@ appdynamics.co.uk
 appdynamics.com
 appdynamics.de
 appdynamics.fr
-appdynamics.info
 appdynamics.jp
 appdynamics.org
+appdynamicsapplecensorship.com
 appe-store.com
 appexchange.com
 appl-e.com
@@ -6673,6 +6673,8 @@ cof.ac.uk
 cofacts.tw
 coffeemanga.to
 cogc.ac.uk
+cohere.ai
+cohere.com
 coinalyze.net
 coinbase.com
 coinbene.com
@@ -9610,6 +9612,7 @@ etaiwannews.com
 etbc.com.hk
 etc.ac.uk
 etcfhe.ac.uk
+etechcomm.com
 etextbooks.ac.uk
 etheadphones.com
 etherdelta.com
@@ -17593,6 +17596,7 @@ m-team.cc
 m.hkgalden.com
 m.me
 m.moegirl.org
+m000webhost.com
 m12.vc
 m25lib.ac.uk
 m2m.com
@@ -26012,6 +26016,7 @@ sqyzh-dh.sbs
 sr.ht
 src.ac.uk
 srcf.ucam.org
+srcfdevilattack.net
 srebrenica360.com
 srf.ac.uk
 srhe.ac.uk
@@ -27043,6 +27048,7 @@ tensorflow.org
 tentowns.ac.uk
 tenzinpalmo.com
 terabox.com
+teraboxcdn.com
 terapeack.com
 terapeak.ca
 terapeak.com

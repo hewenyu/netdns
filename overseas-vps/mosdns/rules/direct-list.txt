@@ -2977,7 +2977,7 @@
 24av.com
 24biao.com
 24dq.com
-24geban.com
+24gefull:a1.mzstatic.com
 24haowan.com
 24hmb.com
 24jiankong.com
@@ -13918,6 +13918,7 @@ bamensq.com
 bamenzhushou.com
 bamuwu.com
 bamuyu.com
+ban.com
 bananafather.com
 bananain.com
 bananalighter.com
@@ -25201,7 +25202,7 @@ cpu114.com
 cpu668.com
 cpu7.com
 cpubbs.com
-cpudj.com
+cpudj.comfull:265.com
 cpuh2.com
 cpury.com
 cpuxn.com
