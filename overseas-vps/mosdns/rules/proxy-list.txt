@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -3628,7 +3629,6 @@ blogebay.com
 blogger.com
 bloggrowup.com
 blogimg.jp
-blogimy-course.com
 blogjav.net
 bloglines.com
 bloglovin.com
@@ -7334,11 +7334,11 @@ easynike.com
 easypic.com
 easysexporn.com
 eater.com
-eba000webhost.com
 ebahy.com
 ebalovo.com
 ebay-authenticate.net
 ebay-confirm.com
+ebay-course.com
 ebay-cz.com
 ebay-delivery.com
 ebay-discoveries.com
@@ -10142,7 +10142,7 @@ gay.bingo
 gay0day.com
 gay1069sex.com
 gay4tube.com
-gayapatal.cog.jp
+gayapatal.com
 gayasianamateurs.com
 gayasiantheater.com
 gaybeeg.info
@@ -10578,7 +10578,6 @@ goldvip.cyou
 goldwave.com
 golos-ameriki.ru
 golosameriki.com
-gom
 gongkou-cc.sbs
 gonglchuangl.net
 gongm.in
@@ -15976,7 +15975,6 @@ mofos.com
 mofosex.com
 mofosnetwork.com
 mog.com
-mohu.cial.com
 mohu.club
 mohu.rocks
 moj.gov.tw
@@ -18177,8 +18175,8 @@ paypal-security.org
 paypal-service.org
 paypal-signin.com
 paypal-signin.us
+paypal-special.com
 paypal-specialoffers.com
-paypal-speogle.co.tz
 paypal-sptam.com
 paypal-status.com
 paypal-support.com
@@ -21212,7 +21210,6 @@ snow.me
 snowcorp.com
 snowlionpub.com
 snowmiku.com
-snrt.rs
 so-net.ne.jp
 so-net.net.tw
 soasta-dswb.com
@@ -22771,7 +22768,7 @@ tmdb.org
 tmei-taoyuan.com
 tmi.me
 tmpp.org
-tmrocks
+tmsnrt.rs
 tn1.shemalez.com
 tn2.shemalez.com
 tn3.shemalez.com
