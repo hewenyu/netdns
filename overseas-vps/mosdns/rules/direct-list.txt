@@ -1,9 +1,8 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -2978,7 +2977,7 @@
 24av.com
 24biao.com
 24dq.com
-24geban.com
+24gefull:265.com
 24haowan.com
 24hmb.com
 24jiankong.com
@@ -10115,7 +10114,7 @@ aheading.com
 ahean.com
 ahetyy.com
 ahfeixi.com
-ahfensitong.com
+ahfensitong.cofull:a1.mzstatic.com
 ahfg.net
 ahfgb.com
 ahfszx.com
@@ -13920,6 +13919,7 @@ bamensq.com
 bamenzhushou.com
 bamuwu.com
 bamuyu.com
+ban.com
 bananafather.com
 bananain.com
 bananalighter.com
@@ -66383,6 +66383,7 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
+m
 m-edu.com
 m-finder.com
 m-hero.com
