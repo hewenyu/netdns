@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -2977,7 +2978,7 @@
 24av.com
 24biao.com
 24dq.com
-24gefull:265.com
+24geban.com
 24haowan.com
 24hmb.com
 24jiankong.com
@@ -6593,6 +6594,7 @@
 5zls.com
 5zw.com
 6-china.com
+6-u.com
 600064.com
 600083.com
 600086.com
@@ -10114,7 +10116,7 @@ aheading.com
 ahean.com
 ahetyy.com
 ahfeixi.com
-ahfensitong.cofull:a1.mzstatic.com
+ahfensitong.com
 ahfg.net
 ahfgb.com
 ahfszx.com
@@ -13919,7 +13921,6 @@ bamensq.com
 bamenzhushou.com
 bamuwu.com
 bamuyu.com
-ban.com
 bananafather.com
 bananain.com
 bananalighter.com
@@ -52873,6 +52874,7 @@ imsilkroad.com
 imsinoexpo.com
 imsle.com
 imsun.net
+imsyy.com
 imtaweb.net
 imtics.com
 imtmp.net
@@ -59989,6 +59991,7 @@ kekebaby.com
 kekedj.com
 kekegold.com
 kekenet.com
+kekeniu.com
 kekeshici.com
 kekexueba.com
 kekeyuyin.com
@@ -66383,7 +66386,6 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
-m
 m-edu.com
 m-finder.com
 m-hero.com
@@ -79839,6 +79841,7 @@ qzhospital.com
 qzhrkj.com
 qzhsjc.com
 qzhslw.com
+qzhuye.com
 qzhxshipping.com
 qzimg.com
 qzj2.com
@@ -96606,6 +96609,7 @@ viablife.com
 viaeda.com
 vial.cc
 viarmour.com
+viayoo.com
 viberom.com
 vibit.cc
 vibrou.com
