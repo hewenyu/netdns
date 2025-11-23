@@ -775,6 +775,7 @@ addtoany.com
 addyoutube.com
 adelaidebbs.com
 adelaidenow.com.au
+adfox.ru
 adgoogle.net
 adguard-dns.com
 adguard-dns.io
@@ -809,6 +810,7 @@ adidas.ru
 adidas.se
 adinst.com
 admeld.com
+admetrica.ru
 admin.recaptcha.net
 admob-cn.com
 admob.com
@@ -11479,6 +11481,7 @@ heywire.com
 heyzo.com
 hf-iphone.com
 hf.co
+hf.space
 hg.cool
 hgamer.pro
 hgseav.com
@@ -14082,6 +14085,7 @@ kinkypeepz.com
 kinmen.org.tw
 kinmen.travel
 kinokuniya.com
+kinopoisk-ru.clstorage.net
 kinopoisk.ru
 kir.jp
 kir2kos.net
@@ -16609,6 +16613,7 @@ namethatporn.com
 namethatpornad.com
 namgyal.org
 namgyalmonastery.org
+namu.wiki
 nan-net.com
 nanopool.org
 nantobank.co.jp
@@ -18447,6 +18452,7 @@ picnik.com
 picpost.com
 pics.ee
 pics.vc
+picsart.com
 picsee.co
 picsee.pro
 pictoa.com
@@ -24723,6 +24729,8 @@ websitepulse.com
 webtoons.com
 webtoonscorp.com
 webtype.com
+webvisor.com
+webvisor.org
 webwarper.net
 webworkerdaily.com
 wechatlawsuit.com
@@ -25733,6 +25741,7 @@ ya.ru
 yaddal.tv
 yadi.sk
 yadori.club
+yads.tech
 yaeby.info
 yaeby.pro
 yahoo
@@ -25906,6 +25915,7 @@ yande.re
 yandex
 yandex-bank.net
 yandex-images.clstorage.net
+yandex-team.ru
 yandex.aero
 yandex.az
 yandex.by
@@ -25941,6 +25951,7 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexmetrica.com
 yandexwebcache.org
 yanghengjun.com
 yangzhi.org
@@ -25956,6 +25967,7 @@ yarininsuyu.com
 yarnpkg.com
 yasarang.net
 yasni.co.uk
+yastat.net
 yastatic.net
 yasukuni.or.jp
 yavtube.com
