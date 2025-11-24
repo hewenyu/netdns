@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1008,6 +1008,7 @@ ahtops.com
 ahtranny.com
 ahvideosexe.com
 ahxxx.club
+ai-sdk.dev
 ai.binwang.me
 ai.dev
 ai7995.site
@@ -17871,6 +17872,7 @@ origin.com
 origin.tv
 originalhulu.com
 originalindianporn.com
+originlab.com
 orithegame.com
 orl.ly
 orlandohurricane.com
