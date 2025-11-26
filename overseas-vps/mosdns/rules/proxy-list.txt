@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -1714,7 +1713,7 @@ ap-southeast-201.myhuaweicloud.com
 ap-southeast-202.myhuaweicloud.com
 ap-southeast-203.myhuaweicloud.com
 ap-southeast-3.myhuaweicloud.com
-ap-southeast-4.myhuaweicloud.com
+ap-southeast-4.mykerdeck.com
 ap-southeast-5.myhuaweicloud.com
 ap-tokyo.myqcloud.com
 ap-tokyo.tencentcos.cn
@@ -3494,7 +3493,6 @@ bing
 bing.com
 bing.net
 bing123.com
-bingads.com
 bingagencyawards.com
 bingapis.com
 bingapistatistics.com
@@ -8160,7 +8158,6 @@ facebook30.com
 facebook30.net
 facebook30.org
 facebook4business.com
-facebookads.com
 facebookadvertisingsecrets.com
 facebookappcenter.info
 facebookappcenter.net
@@ -12074,6 +12071,7 @@ huashundg.com
 huati.cc
 huaweicloud-dns.net
 huaweicloud-dns.org
+huaweicloud.com
 huaxiabao.org
 huaxin-lls.xyz
 huaxin.ph
@@ -15459,7 +15457,6 @@ microsoft.vn
 microsoft365.com
 microsoftaccountguard.com
 microsoftadc.com
-microsoftads.com
 microsoftadvertising.com
 microsoftadvertisingregionalawards.com
 microsoftaffiliates.com
@@ -16215,7 +16212,6 @@ ms-studiosmedia.com
 ms365surfaceoffer.com
 ms4dre.com
 msa-it.org
-msads.net
 msauth.net
 mschallenge2018.com
 msdn.com
@@ -20531,6 +20527,7 @@ sensorynetworks.com
 sensualgirls.org
 sensualmothers.com
 sensueel.net
+sentry-cdn.com
 sentry.io
 senzuritv.net
 seqing.one
@@ -21460,6 +21457,7 @@ sparkpool.com
 spatial.io
 spb.com
 spcc-sp.com
+spea000webhost.com
 speakerdeck.com
 spearhead.kr
 specialtyheadphones.com
