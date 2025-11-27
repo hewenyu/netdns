@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -7158,7 +7159,6 @@
 7-mi.net
 7-vk.com
 7-wx.com
-7.com
 70.cc
 70.net
 700618.com
@@ -8656,6 +8656,7 @@
 93636.com
 93692zubo66936.com
 936u.com
+9377.com
 937791.com
 9377a.com
 9377d.com
@@ -8667,7 +8668,6 @@
 9377os.com
 9377s.com
 9377z.com
-937full:a1.mzstatic.com
 93913.com
 939394.xyz
 93966.com
@@ -16418,7 +16418,7 @@ bjsjstxyy.com
 bjsjsyly.com
 bjsjwl.com
 bjskjzs.com
-bjsoho.cofull:265.com
+bjsoho.com
 bjsound.com
 bjsoyo.com
 bjsptf.com
@@ -25699,6 +25699,7 @@ cqshulan.com
 cqshyzx.com
 cqsifang.com
 cqsj365.com
+cqsjb.com
 cqsjbc.com
 cqsjky.com
 cqsjnzx.com
@@ -66470,7 +66471,6 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
-m
 m-edu.com
 m-finder.com
 m-hero.com
@@ -102672,6 +102672,7 @@ xhjt.com
 xhkt.tv
 xhlaowu.com
 xhlcsl.com
+xhlsgs.com
 xhma.com
 xhmedia.com
 xhmwxy.com
@@ -104192,6 +104193,7 @@ xinwenke.com
 xinwenku.com
 xinwenlianbo.tv
 xinwo.com
+xinwuji.com
 xinwulan.com
 xinxe.com
 xinxi28.com
@@ -109303,6 +109305,7 @@ yoka.com
 yokacdn.com
 yokagames.com
 yokaimg.com
+yokaverse.com
 yokechina.com
 yokmob.com
 yokong.com
