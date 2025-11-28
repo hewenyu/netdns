@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -939,6 +939,7 @@ advertfan.com
 advertisercommunity.com
 adx.promo
 ae-ad-1.myhuaweicloud.com
+ae-rus.net
 ae.hao123.com
 ae.org
 aeasyshop.com
@@ -950,6 +951,7 @@ aerogard.com.au
 aerogardcn.com
 aerospace-cadcam.com
 aerospace-design.com
+aestatic.net
 aesworkshops.com
 aex.com
 af-east-201.myhuaweicloud.com
@@ -1600,6 +1602,7 @@ angelweb.jp
 angola.org
 angulardart.org
 angularjs.org
+anhaodang.com
 anibooru.com
 anidom.com
 anigema.jp
@@ -2001,7 +2004,7 @@ appleone.chat
 appleone.cloud
 appleone.club
 appleone.community
-appleone.film
+appleone.fi000webhost.com
 appleone.guide
 appleone.host
 appleone.space
@@ -3988,9 +3991,9 @@ bmw.ba
 bmw.bb
 bmw.be
 bmw.bg
+bmw.bhangeip.net
 bmw.bm
 bmw.bs
-bmw.by
 bmw.ca
 bmw.cc
 bmw.ch
@@ -5463,6 +5466,7 @@ clipsbai.com
 clipseksi.com
 clipsex.asia
 clitgames.com
+clm
 clock.isc.org
 clojure.org
 cloud.dify.ai
@@ -5672,6 +5676,9 @@ comdotgame.com
 come29.xyz
 comefromchina.com
 cometotheduckside.com
+comfy.org
+comfyci.org
+comfyregistry.org
 comic-mega.me
 comicbox.xyz
 comicscartoonporn.com
@@ -7334,7 +7341,6 @@ easy.ac
 easyanticheat.net
 easyca.ca
 easylist.to
-easynike.com
 easypic.com
 easysexporn.com
 eater.com
@@ -8800,6 +8806,7 @@ five-d.com
 fivestarpornsites.com
 fixtracking.com
 fjlkajhgfa.top
+fkerdeck.com
 fl310.com
 flagrasamadores.net
 flagsonline.it
@@ -9465,6 +9472,7 @@ full:d1k2us671qcoau.cloudfront.net
 full:d1m7jfoe9zdc1j.cloudfront.net
 full:d1mhjrowxxagfy.cloudfront.net
 full:d1oca24q5dwo6d.cloudfront.net
+full:d1unuk07s6td74.cloudfront.net
 full:d1v5ir2lpwr8os.cloudfront.net
 full:d1w2poirtb3as9.cloudfront.net
 full:d1xhnb4ptk05mw.cloudfront.net
@@ -9669,6 +9677,9 @@ full:push-apple.com.akadns.net
 full:pvr-hamivideo.cdn.hinet.net
 full:qualcomm.sc.omtrdc.net
 full:rink.hockeyapp.net
+full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
+full:roblox-poc.global.ssl.fastly.net
+full:robloxcorp.s.llnwi.net
 full:rss.4040940.xyz
 full:rss.datuan.dev
 full:rss.littlebaby.life
@@ -10666,6 +10677,7 @@ google.co.uk
 google.co.uz
 google.co.ve
 google.co.vi
+google.co.y
 google.co.za
 google.co.zm
 google.co.zw
@@ -14763,6 +14775,7 @@ m.me
 m.moegirl.org
 m12.vc
 m2m.com
+ma
 ma.hao123.com
 ma1lib.org
 maa.plus
@@ -16950,7 +16963,6 @@ nfscofficial.com
 nfsworld.com
 nftstatic.com
 nftstorage.link
-ng-cadcam.com
 nga.mil
 ngensis.com
 ngeo.com
@@ -17961,6 +17973,7 @@ oxlife.co
 oyax.com
 oyeloca.com
 oyghan.com
+oystermercury.top
 ozchinese.com
 ozeex.com
 ozodi.org
@@ -19583,7 +19596,7 @@ rapbull.net
 rapefilms.net
 rapetube.me
 rapidmoviez.com
-rapidprototypiapplecensorship.com
+rapidprototyping-cadcam.com
 rapidssl.com
 rapidvpn.com
 raponlinereview.com
@@ -19631,12 +19644,15 @@ rbeopp.com
 rbeuroinfo.com
 rbgrads.com
 rbgraduates.com
+rblx.org
 rbmavericks.com
 rbnainternational.com
 rbplc.com
 rbrandlibrary.com
 rbsgr.com
 rbspeakup.com
+rbx.com
+rbxcdn.com
 rcam.target.com
 rcinet.ca
 rcl07.xyz
@@ -20062,6 +20078,9 @@ rmjdw.com
 ro89.com
 road-crew.com
 roadshow.hk
+roblox-api.arkoselabs.co
+roblox.com
+robloxlabs.com
 robobat.com
 roboforex.com
 roboform.com
@@ -21459,6 +21478,7 @@ sparkpool.com
 spatial.io
 spb.com
 spcc-sp.com
+speaeasynike.com
 speakerdeck.com
 spearhead.kr
 specialtyheadphones.com
