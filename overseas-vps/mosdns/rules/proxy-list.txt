@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -3335,6 +3335,7 @@ besuty99.com
 besztbuy.com
 bet365.com
 betaclouds.net
+betanenglish.com
 betfair.com
 beth.games
 bethesda.net
@@ -5007,6 +5008,7 @@ cdpuk.co.uk
 cdpweb.org
 cdpwu.org
 cdw.com
+ce.net
 cebay.com
 cecc.gov
 ceicdata.com
@@ -7642,6 +7644,7 @@ elsevier-ae.com
 elsevier.com
 elsevier.io
 eltondisney.com
+eltondisr.com
 emac.co.in
 emac.in
 emaga.com
@@ -8704,6 +8707,7 @@ findsav.com
 findtubes.com
 findvrporn.com
 findyourlimits.com
+findyoutub000webhost.com
 findyoutube.com
 findyoutube.net
 fine-art-nude.org
@@ -10149,6 +10153,7 @@ gateio.live
 gateio.services
 gateway.dev
 gateway.pinata.cloud
+gathehangeip.net
 gather.com
 gatherproxy.com
 gauleporno.xxx
@@ -10656,6 +10661,7 @@ google.cl
 google.cm
 google.cn
 google.co
+google.co..games
 google.co.ao
 google.co.bw
 google.co.ck
@@ -13101,6 +13107,7 @@ investorschronicle.co.uk
 invidio.us
 invity.io
 inxian.com
+inxias
 inxporn.com
 ioe.com
 ioffergift.com
@@ -13739,8 +13746,8 @@ jobnewera.wordpress.com
 jodic-forum.org
 joeswall.com
 johnpersons.com
-johren.games
 johren.net
+johrenney.com
 joiasmr.com
 joinclubhouse.com
 joinmaidez.com
@@ -14563,6 +14570,7 @@ lizhizhuangbi.com
 lizol.co.in
 lkcn.net
 ll82y2ifdd.top
+llama.com
 llbd10.shop
 llcaoxm-avi.sbs
 lldns.net
@@ -15992,6 +16000,7 @@ mofosex.com
 mofosnetwork.com
 mog.com
 mohu.club
+mohu.rockma
 mohu.rocks
 moj.gov.tw
 mojang.com
@@ -17064,7 +17073,7 @@ nikefind.com
 nikefirm.com
 nikefoamposites.com
 nikefoampositeshoes.com
-nikefootballcleats.com
+nikefootballcleats.comn.com
 nikefootballgloves.com
 nikefootballjersey.com
 nikefoundation.org
@@ -17332,6 +17341,7 @@ ntd.com
 ntd.tv
 ntdca.com
 ntdimg.com
+ntdt
 ntdtv-dc.com
 ntdtv.ca
 ntdtv.co.kr
@@ -20595,8 +20605,8 @@ sex-for-work.com
 sex-gif.org
 sex-hay.pro
 sex-hot-sites.com
-sex-ly.com
 sex-teen.net
+sex-v.cz
 sex-young.com
 sex.cam
 sex.com
@@ -21481,6 +21491,7 @@ spatial.io
 spb.com
 spcc-sp.com
 speakerdeck.com
+spealy.com
 spearhead.kr
 specialtyheadphones.com
 spectraltube.com
@@ -22769,6 +22780,7 @@ tinkerentertainment.com
 tinkerplay.net
 tiny.cc
 tiny4k.com
+tinychakerdeck.com
 tinychat.com
 tinypaste.com
 tinyurl.com
@@ -23177,6 +23189,7 @@ turbo.com
 turbobit.net
 turbogvideos.com
 turbohide.com
+turbopages.org
 turborepo.org
 turbotax.com
 turkeyblocks.org
@@ -24280,6 +24293,7 @@ voathai.com
 voatibetan.com
 voatibetanenglish.com
 voatiengviet.com
+voatiiaomi.eu
 voatour.com
 voazimbabwe.com
 vocaroo.com
@@ -26378,6 +26392,7 @@ zamimg.com
 zaobao.com
 zaobao.com.sg
 zaobao.sg
+zaochenbao.com
 zapper.fi
 zappos
 zapto.org
