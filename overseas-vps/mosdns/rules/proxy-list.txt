@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -498,6 +498,8 @@
 7mmtv.sx
 7mmtv.tv
 7tb.cc
+7tv.app
+7tv.io
 8-d.com
 8008206616.com
 8111y.top
@@ -3335,7 +3337,6 @@ besuty99.com
 besztbuy.com
 bet365.com
 betaclouds.net
-betanenglish.com
 betfair.com
 beth.games
 bethesda.net
@@ -4822,6 +4823,7 @@ canonfoundation.org
 canonical.com
 canonproprinters.com
 canva.com
+canvastatus.com
 canyu.org
 caobian.info
 caochangqing.com
@@ -5008,7 +5010,6 @@ cdpuk.co.uk
 cdpweb.org
 cdpwu.org
 cdw.com
-ce.net
 cebay.com
 cecc.gov
 ceicdata.com
@@ -7644,7 +7645,6 @@ elsevier-ae.com
 elsevier.com
 elsevier.io
 eltondisney.com
-eltondisr.com
 emac.co.in
 emac.in
 emaga.com
@@ -8707,7 +8707,6 @@ findsav.com
 findtubes.com
 findvrporn.com
 findyourlimits.com
-findyoutub000webhost.com
 findyoutube.com
 findyoutube.net
 fine-art-nude.org
@@ -10153,7 +10152,6 @@ gateio.live
 gateio.services
 gateway.dev
 gateway.pinata.cloud
-gathehangeip.net
 gather.com
 gatherproxy.com
 gauleporno.xxx
@@ -10661,7 +10659,6 @@ google.cl
 google.cm
 google.cn
 google.co
-google.co..games
 google.co.ao
 google.co.bw
 google.co.ck
@@ -11093,6 +11090,8 @@ h2porn.com
 h528.com
 h5dm.com
 h5galgame.me
+habr.com
+habrastorage.org
 hackday.com.au
 hacken.cc
 hacker.org
@@ -13107,7 +13106,6 @@ investorschronicle.co.uk
 invidio.us
 invity.io
 inxian.com
-inxias
 inxporn.com
 ioe.com
 ioffergift.com
@@ -13746,8 +13744,8 @@ jobnewera.wordpress.com
 jodic-forum.org
 joeswall.com
 johnpersons.com
+johren.games
 johren.net
-johrenney.com
 joiasmr.com
 joinclubhouse.com
 joinmaidez.com
@@ -15382,6 +15380,7 @@ metabora.io
 metabrainz.org
 metacloud.com
 metacpan.org
+metacritic.com
 metacubex.one
 metafilter.com
 metalpha.finance
@@ -16000,7 +15999,6 @@ mofosex.com
 mofosnetwork.com
 mog.com
 mohu.club
-mohu.rockma
 mohu.rocks
 moj.gov.tw
 mojang.com
@@ -17073,7 +17071,7 @@ nikefind.com
 nikefirm.com
 nikefoamposites.com
 nikefoampositeshoes.com
-nikefootballcleats.comn.com
+nikefootballcleats.com
 nikefootballgloves.com
 nikefootballjersey.com
 nikefoundation.org
@@ -17341,7 +17339,6 @@ ntd.com
 ntd.tv
 ntdca.com
 ntdimg.com
-ntdt
 ntdtv-dc.com
 ntdtv.ca
 ntdtv.co.kr
@@ -20159,6 +20156,7 @@ rssmeme.com
 rstatic.net
 rt.com
 rtalabel.org
+rtbcdn.ru
 rthk.hk
 rthk.org.hk
 rthklive2-lh.akamaihd.net
@@ -20211,6 +20209,7 @@ rutracker.org
 rutrecker.net
 rutrk.org
 rutube.ru
+rutubelist.ru
 ruvideos.net
 rxhj.net
 ryokoyomiuri.co.jp
@@ -20605,8 +20604,8 @@ sex-for-work.com
 sex-gif.org
 sex-hay.pro
 sex-hot-sites.com
+sex-ly.com
 sex-teen.net
-sex-v.cz
 sex-young.com
 sex.cam
 sex.com
@@ -21491,7 +21490,6 @@ spatial.io
 spb.com
 spcc-sp.com
 speakerdeck.com
-spealy.com
 spearhead.kr
 specialtyheadphones.com
 spectraltube.com
@@ -22319,6 +22317,7 @@ tellapart.com
 tellme.pw
 tellmewhygame.com
 temetube.xyz
+temp-mail.org
 temu.com
 tenacy.com
 tenbyfotolia.com
@@ -22780,7 +22779,6 @@ tinkerentertainment.com
 tinkerplay.net
 tiny.cc
 tiny4k.com
-tinychakerdeck.com
 tinychat.com
 tinypaste.com
 tinyurl.com
@@ -23711,6 +23709,8 @@ vaultify.com
 vaultify.info
 vaultify.net
 vaultproject.io
+vbcdn.com
+vbcdn.net
 vbejeyv.shop
 vcanedge.com
 vce.com
@@ -23915,7 +23915,9 @@ viacbs.com
 viacom.com
 viacomcbs.com
 viacomcbspressexpress.com
+viber.co
 viber.com
+viber.me
 vica.info
 victimsofcommunism.org
 vid.me
@@ -24293,7 +24295,6 @@ voathai.com
 voatibetan.com
 voatibetanenglish.com
 voatiengviet.com
-voatiiaomi.eu
 voatour.com
 voazimbabwe.com
 vocaroo.com
