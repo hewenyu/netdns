@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -36382,7 +36383,6 @@ full:avail.googleflights.net
 full:b.c2r.ts.cdn.office.net
 full:bag-cdn.itunes-apple.com.akadns.net
 full:bag.itunes.apple.com
-full:bbs.ztedevices.com
 full:beacons.gcp.gvt2.com
 full:beacons.gvt2.com
 full:beacons2.gvt2.com
@@ -36925,7 +36925,6 @@ full:www.microsoft.com
 full:www.pxcc.com
 full:www.recaptcha.net
 full:www.support.apple.com
-full:www.ztedevices.com
 full:www4-static.gog-statics.com
 full:xn--flw351e.com
 full:xp.apple.com
@@ -45163,6 +45162,7 @@ hapierxia.com
 hapingapp.com
 hapipixia.com
 hapiyixia.com
+hapjs.org
 haplat.net
 happi123.com
 happigo.com
