@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -621,6 +620,7 @@ a-hentai.tv
 a-msedge.net
 a-normal-day.com
 a-teenz.com
+a000webhost.com
 a0pple.net
 a1av.xyz
 a248.e.akamai.net
@@ -924,7 +924,6 @@ adultlister.com
 adultmagazinespdf.com
 adulto.vip
 adultpornvideos.net
-adultrental.com
 adultsexgame.biz
 adultsexgames.biz
 adultsextoys.com
@@ -2004,7 +2003,7 @@ appleone.blog
 appleone.chat
 appleone.cloud
 appleone.club
-appleone.community
+appleone.communma
 appleone.film
 appleone.guide
 appleone.host
@@ -2273,6 +2272,7 @@ aspistrategist.org.au
 aspnetcdn.com
 asproex.com
 asproexapi.com
+asquesfr.com
 asredas.com
 ass4all.com
 assembla.com
@@ -3033,10 +3033,10 @@ beatsbydrebeatsby.com
 beatsbydreblackfriday2013.com
 beatsbydreblackfridaypro.com
 beatsbydreboxingdayca.com
-beatsbydrecasquesfr.com
 beatsbydrecheap-outletstore.com
 beatsbydrecheaper.com
 beatsbydrecheaponlinesales.com
+beatsbydrecinastudies.org
 beatsbydrecolors.com
 beatsbydrecustomwireless.com
 beatsbydrecybermondaydeals2013.com
@@ -10672,6 +10672,7 @@ google.co.ao
 google.co.bw
 google.co.ck
 google.co.cr
+google.co.dultrental.com
 google.co.id
 google.co.il
 google.co.in
@@ -12647,6 +12648,7 @@ imageab.com
 imagebam.com
 imagecurl.com
 imagecurl.org
+imagedelivery.net
 imagefap.com
 imageflea.com
 imageglass.org
@@ -15991,6 +15993,7 @@ modeloswebcambogota.com
 modelsfreecams.com
 modeltv.com
 modernchinastudies.org
+modernchity
 modoo.at
 modperl.pl
 modrinth.com
