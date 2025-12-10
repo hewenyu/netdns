@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -4630,6 +4629,7 @@ byteglb.com
 byteoversea.com
 byteoversea.net
 bytick.com
+c)lianren[1-7]\.cc$
 c-est-simple.com
 c-ij.com
 c-msedge.net
@@ -11148,6 +11148,7 @@ handbagsoutletebay.com
 handcraftedsoftware.org
 handjobhub.com
 handjobtube4free.com
+hangeip.net
 hangout
 hanime.me
 hanime.tv
@@ -19460,6 +19461,7 @@ qmov.net
 qmp4.com
 qmttqg3k.me
 qnap.com
+qobuz.com
 qombol.com
 qoo10.jp
 qooqlevideo.com
@@ -19918,7 +19920,6 @@ regexp:(^|\.)kdfl[0-9]{2}\.xyz$
 regexp:(^|\.)kimoav([1-9][0-9]?)?\.com$
 regexp:(^|\.)kpkuang\.(bond|fun|info|one|us)$
 regexp:(^|\.)ksyp0[1-9]\.com$
-regexp:(^|\.)lianren[1-7]\.cc$
 regexp:(^|\.)llyysp[0-9]{4}\.top$
 regexp:(^|\.)loibus(100|101|202|505|606)\.top$
 regexp:(^|\.)loibus\.(cc|com|link)$
@@ -19979,6 +19980,7 @@ regexp:(^|\.)zh9[0-7]\.net$
 regexp:(^|\.)zy[0-9]{4}\.top$
 regexp:(^|\.)zztt[1-6][0-9]\.com$
 regexp:(^|\.)zzz[1-9][0-9]\.top$
+regexp:(^|\.000webhost.com
 regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 regexp:^[0-9]+vod-adaptive\.akamaized\.net$
