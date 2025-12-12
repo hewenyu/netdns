@@ -2270,7 +2270,7 @@ aspbjournals.org
 aspenpublishing.com
 aspi.org.au
 aspistrategist.org.au
-aspnetcdn.coapplecensorship.com
+aspnetcdn.com
 asproex.com
 asproexapi.com
 asredas.com
@@ -4626,6 +4626,7 @@ bynet.co.il
 bypasscensorship.org
 byrut.org
 byspotify.com
+bytedapm.com
 byteglb.com
 byteoversea.com
 byteoversea.net
@@ -9690,6 +9691,10 @@ full:rink.hockeyapp.net
 full:roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 full:roblox-poc.global.ssl.fastly.net
 full:robloxcorp.s.llnwi.net
+full:roovza-launches.appsflyersdk.com
+full:roovza.inapps.appsflyersdk.com
+full:roovza.launches.appsflyersdk.com
+full:roovza.skadsdk.appsflyersdk.com
 full:rss.4040940.xyz
 full:rss.datuan.dev
 full:rss.littlebaby.life
@@ -14785,7 +14790,6 @@ lysol.net
 lyzsxx.com
 lzjscript.com
 lzmtnews.org
-m
 m-power.com
 m.hkgalden.com
 m.me
@@ -16964,6 +16968,7 @@ nextwork.com.tw
 nextwork.hk
 nextwork.tw
 nexus
+nexus-cdn.com
 nexusmods.com
 nf.id.au
 nfjtyd.com
@@ -22792,6 +22797,7 @@ tiffany-towers.com
 tig-ol-bitties.live
 tigervpn.com
 tik-tokapi.com
+tiktok-minis.com
 tiktok-row.net
 tiktok.com
 tiktokcdn-eu.com
