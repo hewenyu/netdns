@@ -1708,6 +1708,7 @@ ap-mumbai.myqcloud.com
 ap-mumbai.tencentcos.cn
 ap-mumbai.tencentcos.com
 ap-mumbai.tencentcos.com.cn
+ap-northeast-2.amazonaws.com
 ap-northeast-201.myhuaweicloud.com
 ap-seoul.myqcloud.com
 ap-seoul.tencentcos.cn
@@ -20339,7 +20340,7 @@ s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
 s3-eu-central-1.amazonaws.com
 s3.amazonaws.com
-s3.ap-northeast-2.amazonaws.com
+s3.applecensorship.com
 s3.eu-central-1.amazonaws.com
 s3.us-east-1.amazonaws.com
 s81c.com
