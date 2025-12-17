@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -2232,6 +2231,7 @@ asianage.com
 asianboygay.com
 asiancamgirllive.com
 asiancamly.com
+asiancoochies.com
 asianews.it
 asianfanfics.com
 asianfreeporn.net
@@ -3402,12 +3402,15 @@ bigbeans.solutions
 bigbigchannel.com.hk
 bigbigshop.com
 bigblackdicklover.com
+bigboobalexya.com
 bigboobbundle.com
+bigboobdaria.com
 bigboobsalert.com
 bigboobsandhotsex.com
 bigboobsonline.org
 bigboobspov.com
 bigboobswives.com
+bigboobvanessay.com
 bigboss.video
 bigbuckbunny.org
 bigcharts.com
@@ -3428,6 +3431,7 @@ bigsound.org
 bigtitangelawhite.com
 bigtithitomi.com
 bigtithooker.com
+bigtitkatiethornton.com
 bigtitsextapes.com
 bigtitsgallery.net
 bigtitsmodelsdirectory.com
@@ -4557,6 +4561,7 @@ bustydustystash.com
 bustyinescudna.com
 bustykellykay.com
 bustykerrymarie.com
+bustylezzies.com
 bustylornamorgan.com
 bustymerilyn.com
 bustymomsvideo.com
@@ -5107,6 +5112,7 @@ charlestonroadregistry.com
 charlotte-anime.jp
 charmescorts.com
 charticulator.com
+chashs.xyz
 chat.com
 chat.lmsys.org
 chatango.com
@@ -5208,6 +5214,7 @@ chianxv.buzz
 chibabank.co.jp
 chibakogyo-bank.co.jp
 chicagolandbmw.com
+chicksonblackdicks.com
 chickstagram.com
 chickteases.com
 chid.com.mm
@@ -6014,6 +6021,7 @@ cursor.sh
 cursorapi.com
 curve.fi
 curvefish.com
+curvefiull:scholar.google.fi
 curvybbwwives.com
 curvyerotic.com
 cusp.hk
@@ -7546,6 +7554,7 @@ ebc.net.tw
 ebenporno.com
 ebony-beauty.com
 ebonyinlove.com
+ebonythots.com
 ebonywebcamhub.com
 eboobstore.com
 ebook.hyread.com.tw
@@ -8910,6 +8919,7 @@ fnac.be
 fnac.com
 fnacebook.com
 fnc.ebc.net.tw
+fngeip.name
 fnlondon.com
 fnmt.es
 foampositeshoes.com
@@ -9790,7 +9800,6 @@ full:scholar.google.cz
 full:scholar.google.de
 full:scholar.google.dk
 full:scholar.google.es
-full:scholar.google.fi
 full:scholar.google.fr
 full:scholar.google.gr
 full:scholar.google.hn
@@ -9815,6 +9824,7 @@ full:scholar.googleusercontent.com
 full:scholar.l.google.com
 full:sentry.ppy.sh
 full:servd-anthropic-website.b-cdn.net
+full:sh.com
 full:sni1dcb6gl.wpc.edgecastcdn.net
 full:spectator.ppy.sh
 full:spotify.com.edgesuite.net
@@ -9928,7 +9938,6 @@ full:wwis-dubc1-vip101.adobe.com
 full:wwis-dubc1-vip102.adobe.com
 full:wwis-dubc1-vip103.adobe.com
 full:wwis-dubc1-vip104.adobe.com
-full:wwis-dubc1-vip105.adobe.com
 full:wwis-dubc1-vip106.adobe.com
 full:wwis-dubc1-vip107.adobe.com
 full:wwis-dubc1-vip108.adobe.com
@@ -10714,6 +10723,7 @@ google.co.jp
 google.co.ke
 google.co.kr
 google.co.ls
+google.co.lwwis-dubc1-vip105.adobe.com
 google.co.ma
 google.co.mz
 google.co.nz
@@ -11160,6 +11170,7 @@ hairy-amateurs.com
 hairy-beauty.com
 hairy-women-pussy.net
 hairyclassic.com
+hairycoochies.com
 hairydivas.com
 hairynature.com
 hairyolder.com
@@ -11783,6 +11794,7 @@ horizontal-llc.com
 horizontal-systems.com
 horizontalglue.com
 horizontalsystems.com
+hornyasianmilfs.com
 hornybitches.org
 hornybutt.com
 hornychat.net
@@ -13702,6 +13714,7 @@ jerkmate.com
 jerkmate.tv
 jerkmatelive.org
 jerkofftocelebs.com
+jessicaturner.co.uk
 jessicaturner.com
 jetbrains.ai
 jetbrains.com
@@ -14369,6 +14382,8 @@ latelinenews.com
 latencytop.com
 latex-project.org
 latinaabuse.com
+latinacoochies.com
+latinmommas.com
 latintubeporn.com
 latticedata.com
 launchpad.net
@@ -20269,6 +20284,7 @@ routerboard.com
 routledgehandbooks.com
 rowblocks.com
 rowblox.com
+roxired.com
 royalcams.com
 royalsocietypublishing.org
 rpglogs.com
@@ -20352,6 +20368,7 @@ rxhj.net
 ryokoyomiuri.co.jp
 ryukyubank.co.jp
 rzr.to
+s
 s-bluemix.net
 s-books.com
 s-cashonmobile.com
@@ -20367,6 +20384,7 @@ s-rewards.hk
 s-xoom.com
 s.team
 s.yimg.com
+s000webhost.com
 s1s1s1.com
 s2csntp.miz.nao.ac.jp
 s2stagehance.com
@@ -21727,7 +21745,6 @@ ssglobal.co
 ssglobal.me
 sshs.club
 sshs.pw
-sshs.xyz
 ssl-certificate.ch
 ssl-images-amazon.com
 ssl.com
