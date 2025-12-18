@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -3539,6 +3540,7 @@ bisyoujyogyaruge.topaz.ne.jp
 bit-z.com
 bit.do
 bit.ly
+bitbaby.com
 bitballoon.com
 bitbank.cc
 bitbay.net
@@ -5112,7 +5114,6 @@ charlestonroadregistry.com
 charlotte-anime.jp
 charmescorts.com
 charticulator.com
-chashs.xyz
 chat.com
 chat.lmsys.org
 chatango.com
@@ -6021,7 +6022,6 @@ cursor.sh
 cursorapi.com
 curve.fi
 curvefish.com
-curvefiull:scholar.google.fi
 curvybbwwives.com
 curvyerotic.com
 cusp.hk
@@ -8919,7 +8919,6 @@ fnac.be
 fnac.com
 fnacebook.com
 fnc.ebc.net.tw
-fngeip.name
 fnlondon.com
 fnmt.es
 foampositeshoes.com
@@ -9800,6 +9799,7 @@ full:scholar.google.cz
 full:scholar.google.de
 full:scholar.google.dk
 full:scholar.google.es
+full:scholar.google.fi
 full:scholar.google.fr
 full:scholar.google.gr
 full:scholar.google.hn
@@ -9824,7 +9824,6 @@ full:scholar.googleusercontent.com
 full:scholar.l.google.com
 full:sentry.ppy.sh
 full:servd-anthropic-website.b-cdn.net
-full:sh.com
 full:sni1dcb6gl.wpc.edgecastcdn.net
 full:spectator.ppy.sh
 full:spotify.com.edgesuite.net
@@ -9938,6 +9937,7 @@ full:wwis-dubc1-vip101.adobe.com
 full:wwis-dubc1-vip102.adobe.com
 full:wwis-dubc1-vip103.adobe.com
 full:wwis-dubc1-vip104.adobe.com
+full:wwis-dubc1-vip105.adobe.com
 full:wwis-dubc1-vip106.adobe.com
 full:wwis-dubc1-vip107.adobe.com
 full:wwis-dubc1-vip108.adobe.com
@@ -10723,7 +10723,6 @@ google.co.jp
 google.co.ke
 google.co.kr
 google.co.ls
-google.co.lwwis-dubc1-vip105.adobe.com
 google.co.ma
 google.co.mz
 google.co.nz
@@ -12437,6 +12436,7 @@ icuminside.com
 id.hao123.com
 id.heroku.com
 idarkdoll.com
+idcflare.com
 idea-server.com
 ideal-teens.com
 ideapocket.com
@@ -20368,7 +20368,6 @@ rxhj.net
 ryokoyomiuri.co.jp
 ryukyubank.co.jp
 rzr.to
-s
 s-bluemix.net
 s-books.com
 s-cashonmobile.com
@@ -20384,7 +20383,6 @@ s-rewards.hk
 s-xoom.com
 s.team
 s.yimg.com
-s000webhost.com
 s1s1s1.com
 s2csntp.miz.nao.ac.jp
 s2stagehance.com
@@ -21745,6 +21743,7 @@ ssglobal.co
 ssglobal.me
 sshs.club
 sshs.pw
+sshs.xyz
 ssl-certificate.ch
 ssl-images-amazon.com
 ssl.com
