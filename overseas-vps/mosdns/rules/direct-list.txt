@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -4113,7 +4113,7 @@
 391k.com
 392766.net
 393.com
-3937.cofull:265.com
+3937.com
 3939339.com
 394394.com
 39655.com
@@ -66588,7 +66588,6 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
-m
 m-edu.com
 m-finder.com
 m-hero.com
@@ -69641,6 +69640,7 @@ moonton.com
 moontonapp.com
 moontontech.net
 moonvy.com
+moonvy.cool
 moooc.cc
 mooooc.com
 mooool.com

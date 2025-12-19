@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -2004,8 +2004,8 @@ applenews.berlin
 applenews.hamburg
 applenews.tv
 applenewsformat.com
+appleo
 appleone.audio
-appleone.blog
 appleone.chat
 appleone.cloud
 appleone.club
@@ -2645,6 +2645,7 @@ awjq.cc
 aws
 aws-iot-hackathon.com
 aws.com
+aws.dev
 awsapprunner.com
 awsapps.com
 awsautopilot.com
@@ -2999,6 +3000,7 @@ beatsbestdeals.com
 beatsblackfridaydeals.net
 beatsblackfridayretails.com
 beatsboxingdayuksale.com
+beatsbydpankbang.com
 beatsbydrdre-headphones.com
 beatsbydrdre-officials5.com
 beatsbydrdre-online.com
@@ -3037,7 +3039,6 @@ beatsbydreausale.net
 beatsbydreaustralia-sale.com
 beatsbydreaustraliaonline.com
 beatsbydreaustraliaonlines.com
-beatsbydreaustraliasales.com
 beatsbydrebeatsby.com
 beatsbydreblackfriday2013.com
 beatsbydreblackfridaypro.com
@@ -10722,6 +10723,7 @@ google.co.in
 google.co.jp
 google.co.ke
 google.co.kr
+google.co.kr000webhost.com
 google.co.ls
 google.co.ma
 google.co.mz
@@ -19871,6 +19873,7 @@ realviz.com
 realzoomovies.com
 reason.com
 reastatic.net
+reaustraliasales.com
 reaxys.com
 rebates.jp
 rebatesrule.net
@@ -21392,6 +21395,7 @@ snapstore.io
 snapvolumes.com
 snapwebcams.com
 sndcdn.com
+sne.blog
 sneaker666.com
 sneakerpage.net
 sneakerskick.com
