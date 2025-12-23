@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -24723,7 +24723,12 @@ vpsxb.net
 vraiesagesse.net
 vrbgay.com
 vrcams.io
+vrcdn.cloud
+vrcdn.live
+vrcdn.video
+vrchat.cloud
 vrchat.com
+vrchat.net
 vred-essentials.com
 vredessentials.com
 vredprofessional.com
