@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -5701,6 +5701,7 @@ collinsdictionary.com
 colombianas.webcam
 colorfulstage.com
 colorprotechnology.com
+com
 comdotgame.com
 come29.xyz
 comefromchina.com
@@ -6461,7 +6462,6 @@ dengeamerika.com
 dengekionline.com
 dengiamerika.com
 deno.com
-deno.dev
 deno.land
 dentalhypotheses.com
 dependabot.com
@@ -6908,7 +6908,6 @@ dockerstatus.com
 docleradn.com
 doclercdn.com
 docs.com
-docs.deno.com
 docs.new
 docs.rs
 doctor-videos.com
@@ -7327,6 +7326,7 @@ e-info.org.tw
 e-szigno.hu
 e-tugra.com
 e-zone.com.hk
+e000webhost.com
 e123.hk
 e5.sk
 e53w.com
@@ -7346,7 +7346,6 @@ eakorea.co.kr
 eamirrorsedge.com
 eamobile.com
 eamythic.com
-eamythic.net
 eanordic.com
 eaplay.com
 earlytibet.com
@@ -10427,6 +10426,7 @@ gfsale.com
 gfw.press
 gfw.report
 gfwatch.org
+gfwbao.com
 gfx.ms
 gfycat.com
 gfysex.com
@@ -10722,6 +10722,7 @@ google.cl
 google.cm
 google.cn
 google.co
+google.co.amythic.net
 google.co.ao
 google.co.bw
 google.co.ck
@@ -13389,6 +13390,7 @@ iss138.com
 issitedownrightnow.com
 issquaredown.com
 issquareup.com
+issues.chromium.org
 issuu.com
 istars.co.nz
 istent.co.kr
@@ -14813,6 +14815,7 @@ lrfdsoftware.com
 lrfz.com
 lrip.org
 lrysgee.xyz
+ls
 lsawards.com
 lsd.org.hk
 lsforum.net
@@ -19314,7 +19317,6 @@ prettynubiles.com
 prettyvirgin.com
 priceless.com
 priceless.org
-pricelessafrica.com
 pricelessarabia.com
 pricelessaruba.com
 pricelessbeijing.com
@@ -20620,7 +20622,7 @@ scientificlinux.org
 scieron.com
 scifisex.net
 scitation.org
-scival.com
+scival.wers.org.hk
 scmp.com
 scmpchinese.com
 scnshop.cc
@@ -21598,6 +21600,7 @@ soooyinfor.lol
 sopcast.com
 sopcast.org
 soporn.com
+sopricelessafrica.com
 sora.com
 sora6.com
 sorcerersarena.com
@@ -21942,6 +21945,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steamladder.com
 steamofporn.com
 steampowered.com
 steamserver.net
