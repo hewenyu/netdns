@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -2165,6 +2165,7 @@ archives.gov.tw
 archivx.to
 archlinux.org
 archlinuxarm.org
+archlinuxcn.org
 arcraiders.com
 arctosia.com
 area120.com
@@ -5701,7 +5702,6 @@ collinsdictionary.com
 colombianas.webcam
 colorfulstage.com
 colorprotechnology.com
-com
 comdotgame.com
 come29.xyz
 comefromchina.com
@@ -7326,7 +7326,6 @@ e-info.org.tw
 e-szigno.hu
 e-tugra.com
 e-zone.com.hk
-e000webhost.com
 e123.hk
 e5.sk
 e53w.com
@@ -7344,8 +7343,9 @@ eadultgames.com
 eafootballworld.com
 eakorea.co.kr
 eamirrorsedge.com
-eamobile.com
+eamobile.coapplecensorship.com
 eamythic.com
+eamythic.net
 eanordic.com
 eaplay.com
 earlytibet.com
@@ -10611,6 +10611,7 @@ gobuyonlinestore.net
 gockhuatviet.com
 godaddy
 godaddy.com
+godbolt.org
 godfootsteps.org
 godoc.org
 godsdirectcontact.co.uk
@@ -10722,7 +10723,6 @@ google.cl
 google.cm
 google.cn
 google.co
-google.co.amythic.net
 google.co.ao
 google.co.bw
 google.co.ck
@@ -14815,7 +14815,6 @@ lrfdsoftware.com
 lrfz.com
 lrip.org
 lrysgee.xyz
-ls
 lsawards.com
 lsd.org.hk
 lsforum.net
@@ -14888,6 +14887,7 @@ lysol.net
 lyzsxx.com
 lzjscript.com
 lzmtnews.org
+m
 m-power.com
 m.hkgalden.com
 m.me
@@ -19317,6 +19317,7 @@ prettynubiles.com
 prettyvirgin.com
 priceless.com
 priceless.org
+pricelessafrica.com
 pricelessarabia.com
 pricelessaruba.com
 pricelessbeijing.com
@@ -20622,7 +20623,7 @@ scientificlinux.org
 scieron.com
 scifisex.net
 scitation.org
-scival.wers.org.hk
+scival.com
 scmp.com
 scmpchinese.com
 scnshop.cc
@@ -21600,7 +21601,6 @@ soooyinfor.lol
 sopcast.com
 sopcast.org
 soporn.com
-sopricelessafrica.com
 sora.com
 sora6.com
 sorcerersarena.com
