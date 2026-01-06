@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -1081,6 +1080,7 @@ ahxxx.club
 ai-sdk.dev
 ai.binwang.me
 ai.dev
+ai.studio
 ai7995.site
 ai91porn.cc
 aiaa.org
@@ -6085,6 +6085,7 @@ cuinc.tw
 cuiweiping.net
 cultoferotica.com
 cultura-kolomna.ru
+culture.t
 culture.tw
 cum4k.cc
 cumasianporn.com
@@ -8087,6 +8088,7 @@ ettrade.com.hk
 etviet.com
 etvonline.hk
 etwealth.com
+etworkedblogs.com
 eu-central-201.myhuaweicloud.com
 eu-central-202.myhuaweicloud.com
 eu-consumer-empowerment.com
@@ -11318,7 +11320,7 @@ happymeal.com.au
 happymealdigital.com
 happysrv.de
 haproxy.org
-hardcore-sex-filme.com
+hardcore-sex-f000webhost.com
 hardcoregayblog.com
 hardsex8.com
 hardsextube.com
@@ -12818,6 +12820,7 @@ illusionxz.com
 illusiony.com
 illusionze.com
 illusnoi.com
+ilme.com
 ilongman.com
 ilove-movies.com
 ilove80.be
@@ -13703,7 +13706,7 @@ javbooks.com
 javbraze.com
 javbus.com
 javbus22.com
-javbuz.com
+javbuz.comblogblog.com
 javcc.cc
 javcc.com
 javcdn.cc
@@ -17586,7 +17589,7 @@ ns02.us
 ns1.name
 ns2.name
 ns3.name
-nsc.gov.tw
+nsc.
 nsfw.xxx
 nsfw247.to
 nsfwmemes.com
@@ -17790,6 +17793,7 @@ nvidiaforhp.com
 nvidiagrid.net
 nvquan.org
 nvtongzhisheng.org
+nw
 nwtca.org
 nwxs8.com
 nxta.org
@@ -18051,6 +18055,7 @@ ontrac.com
 onxxxtube.com
 onxxxvideo.com
 oojj.de
+ooni.io
 ooni.org
 ootbstudio.co.kr
 op.gg
@@ -20513,13 +20518,13 @@ rustdesk.com
 rustup.rs
 rusvpn.com
 ruten.com.tw
+rutor.info
 rutracker.cc
 rutracker.cr
 rutracker.me
 rutracker.net
 rutracker.nl
 rutracker.org
-rutrecker.net
 rutrk.org
 rutube.ru
 rutubelist.ru
@@ -21748,6 +21753,7 @@ sora.com
 sora6.com
 sorcerersarena.com
 sorting-algorithms.com
+sorting-algorithms.comhide.me
 sos.org
 sos44.com
 sosad.fun
@@ -25632,6 +25638,7 @@ xbx.lv
 xcafe.com
 xcafe.in
 xcams.com
+xcancel.com
 xcg123.com
 xchina.co
 xchina.fun
