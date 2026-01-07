@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -6085,7 +6086,6 @@ cuinc.tw
 cuiweiping.net
 cultoferotica.com
 cultura-kolomna.ru
-culture.t
 culture.tw
 cum4k.cc
 cumasianporn.com
@@ -8088,7 +8088,6 @@ ettrade.com.hk
 etviet.com
 etvonline.hk
 etwealth.com
-etworkedblogs.com
 eu-central-201.myhuaweicloud.com
 eu-central-202.myhuaweicloud.com
 eu-consumer-empowerment.com
@@ -11320,7 +11319,7 @@ happymeal.com.au
 happymealdigital.com
 happysrv.de
 haproxy.org
-hardcore-sex-f000webhost.com
+hardcore-sex-filme.com
 hardcoregayblog.com
 hardsex8.com
 hardsextube.com
@@ -12820,7 +12819,6 @@ illusionxz.com
 illusiony.com
 illusionze.com
 illusnoi.com
-ilme.com
 ilongman.com
 ilove-movies.com
 ilove80.be
@@ -13525,7 +13523,6 @@ iss138.com
 issitedownrightnow.com
 issquaredown.com
 issquareup.com
-issues.chromium.org
 issuu.com
 istars.co.nz
 istent.co.kr
@@ -13706,7 +13703,7 @@ javbooks.com
 javbraze.com
 javbus.com
 javbus22.com
-javbuz.comblogblog.com
+javbuz.com
 javcc.cc
 javcc.com
 javcdn.cc
@@ -17235,6 +17232,15 @@ ngeo.com
 nginx.com
 nginx.org
 nginxconfig.io
+ngrok-free.app
+ngrok-free.dev
+ngrok-free.pizza
+ngrok.app
+ngrok.com
+ngrok.dev
+ngrok.io
+ngrok.pizza
+ngrok.pro
 nhentai.com
 nhentai.io
 nhentai.net
@@ -17589,7 +17595,7 @@ ns02.us
 ns1.name
 ns2.name
 ns3.name
-nsc.
+nsc.gov.tw
 nsfw.xxx
 nsfw247.to
 nsfwmemes.com
@@ -17793,7 +17799,6 @@ nvidiaforhp.com
 nvidiagrid.net
 nvquan.org
 nvtongzhisheng.org
-nw
 nwtca.org
 nwxs8.com
 nxta.org
@@ -18767,6 +18772,8 @@ ping.pe
 ping.sx
 pingan.com.hk
 pingguotv.xyz
+pinggy.io
+pinggy.link
 pingxiangpuer.com
 pinimg.com
 pinkcore.com
@@ -21753,7 +21760,6 @@ sora.com
 sora6.com
 sorcerersarena.com
 sorting-algorithms.com
-sorting-algorithms.comhide.me
 sos.org
 sos44.com
 sosad.fun
