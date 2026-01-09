@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -927,8 +926,8 @@ adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
 adpl.org.hk
+adporapplecensorship.com
 adporn.cc
-adpornu.xyz
 ads-twitter.com
 adsense.com
 adskcloud.com
@@ -2007,10 +2006,10 @@ appleclassicipod.com
 appleclub.com.hk
 applecom.com
 applecomputer-imac.com
+applecomputer.cle.co.ke
 applecomputer.co.in
 applecomputer.co.nz
 applecomputer.com
-applecomputer.com.hk
 applecomputer.com.tw
 applecomputer.hu
 applecomputer.kr
@@ -2453,6 +2452,7 @@ auth0.com
 authorizeddns.net
 authorizeddns.org
 authorxml.com
+authpass.app
 authy.com
 autocad-schulungen.com
 autocad.com
@@ -3592,6 +3592,7 @@ bingparachute.com
 bingsandbox.com
 bingvisualsearch.com
 bingworld.com
+bingx.com
 binoculus.com
 bintray.com
 binux.me
@@ -10422,6 +10423,7 @@ genshin-porn.com
 genshinh.com
 genshinimpact.com
 gentoo.org
+geobasket.ru
 geocities.co.jp
 geocities.com
 geocities.jp
@@ -10782,6 +10784,7 @@ goodtv.com.tw
 goodtv.tv
 goofind.com
 goog
+goog000webhost.com
 googel.com
 googil.com
 googl.com
@@ -14620,6 +14623,7 @@ letsencrypt.com
 letsencrypt.org
 letsfuckme.net
 letsjerk.cc
+letsmoveforabetterworld.com
 lettherebeporn.com
 levelsex.com
 lewdthots.com
@@ -17030,6 +17034,7 @@ netcup.de
 netcup.eu
 netcup.net
 netfapx.com
+netfilter.org
 netflav.com
 netflav1.com
 netflav5.com
@@ -17224,9 +17229,11 @@ nfsc.global
 nfscdict.com
 nfscofficial.com
 nfsworld.com
+nftables.org
 nftstatic.com
 nftstorage.link
 nga.mil
+ngenix.net
 ngensis.com
 ngeo.com
 nginx.com
@@ -17656,6 +17663,7 @@ ntp3.v6.mfeed.ad.jp
 ntrfun.com
 ntten-mg.buzz
 nu-bay.com
+nu.xyz
 nu36.vip
 nubilefilms.com
 nubiles-casting.com
@@ -17945,6 +17953,7 @@ olevodtv.com
 oli-school.com
 olumpo.com
 olympicwatch.org
+om.hk
 omafotze.com
 omaps.app
 omct.org
@@ -18540,6 +18549,7 @@ payppal.com
 payroll.com
 payserve.com
 paysitesreviews.net
+paywb.com
 payypal.com
 pbabes.com
 pbjar1205.pro
@@ -20307,6 +20317,7 @@ resonabank.co.jp
 resoubanana.buzz
 resoubang.buzz
 respawnbyrazer.com
+restream-media.net
 rethink.net
 retimer.com
 retroclassicporn.com
@@ -20536,6 +20547,7 @@ rutrk.org
 rutube.ru
 rutubelist.ru
 ruvideos.net
+rwb.ru
 rxhj.net
 ryokoyomiuri.co.jp
 ryukyubank.co.jp
@@ -22583,6 +22595,12 @@ techhub.ms
 techliquidators.com
 technews.tw
 technics.com
+technogym.bg
+technogym.ch
+technogym.com
+technogym.com.br
+technogym.ru
+technogym.su
 technologyandsociety.org
 techradar.com
 techspot.com
@@ -25028,12 +25046,16 @@ waveprotocol.org
 waybig.com
 waymo.com
 waze.com
+wb-basket.ru
+wb.ru
 wbagora.com
 wballiance.com
+wbbasket.ru
 wbd.ms
 wbdnbo.net
 wbgames.com
 wbinsights.com
+wbpay.ru
 wbrks.com
 wbvm4s.com
 wd.bible
@@ -25134,6 +25156,7 @@ welcometobestbuy.ca
 welcomix.com
 wellfuckedwife.com
 wellmaturetube.com
+wellnessinstitute.com
 welovecock.com
 welt.de
 weltweitwachsen.de
@@ -25232,6 +25255,7 @@ whylover.com
 whynotbi.com
 whyx.org
 wi-fi.org
+wibes.ru
 widevine.com
 wife-home-videos.com
 wifehomeporn.com
@@ -25295,6 +25319,7 @@ wikiversity.org
 wikivoyage.org
 wikiwand.com
 wiktionary.org
+wildberries.ru
 wildcamporn.com
 wildfanny.com
 wildfreevideos.com
@@ -25325,6 +25350,7 @@ wingamestore.com
 wingy.site
 winhec.com
 winhec.net
+wink.ru
 winning11.com
 wintermute.com
 winticket.jp
