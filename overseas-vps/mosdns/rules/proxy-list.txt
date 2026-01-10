@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -668,7 +669,6 @@ abitno.linpie.com
 ablmm.com
 ablwang.com
 aboluowang.com
-about.gitlab.com
 about.me
 aboutamazon.co.uk
 aboutamazon.com
@@ -926,8 +926,8 @@ adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
 adpl.org.hk
-adporapplecensorship.com
 adporn.cc
+adpornu.xyz
 ads-twitter.com
 adsense.com
 adskcloud.com
@@ -2006,10 +2006,10 @@ appleclassicipod.com
 appleclub.com.hk
 applecom.com
 applecomputer-imac.com
-applecomputer.cle.co.ke
 applecomputer.co.in
 applecomputer.co.nz
 applecomputer.com
+applecomputer.com.hk
 applecomputer.com.tw
 applecomputer.hu
 applecomputer.kr
@@ -10784,7 +10784,6 @@ goodtv.com.tw
 goodtv.tv
 goofind.com
 goog
-goog000webhost.com
 googel.com
 googil.com
 googl.com
@@ -10822,6 +10821,7 @@ google.cm
 google.cn
 google.co
 google.co.ao
+google.co.applecensorship.com
 google.co.bw
 google.co.ck
 google.co.cr
@@ -14226,6 +14226,7 @@ kcoolonline.com
 kcqsw-na.sbs
 kdfuli.com
 kdy202312.shop
+ke
 keaiav.com
 kebrum.com
 kechara.com
@@ -17663,7 +17664,6 @@ ntp3.v6.mfeed.ad.jp
 ntrfun.com
 ntten-mg.buzz
 nu-bay.com
-nu.xyz
 nu36.vip
 nubilefilms.com
 nubiles-casting.com
@@ -17953,7 +17953,6 @@ olevodtv.com
 oli-school.com
 olumpo.com
 olympicwatch.org
-om.hk
 omafotze.com
 omaps.app
 omct.org

@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -31226,6 +31226,7 @@ easytimetv.com
 easytite.com
 easytocn.com
 easytogophuket.com
+easytomessage.com
 easytouch-manager.com
 easytouch.com
 easytrip.com
@@ -81056,6 +81057,7 @@ school51.com
 school888.com
 schoolinweb.com
 schoolpi.net
+schoopia.com
 schstv.com
 scht.cc
 schwarzeni.com
@@ -91865,6 +91867,7 @@ tongxiong.com
 tongxue.com
 tongxue365.com
 tongxue8.com
+tongxuepie.com
 tongyangship.com
 tongyaoplay.com
 tongyavisa.com
