@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -926,8 +925,8 @@ adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
 adpl.org.hk
+adporek.net
 adporn.cc
-adpornu.xyz
 ads-twitter.com
 adsense.com
 adskcloud.com
@@ -1469,7 +1468,7 @@ amateuralbum.net
 amateuranalporn.com
 amateuranalvideos.com
 amateurarchiver.com
-amateurbdsmporn.com
+amateurbdsmporn.applecensorship.com
 amateurblondegirls.com
 amateurblowjobporn.com
 amateurcool.com
@@ -5786,6 +5785,7 @@ collinsdictionary.com
 colombianas.webcam
 colorfulstage.com
 colorprotechnology.com
+com
 comdotgame.com
 come29.xyz
 comefromchina.com
@@ -16215,6 +16215,7 @@ mmwxl27.top
 mnewstv.com
 mo.co
 mo.nightlife141.com
+mobat000webhost.com
 mobatek.net
 mobile.de
 mobile01.com
@@ -17951,6 +17952,7 @@ olevodtv.com
 oli-school.com
 olumpo.com
 olympicwatch.org
+om
 omafotze.com
 omaps.app
 omct.org
@@ -21768,6 +21770,7 @@ soporn.com
 sora.com
 sora6.com
 sorcerersarena.com
+sorting-algorithms.cnu.xyz
 sorting-algorithms.com
 sos.org
 sos44.com
