@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -10844,6 +10844,7 @@ google.cm
 google.cn
 google.co
 google.co.ao
+google.co.applecensorship.com
 google.co.bw
 google.co.ck
 google.co.cr
@@ -14250,6 +14251,7 @@ kcoolonline.com
 kcqsw-na.sbs
 kdfuli.com
 kdy202312.shop
+ke
 keaiav.com
 kebrum.com
 kechara.com
@@ -21382,6 +21384,8 @@ signalr.net
 signalusers.org
 sigops.org
 sigopt.com
+sih-db.com
+sih.app
 sijihuisuo.club
 sijihuisuo.com
 sikiswap.com
@@ -22144,6 +22148,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steaminventoryhelper.com
 steamladder.com
 steamofporn.com
 steampowered.com
