@@ -1,9 +1,8 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -3225,6 +3224,7 @@
 30sche.com
 30th-feb.com
 30w.co
+31.com
 310game.com
 310s-2520.com
 310tv.com
@@ -10110,7 +10110,7 @@ aiemy.com
 aieok.com
 aier020.com
 aier021.com
-aier0431.com
+aier04full:a1.mzstatic.com
 aier0755.com
 aier0771.com
 aier0775.com
@@ -21038,6 +21038,7 @@ chinafsl.com
 chinaftat.org
 chinafuda.com
 chinafudaoban.com
+chinafull:265.com
 chinafumao.com
 chinafxd.com
 chinafxkj.com
@@ -21375,7 +21376,6 @@ chinaqunsheng.com
 chinaqw.com
 chinaray-oled.com
 chinarayying.com
-chinarca.com
 chinardr.com
 chinardr.net
 chinaredstar.com
@@ -78761,6 +78761,7 @@ rc120.com
 rc168.com
 rc3cr.com
 rc775.com
+rca.com
 rcaiv.com
 rcbc888.com
 rcbuying.com
@@ -95372,6 +95373,7 @@ volcfcdnrd.com
 volcfcdnsc.com
 volcfxgjrtm.com
 volcgroup.com
+volcgslb-mlt.com
 volcgslb.com
 volcgtm.com
 volchina.com

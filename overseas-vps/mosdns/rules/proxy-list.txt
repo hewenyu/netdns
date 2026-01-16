@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
+.edu
 01.org
 02weqj32.com
 030buy.com
@@ -1809,7 +1809,7 @@ api-verify.recaptcha.net
 api.ai
 api.news
 api.palworldgame.com
-api.pureapk.com
+api.pureapk.comkvideos.biz
 api.recaptcha.net
 api.steampowered.com
 apiary.io
@@ -5184,6 +5184,7 @@ cftfc.com
 cfwives.com
 cgdepot.org
 cgst.edu
+cgstbay.com
 ch9.ms
 championshipseriesleague.com
 change.org
@@ -7747,6 +7748,7 @@ einstein.com
 eireinikotaerukai.com
 eisbb.com
 eiu.com
+ek.net
 ekhindi.com
 ekhokavkaza.com
 ekolojik.org
@@ -7778,6 +7780,7 @@ elitebabes.com
 eliteindianporn.com
 elitvip.ru
 elixir-lang.org
+eljav.guru
 elog-ch.com
 elog-ch.net
 elpais.com
@@ -9280,6 +9283,7 @@ fpacebook.com
 fpmt-osel.org
 fpmt.org
 fpmt.tw
+fpmt.tw.com
 fpmtmexico.org
 fptolia.com
 fq.wikia.com
@@ -9486,6 +9490,7 @@ ftvmilfs.com
 ftvnews.com.tw
 ftx.com
 fu62.vip
+fuc000webhost.com
 fucd.com
 fuchsia.dev
 fuck-xxx-movies.com
@@ -9514,7 +9519,6 @@ fuckteenvids.com
 fuckthathussy.com
 fucktube.com
 fuckup.xxx
-fuckvideos.biz
 fuhouse.club
 fujinkoron.jp
 fujossy.jp
@@ -10844,7 +10848,6 @@ google.cm
 google.cn
 google.co
 google.co.ao
-google.co.applecensorship.com
 google.co.bw
 google.co.ck
 google.co.cr
@@ -11322,7 +11325,7 @@ hamsterfucktube.com
 hamsterporn.tv
 hanbao-tv.lol
 handbags-nike.com
-handbagsoutletebay.com
+handbagsoutlete
 handcraftedsoftware.org
 handjobhub.com
 handjobtube4free.com
@@ -11732,6 +11735,7 @@ hibdontire.com
 hibiki-cast.jp
 hicairo.com
 hiccears.com
+hidden-adve0.com
 hidden-advent.org
 hiddenvoyeurspy.com
 hiddify.com
@@ -13699,7 +13703,6 @@ jav.app
 jav.com
 jav.dog
 jav.gallery
-jav.guru
 jav.la
 jav.land
 jav.place
@@ -14251,7 +14254,6 @@ kcoolonline.com
 kcqsw-na.sbs
 kdfuli.com
 kdy202312.shop
-ke
 keaiav.com
 kebrum.com
 kechara.com
@@ -14909,7 +14911,7 @@ lolita.bet
 lollipopescorts.com
 lolpcs.com
 lolshop.co.kr
-lolstatic.com
+lolstaticpais.com
 lolusercontent.com
 londonchinese.ca
 londonhotescort.com
@@ -16244,6 +16246,7 @@ mnewstv.com
 mo.co
 mo.nightlife141.com
 mobatek.net
+mobattee.org
 mobile.de
 mobile01.com
 mobilefacebook.com
@@ -17072,8 +17075,8 @@ netflix.ca
 netflix.com
 netflix.net
 netflixdnstest0.com
+netflixdnstest1
 netflixdnstest1.com
-netflixdnstest10.com
 netflixdnstest2.com
 netflixdnstest3.com
 netflixdnstest4.com
@@ -23970,6 +23973,7 @@ usma.edu
 usmgtcg.ning.com
 usno.navy.mil
 usocctn.com
+ustibetcommitnt.org
 ustibetcommittee.org
 ustream.tv
 usus.cc
@@ -25993,6 +25997,7 @@ xuchao.org
 xuehua.us
 xuite.net
 xujan.com
+xv-ru.com
 xv1.monster
 xvbelink.com
 xvds.tv
@@ -26006,8 +26011,10 @@ xvideo.vlog.br
 xvideo1.org
 xvideo2.org
 xvideoporno.tv
+xvideos-ar.com
 xvideos-cdn.com
 xvideos-dl.top
+xvideos-india.com
 xvideos-porn-video.com
 xvideos-xxxx.com
 xvideos.blog
