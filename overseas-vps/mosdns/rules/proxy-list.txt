@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-.edu
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -669,6 +669,7 @@ abitno.linpie.com
 ablmm.com
 ablwang.com
 aboluowang.com
+about.gitlab.com
 about.me
 aboutamazon.co.uk
 aboutamazon.com
@@ -1809,7 +1810,7 @@ api-verify.recaptcha.net
 api.ai
 api.news
 api.palworldgame.com
-api.pureapk.comkvideos.biz
+api.pureapk.com
 api.recaptcha.net
 api.steampowered.com
 apiary.io
@@ -5184,7 +5185,6 @@ cftfc.com
 cfwives.com
 cgdepot.org
 cgst.edu
-cgstbay.com
 ch9.ms
 championshipseriesleague.com
 change.org
@@ -7748,7 +7748,6 @@ einstein.com
 eireinikotaerukai.com
 eisbb.com
 eiu.com
-ek.net
 ekhindi.com
 ekhokavkaza.com
 ekolojik.org
@@ -7780,7 +7779,6 @@ elitebabes.com
 eliteindianporn.com
 elitvip.ru
 elixir-lang.org
-eljav.guru
 elog-ch.com
 elog-ch.net
 elpais.com
@@ -9283,7 +9281,6 @@ fpacebook.com
 fpmt-osel.org
 fpmt.org
 fpmt.tw
-fpmt.tw.com
 fpmtmexico.org
 fptolia.com
 fq.wikia.com
@@ -9490,7 +9487,6 @@ ftvmilfs.com
 ftvnews.com.tw
 ftx.com
 fu62.vip
-fuc000webhost.com
 fucd.com
 fuchsia.dev
 fuck-xxx-movies.com
@@ -9519,6 +9515,7 @@ fuckteenvids.com
 fuckthathussy.com
 fucktube.com
 fuckup.xxx
+fuckvideos.biz
 fuhouse.club
 fujinkoron.jp
 fujossy.jp
@@ -11325,7 +11322,7 @@ hamsterfucktube.com
 hamsterporn.tv
 hanbao-tv.lol
 handbags-nike.com
-handbagsoutlete
+handbagsoutletebay.com
 handcraftedsoftware.org
 handjobhub.com
 handjobtube4free.com
@@ -11735,7 +11732,6 @@ hibdontire.com
 hibiki-cast.jp
 hicairo.com
 hiccears.com
-hidden-adve0.com
 hidden-advent.org
 hiddenvoyeurspy.com
 hiddify.com
@@ -13703,6 +13699,7 @@ jav.app
 jav.com
 jav.dog
 jav.gallery
+jav.guru
 jav.la
 jav.land
 jav.place
@@ -14911,7 +14908,7 @@ lolita.bet
 lollipopescorts.com
 lolpcs.com
 lolshop.co.kr
-lolstaticpais.com
+lolstatic.com
 lolusercontent.com
 londonchinese.ca
 londonhotescort.com
@@ -16246,7 +16243,6 @@ mnewstv.com
 mo.co
 mo.nightlife141.com
 mobatek.net
-mobattee.org
 mobile.de
 mobile01.com
 mobilefacebook.com
@@ -17075,8 +17071,8 @@ netflix.ca
 netflix.com
 netflix.net
 netflixdnstest0.com
-netflixdnstest1
 netflixdnstest1.com
+netflixdnstest10.com
 netflixdnstest2.com
 netflixdnstest3.com
 netflixdnstest4.com
@@ -17651,15 +17647,19 @@ ntdca.com
 ntdimg.com
 ntdtv-dc.com
 ntdtv.ca
+ntdtv.co.il
 ntdtv.co.kr
 ntdtv.com
 ntdtv.com.tw
 ntdtv.cz
+ntdtv.fr
 ntdtv.jp
 ntdtv.kr
 ntdtv.org
 ntdtv.ru
+ntdtv.se
 ntdtvla.com
+ntdvideo.tw
 ntdvn.com
 ntnews.com.au
 ntp-os01.ocn.ad.jp
@@ -23973,7 +23973,6 @@ usma.edu
 usmgtcg.ning.com
 usno.navy.mil
 usocctn.com
-ustibetcommitnt.org
 ustibetcommittee.org
 ustream.tv
 usus.cc
