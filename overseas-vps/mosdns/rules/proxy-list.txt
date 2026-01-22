@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -10336,6 +10336,7 @@ geocities.co.jp
 geocities.com
 geocities.jp
 geodesummit.com
+geogebra.org
 geolytics.com
 geoport.com
 geospatialimaging.com
@@ -25088,6 +25089,7 @@ wiivc.net
 wikaba.com
 wikawika.xyz
 wiki.gamerp.jp
+wiki.gg
 wiki.jqueryui.com
 wiki.keso.cn
 wiki.metacubex.one
@@ -25224,6 +25226,7 @@ wokar.org
 wolfatbestbuy.com
 wolfatbestbuy.net
 wolfax.com
+wolframalpha.com
 wolfsex-me.sbs
 wolterskluwer.com
 wombo.ai
