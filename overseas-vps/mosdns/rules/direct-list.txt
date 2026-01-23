@@ -1,9 +1,9 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
+.com
 00.net
 000.link
 000000.net
@@ -3383,7 +3383,7 @@
 3337783.com
 3337785.com
 33380xl.com
-3338808.com
+3338808full:a1.mzstatic.com
 3338863.com
 3338877.com
 333915.com
@@ -78492,6 +78492,7 @@ redmagic.com
 redmart.com
 redmou.com
 rednetdns.com
+rednotecdn.com
 redocn.com
 redodopower.com
 redoop.com

@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -5096,6 +5096,7 @@ cerdas.com
 cerebras.ai
 cern
 cern.ch
+certapplecensorship.com
 certificat2.com
 certificate-transparency.org
 certificate.revocationcheck.com
@@ -7738,6 +7739,8 @@ encrypt.me
 encryptedsni.com
 encuentroscasualesoecuador.com
 encyclopedia.com
+eneba.com
+eneba.games
 enema-porn.com
 enema-videos.com
 enemabasics.com
@@ -12514,6 +12517,7 @@ ifastgp.com.hk
 ifastnetwork.com
 ifasttv.com
 ifcss.org
+ificate.revocationcheck.com
 ifjc.org
 ifontcloud.com
 iframejav.com
@@ -17772,6 +17776,7 @@ okpool.me
 okx-dns.com
 okx-dns1.com
 okx-dns2.com
+okx.cab
 okx.com
 old.honeynet.org
 older-women-movies.com
