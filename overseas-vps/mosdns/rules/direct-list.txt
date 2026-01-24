@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-.com
 00.net
 000.link
 000000.net
@@ -3383,7 +3382,7 @@
 3337783.com
 3337785.com
 33380xl.com
-3338808full:a1.mzstatic.com
+3338808.com
 3338863.com
 3338877.com
 333915.com
@@ -14746,6 +14745,7 @@ bfsutw.com
 bft-robot.com
 bftq.com
 bftv.com
+bfull:265.com
 bfvvs.com
 bfw.wiki
 bfxiuxianqipai.com
@@ -15385,7 +15385,6 @@ bisheziliao.com
 bishijie.com
 bishuiwan.com
 bisjigang.com
-bison-technologies.com
 bisonglighting.com
 bisonscm.com
 bisp.com
@@ -52488,6 +52487,7 @@ isocgw.net
 isoftstone.com
 isogx.com
 isolves.com
+ison-technologies.com
 isong520.com
 isongcontrol.com
 isoqh.com
@@ -64860,6 +64860,7 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
+m
 m-edu.com
 m-finder.com
 m-hero.com
@@ -83515,7 +83516,7 @@ shpenquan.com
 shpgt.com
 shpgx.com
 shphschool.com
-shpiano.com
+shpiano.cofull:a1.mzstatic.com
 shpingda.com
 shppa.net
 shps518.com

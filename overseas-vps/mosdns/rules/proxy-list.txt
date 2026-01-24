@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -3509,6 +3509,7 @@ binance.us
 binance.vision
 binanceapi.com
 binancecnt.com
+binanceru.net
 binancezh.be
 binancezh.biz
 binancezh.cc
@@ -5096,7 +5097,6 @@ cerdas.com
 cerebras.ai
 cern
 cern.ch
-certapplecensorship.com
 certificat2.com
 certificate-transparency.org
 certificate.revocationcheck.com
@@ -12517,7 +12517,6 @@ ifastgp.com.hk
 ifastnetwork.com
 ifasttv.com
 ifcss.org
-ificate.revocationcheck.com
 ifjc.org
 ifontcloud.com
 iframejav.com
