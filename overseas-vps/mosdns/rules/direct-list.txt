@@ -14039,6 +14039,7 @@ bandoristation.com
 bandvr.com
 banfd.com
 banfubbs.com
+banfull:265.com
 bangandi.com
 bangbang.com
 bangbang93.com
@@ -14168,7 +14169,6 @@ banyuetanxcx.com
 banyunjuhe.com
 banzhe.xyz
 banzhuti.com
-banzou.name
 banzouzhizuo.com
 bao-fang.com
 bao-hulu.com
@@ -36078,6 +36078,7 @@ full:amp-api-updates.apps.apple.com
 full:amp-api.apps.apple.com
 full:amp-api.media.apple.com
 full:amp-api.music.apple.com
+full:aod-ssl.itunes.apple.com
 full:aod.itunes.apple.com
 full:api-edge.apps.apple.com
 full:app-analytics-services.com
@@ -113932,6 +113933,7 @@ zotiser.com
 zotrus.com
 zotye.com
 zou.la
+zou.name
 zouaw.com
 zoubiao.com
 zoucheng.cc
