@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -2898,6 +2898,7 @@ bbc.com
 bbc.in
 bbc.mp-pxcdn.com
 bbc.net.uk
+bbc.pdn.tritondigital.com
 bbcchinese.com
 bbchat.tv
 bbci.co.uk
@@ -6243,6 +6244,7 @@ dcard.link
 dcard.tw
 dclk
 dcmilitary.com
+dcs-spotify.megaphone.fm
 dctbeatsbydre.com
 ddc.com.tw
 ddd-smart.net
@@ -7375,7 +7377,7 @@ earngeek.com
 earphonescheapest.com
 earpod.net
 earthcam.com
-earthdeapplecensorship.com
+earthdell.com
 earthvpn.com
 easic.com
 easports.com
@@ -11421,6 +11423,7 @@ hellosmartbook.com
 hellouk.org
 hellporno.com
 hellven.net
+help.byspotify.com
 helpeachpeople.com
 helpster.de
 helpzhuling.org
@@ -14685,7 +14688,6 @@ lizardporn.com
 lizhizhuangbi.com
 lizol.co.in
 lkcn.net
-ll.com
 ll82y2ifdd.top
 llama.com
 llbd10.shop
@@ -14786,6 +14788,7 @@ lostbetsgames.com
 lotcrap.com
 lotsawahouse.org
 lotuslight.org.tw
+louisvuitton.com
 lovart.ai
 love-sextoys.co.uk
 love4porn.com
