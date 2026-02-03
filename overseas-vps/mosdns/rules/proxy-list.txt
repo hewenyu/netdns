@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -928,6 +927,7 @@ adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
 adpl.org.hk
+adpl.org.hkners.com
 adporn.cc
 adpornu.xyz
 ads-twitter.com
@@ -1747,6 +1747,7 @@ aorus.com
 aoxvpn.com
 aoxx69.net
 aozorabank.co.jp
+ap
 ap.org
 ap0le.com
 apa.org
@@ -2035,7 +2036,6 @@ appleone.space
 appleone.tech
 appleone.website
 appleonline.com
-appleonline.net
 appleoriginalproductions.com
 appleos.tv
 applepay.berlin
@@ -4494,6 +4494,7 @@ brutalfetish.com
 brutaltgp.com
 bs-adreview.com
 bs-awh.ne.jp
+bsappapi.com
 bsi.ir
 bsky.app
 bsky.network
@@ -9730,6 +9731,7 @@ full:origin-a.akamaihd.net
 full:osu.ppy.sh
 full:p-events-delivery.akamaized.net
 full:p16-tiktokcdn-com.akamaized.net
+full:packages.microsoft.com
 full:paper-attachments.s3.amazonaws.com
 full:pchomeonline.com.tw
 full:pki.google.com
@@ -11590,6 +11592,7 @@ herokuapp.com
 herokucdn.com
 herokucharge.com
 herokussl.com
+heromi000webhost.com
 herominers.com
 herringnetwork.com
 hetzner-cloud.de
@@ -18733,6 +18736,7 @@ pixtronix.com
 pjbyj.top
 pjful-app.lol
 pjgirls.com
+pjsekai.sega.jp
 pk.com
 pki-post.ch
 pki-posta.ch
@@ -18796,6 +18800,7 @@ pleasefuck.org
 pleasurebabe.com
 pleasuregirl.net
 pleasuremore.com
+pleonline.net
 plexvpn.pro
 plm.org.hk
 plos.org
@@ -20462,6 +20467,7 @@ sale-nikeshoes.com
 salebeatslasteststyle4you.com
 saleblackfridaydrebeats.com
 salecheaphandbags.com
+salesforce-setup.com
 salesforce.com
 salesforce.org
 salesforceiq.com
@@ -22323,6 +22329,7 @@ tahr.org.tw
 taiav.com
 tail-f.com
 tailf.com
+tails.net
 tailscale.com
 tailscale.io
 tailwindtraders.com
