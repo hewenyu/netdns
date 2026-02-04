@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -927,7 +928,6 @@ adobetechcommdemo.com
 adobexdplatform.com
 adorevids.com
 adpl.org.hk
-adpl.org.hkners.com
 adporn.cc
 adpornu.xyz
 ads-twitter.com
@@ -1747,7 +1747,6 @@ aorus.com
 aoxvpn.com
 aoxx69.net
 aozorabank.co.jp
-ap
 ap.org
 ap0le.com
 apa.org
@@ -2036,6 +2035,7 @@ appleone.space
 appleone.tech
 appleone.website
 appleonline.com
+appleonline.net
 appleoriginalproductions.com
 appleos.tv
 applepay.berlin
@@ -11592,7 +11592,6 @@ herokuapp.com
 herokucdn.com
 herokucharge.com
 herokussl.com
-heromi000webhost.com
 herominers.com
 herringnetwork.com
 hetzner-cloud.de
@@ -18800,7 +18799,6 @@ pleasefuck.org
 pleasurebabe.com
 pleasuregirl.net
 pleasuremore.com
-pleonline.net
 plexvpn.pro
 plm.org.hk
 plos.org
