@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -18049,6 +18049,7 @@ osfoora.com
 osiri-suki-club.com
 osl.com
 osm.org
+osmand.net
 osmfoundation.org
 ospray.net
 ospray.org
@@ -20716,6 +20717,7 @@ seesmic.com
 seeurlpcl.com
 seevpn.com
 seezone.net
+sef.org.tw
 sego8.cc
 sego8.co
 sego8.xyz
@@ -25387,6 +25389,7 @@ www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
+www.hoyolab.com
 www.hustlercash.com
 www.idlcoyote.com
 www.imdb.com
