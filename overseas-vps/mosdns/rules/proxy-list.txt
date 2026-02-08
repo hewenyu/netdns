@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 030buy.com
@@ -665,7 +666,6 @@ abematv.akamaized.net
 abematv.co.jp
 abgsp1.buzz
 abigass.com
-abitno.linpie.com
 ablmm.com
 ablwang.com
 aboluowang.com
@@ -1180,7 +1180,6 @@ akahost.net
 akaint.net
 akam.net
 akamaa.com
-akamaapplecensorship.com
 akamah.com
 akamai-access.com
 akamai-access.net
@@ -1207,6 +1206,7 @@ akamaietpphishingtest.com
 akamaihd-staging.net
 akamaihd.com
 akamaihd.net
+akamaimagicmath.net
 akamainewzealand.com
 akamaiphillipines.com
 akamaiphillipines.net
@@ -1747,7 +1747,6 @@ aoxvpn.com
 aoxx69.net
 aozorabank.co.jp
 ap.org
-ap000webhost.com
 ap0le.com
 apa.org
 apache.org
@@ -2035,6 +2034,7 @@ appleone.space
 appleone.tech
 appleone.website
 appleonline.com
+appleonline.net
 appleoriginalproductions.com
 appleos.tv
 applepay.berlin
@@ -2921,7 +2921,6 @@ bbs.hanminzu.org
 bbs.huasing.org
 bbs.junglobal.net
 bbs.mikocon.com
-bbs.morbell.com
 bbs.mychat.to
 bbs.naixi.net
 bbs.nyinfor.com
@@ -3067,6 +3066,7 @@ beatsbydreblackfridaypro.com
 beatsbydreboxingdayca.com
 beatsbydrecasquesfr.com
 beatsbydrecheap-outletstore.com
+beatsbydrecheaper.com
 beatsbydrecheaponlinesales.com
 beatsbydrecolors.com
 beatsbydrecustomwireless.com
@@ -3250,7 +3250,6 @@ beeg.com
 beeg.rest
 beegfree.com
 beejp.net
-beentralnation.com
 beepool.com
 beepool.org
 beevpn.com
@@ -3660,7 +3659,6 @@ blog.fuckgfw233.org
 blog.goo.ne.jp
 blog.jackjia.com
 blog.jp
-blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
@@ -5043,8 +5041,6 @@ cdn-telegram.org
 cdn-terapeak.com
 cdn-vk.ru
 cdn.arstechnica.net
-cdn.assets.lfpcontent.com
-cdn.helixstudios.net
 cdn.jwplayer.com
 cdn.printfriendly.com
 cdn.seatguru.com
@@ -5686,6 +5682,8 @@ codeforces.com
 codei.sh
 codeish.co
 codeish.io
+codeium.com
+codeiumdata.com
 coderabbit.ai
 codeshare.io
 codeskulptor.org
@@ -5896,7 +5894,6 @@ cp44.net
 cpan.org
 cpedge.com
 cpj.org
-cpleonline.net
 cpu-monkey.com
 cpz.to
 cq99.us
@@ -7375,11 +7372,11 @@ eamythic.net
 eanordic.com
 eaplay.com
 earlytibet.com
-earngeek.comogle.ch
+earngeek.com
 earphonescheapest.com
 earpod.net
+earthapplecensorship.com
 earthcam.com
-earthdell.com
 earthvpn.com
 easic.com
 easports.com
@@ -8986,7 +8983,6 @@ fortnite.com
 fortuneinsight.com
 forum.baby-kingdom.com
 forum.cyberctm.com
-forum.mymaji.com
 forum.palmislife.com
 forum.slime.com.tw
 forum.xinbao.de
@@ -10066,6 +10062,7 @@ full:wwis-dubc1-vip97.adobe.com
 full:wwis-dubc1-vip98.adobe.com
 full:wwis-dubc1-vip99.adobe.com
 full:www-cdn.icloud.com.akadns.net
+full:yandex-pogoda.static-storage.net
 full:yangzhi.app
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
@@ -10208,7 +10205,6 @@ gannett.com
 gannettdigital.com
 gao1.cc
 gaofuwu.cc
-gaoming..tw
 gaoming.net
 gaopi.net
 gaozs18.buzz
@@ -10632,7 +10628,6 @@ go141.com
 go2av.com
 go5.dev
 goagent.biz
-goatsbydrecheaper.com
 gobeatsye.com
 gobianywhere.com
 goblocks.com
@@ -11768,7 +11763,6 @@ hkporn.net
 hkptu.org
 hkreadingcity.net
 hkreporter.com
-hkreporter.loved.hk
 hkt-enterprise.com
 hkt-eye.com
 hkt.com
@@ -12745,7 +12739,6 @@ imagetwist.com
 imagevenue.com
 imageworks.com
 imagezilla.net
-imagicmath.net
 imaginationsengine.com
 imaginecup.pl
 imagineecommerce.com
@@ -13774,7 +13767,6 @@ jiehua.cz
 jieshibaobao.com
 jifangge.com
 jigglegifs.com
-jihadintel.meforum.org
 jihadology.net
 jiji.com
 jijiji.ca
@@ -14354,13 +14346,11 @@ kzaobao.com
 kzeng.info
 l-0005.dc-msedge.net
 l-msedge.net
-la-forum.org
 la-mama.ru
 lab.skk.moe
 labiennale.org
 labo.wovs.tk
 lacomics.org
-ladbrokes.com
 ladies.com
 ladybaba.net
 ladyboygold.com
@@ -14368,11 +14358,9 @@ ladyboygold.eu
 ladyboypornonly.com
 lagranepoca.com
 lala.im
-lalulalu.com
 lama.com.tw
 lamayeshe.com
 lamnia.co.uk
-lamrim.com
 lanasbigboobs.com
 landofhope.tv
 langsuirs.com
@@ -14381,15 +14369,10 @@ lanmdh.net
 lanniser-ylo.shop
 lantern.io
 lanternal.com
-lanterncn.cn
-lantosfoundation.org
-laod.cn
 laogai.org
 laogairesearch.org
-laomiu.com
 laosijifuli9009.top
 laowang.vip
-laoyang.info
 lapriere.jp
 laqingdan.net
 laracasts.com
@@ -14405,7 +14388,6 @@ lastpass.eu
 lasvegasbmw.com
 latampartneruniversity.com
 latamvmwareforum.com
-latelinenews.com
 latencytop.com
 latex-project.org
 latinaabuse.com
@@ -14461,22 +14443,17 @@ lecloud.net
 lecoin.cc
 lede-project.org
 ledger.com
-leeao.com.cn
 leecountytimes.com
-lefora.com
 left21.hk
-legalporno.com
 legaltracker.com
 legra.ph
 legsex.com
 legsjapan.com
-leisurecafe.ca
 leisurepro.com
 leliao1.com
 lematin.ch
 lemmynsfw.com
 lemoncams.com
-lemonde.fr
 lencr.org
 lenkino.xxx
 lenporno.net
@@ -14496,7 +14473,6 @@ lethalhardcore.com
 lethalhardcorevr.com
 letmejerk.com
 letmejerk.fun
-letou.com
 letscorp.net
 letsdoeit.com
 letsencrypt.com
@@ -14529,13 +14505,11 @@ lghvacstory.com
 lgrecyclingprogram.com
 lgsalesportal.com
 lhakar.org
-lhasocialwork.org
 li.taipei
 liangyou.net
 liangzhichuanmei.com
 lianhonghong.com
 lianjiajr.net
-lianyue.net
 liaowangxizang.net
 liberal.org.hk
 liberapay.com
@@ -14589,7 +14563,6 @@ limelight.com
 limer.tw
 limertw.cc
 limeteensex.com
-limiao.net
 lin.ee
 lindylist.org
 line-apps-beta.com
@@ -14612,7 +14585,6 @@ linemyshop.com
 lineshoppingseller.com
 linetv.tw
 lingeriepornonly.com
-linglingfa.com
 lingualeo.com
 linguee.com
 lingvodics.com
@@ -14622,11 +14594,9 @@ link2galleries.com
 link69.com
 linkedin.at
 linkedin.com
-linkideo.com
 linkjunkies.com
 linkshit.com
 linktr.ee
-linkuswell.com
 linotype.com
 linseysworld.com
 linux.do
@@ -14635,10 +14605,7 @@ linux.org.hk
 linuxfoundation.org
 linuxfromscratch.org
 linuxmint.com
-linuxtoy.org
 lionhearts.co.kr
-lionsroar.com
-lipuman.com
 liquiditytp.com
 liquidvpn.com
 lisiku.com
@@ -14647,7 +14614,6 @@ listenbrainz.org
 listennotes.com
 listentoyoutube.com
 listinganalytics.net
-listorious.com
 lists.w3.org
 litbus-anime.com
 litenews.hk
@@ -14656,8 +14622,6 @@ literotica.com
 littleasians.com
 littlesexdolls.com
 litv.tv
-liu-xiaobo.org
-liuhanyu.com
 liuhefabu.club
 liuxiaobo.net
 liuxiaotong.com
@@ -14669,7 +14633,6 @@ live.net
 liveauction.com
 livecamclips.com
 livecoin.net
-livedoor.jp
 livefilestore.com
 livehdcams.com
 livejasmin.com
@@ -14693,9 +14656,7 @@ livingstream.com
 livingyourambition.com
 livrariart.com.br
 lizardporn.com
-lizhizhuangbi.com
 lizol.co.in
-lkcn.net
 ll82y2ifdd.top
 llama.com
 llbd10.shop
@@ -14716,9 +14677,7 @@ lmmbtc.com
 lms01.com
 lnkd.in
 lnstagram-help.com
-load.to
 loanbuilder.com
-lobsangwangyal.com
 lobstertube.com
 localbitcoins.com
 localbitcoinschain.com
@@ -14766,7 +14725,6 @@ lolpcs.com
 lolshop.co.kr
 lolstatic.com
 lolusercontent.com
-londonchinese.ca
 londonhotescort.com
 londonmithraeum.com
 londonreal.tv
@@ -14777,7 +14735,6 @@ longbridge.global
 longbridge.hk
 longbridge.sg
 longbridgeapp.com
-longhair.hk
 longmabook.com
 longmabookcn.com
 longman.ch
@@ -14794,8 +14751,6 @@ looti.net
 lordofultima.com
 lostbetsgames.com
 lotcrap.com
-lotsawahouse.org
-lotuslight.org.tw
 louisvuitton.com
 lovart.ai
 love-sextoys.co.uk
@@ -14836,15 +14791,12 @@ lrip.org
 lrysgee.xyz
 lsawards.com
 lsd.org.hk
-lsforum.net
 lsj2.shop
 lsj40.xyz
 lsjfuli308.xyz
 lsm.org
 lsmchinese.org
 lsmkorean.org
-lsmradio.com
-lsmwebcast.com
 lspimg.com
 lss55.com
 lsxszzg.com
@@ -14867,8 +14819,6 @@ luckyissue.com
 luckymobile.ca
 luckysrv.de
 ludepress.com
-luke54.com
-luke54.org
 lululu.one
 lunchwithpype.com
 luoli.info
@@ -14886,7 +14836,6 @@ lutube2310.com
 luvmov.com
 luw666.xyz
 luw666cm.cc
-luxebc.com
 luxuretv.com
 luxuretv.fun
 lvhai.org
@@ -14969,7 +14918,6 @@ macports.org
 macreach.com
 macreach.net
 macromedia.com
-macrovpn.com
 macruby.com
 macruby.net
 macruby.org
@@ -15013,12 +14961,9 @@ magentomobile.com
 magestic.com
 magicalmirai.com
 magicmovies.com
-mahabodhi.org
 mahajantech.com
 mahjongsoul.com
 maidonanews.jp
-maiio.net
-mail-archive.com
 mail.com
 mail.ru
 mailchimp.com
@@ -15035,7 +14980,6 @@ mainichibooks.com
 maintracker.org
 maiplus.com
 mairbeats.com
-maizhong.org
 makaan.com
 makeanything.com
 makearmanotwar.com
@@ -15047,18 +14991,15 @@ makeitrealcontest.com
 makemymood.com
 makesenseofdata.com
 makingstartshere.com
-makkahnewspaper.com
 maktoob.com
 malayalamanorama.com
 malayporn.site
 malayporn.space
 malaypornhub.com
-malaysiakini.com
 mallandrinhas.net
 mallheadphone.com
 malvastudios.com
 mamacitaz.com
-mamingzhe.com
 managed-pki.ch
 managed-pki.de
 managedmeetingrooms.com
@@ -15066,7 +15007,6 @@ managedpki.com
 managedpki.ne.jp
 management-azure-devices-int.net
 management-azure-devices.net
-manchukuo.net
 mandatewire.com
 mandiant.com
 manga-mill.com
@@ -15091,8 +15031,6 @@ manhuntdaily.com
 manhwa24h.com
 manhwahentai.me
 maniakey.homes
-maniash.com
-manicur4ik.ru
 manorama.com
 manoramanews.com
 manoramaonline.com
@@ -15100,9 +15038,7 @@ manoramayearbook.in
 manoto1.tv
 manototv.com
 manporn.xxx
-mansion.com
 mansionglobal.com
-mansionpoker.com
 mansurfer.com
 manta.com
 mantan-web.jp
@@ -15120,10 +15056,8 @@ map-software.com
 mapbox.com
 mapguide.com
 maple.finance
-maplew.com
 mappingonline.com
 marc.info
-marguerite.su
 mariadb.org
 marinecadcam.com
 marioandluigidreamteam.com
@@ -15148,7 +15082,6 @@ marranazas.com
 marscode.com
 martau.com
 martsangkagyuofficial.org
-maruta.be
 marvel.com
 marvel10thanniversary.com
 marveldimensionofheroes.com
@@ -15158,7 +15091,6 @@ marvelsdoubleagent.com
 marvelspotlightplays.com
 marvelsuperheroseptember.com
 marvelsuperwar.com
-marxist.com
 marxist.net
 marxists.org
 masalabin.com
@@ -15168,7 +15100,6 @@ masalladeloslimites.com
 mash.to
 mashaalradio.com
 mask.me
-maskedip.com
 maskedsingerfox.com
 massage-in-taipei.com
 massagerepublic.com
@@ -15318,7 +15249,6 @@ max.com
 maxgo.com
 maxillofacial-cadcam.com
 maximumerotica.com
-maxing.jp
 maxis.com
 maya5.net
 mayacomplete.com
@@ -15340,7 +15270,6 @@ mayauser.com
 mayauser.net
 mayavisualization.com
 mayijiejie.com
-mayimayi.com
 maying.co
 mbeats-tech.com
 mbheadphone.com
@@ -15382,10 +15311,8 @@ mcdonalds.se
 mcdonaldsapps.com
 mcdonaldsarabia.com
 mcdonaldsparties.co.nz
-mcfog.com
 mcisco.com
 mcpeaceofmind.com
-mcreasite.com
 mcrouter.net
 mcrouter.org
 mcstories.com
@@ -15425,11 +15352,9 @@ meccontroller.com
 media-amazon.com
 media-imdb.com
 media.nu.nl
-media.org.hk
 mediachinese.com
 mediaclip.jp
 mediafiles-cisco.com
-mediafire.com
 mediafreakcity.com
 mediasama.com
 mediawiki.org
@@ -15442,12 +15367,10 @@ meendo.com
 meet.new
 meetandfuck.games
 meetandfuckgames.com
-meetav.com
 meetfasttrack.com
 meetsmartbook.com
 meetup.com
 meetyourdevices.com
-mefeedia.com
 mefound.com
 mega.co.nz
 mega.io
@@ -15473,14 +15396,11 @@ meizhong.report
 melon.com
 melonbooks.co.jp
 melonstube.com
-meltoday.com
 meme111.com
 memealerts.com
 memehk.com
 mementoweb.org
 memes.tw
-memri.org
-memrijttm.org
 men.com
 men18.net
 menatplay.com
@@ -15506,7 +15426,6 @@ meripet.com
 merit-times.com.tw
 meshmixer.com
 meshmixerforum.com
-mesotw.com
 messenger.com
 messengerdevelopers.com
 messybrainz.org
@@ -15532,7 +15451,6 @@ metcams.com
 meteorshowersonline.com
 metro.co.uk
 metro.taipei
-metrohk.com.hk
 metrolife.ca
 metropolitana.tokyo
 metroradio.com.hk
@@ -15675,13 +15593,11 @@ microsoftuwp.com
 microvpn.com
 micstl.com
 midatlanticbmwmotorcycles.com
-middle-way.net
 midentsolutions.com
 midoushe.com
 mie.co.jp
 miexnoviadesnuda.com
 mihomeone.info
-mihr.com
 mihua.org
 miitomo.com
 miiverse.com
@@ -15720,17 +15636,13 @@ miliav.com
 milkmanbook.com
 millymarks.com
 milofetch.com
-milph.net
-milsurps.com
 mimei.store
 mimi-zhibo.com
 mimi2022.link
 mimi22.top
 mimi222.top
-mimiai.net
 mimistudio.com
 mimistyler.com
-mimivip.com
 mimizy-go.buzz
 minbrowser.org
 mindgeek.com
@@ -16043,7 +15955,6 @@ misskey.ranranhome.info
 misskey.stream
 misskey.yukineko.me
 misskeyusercontent.jp
-mist.vip
 mistral.ai
 mistresskym.com
 mit
@@ -16059,7 +15970,6 @@ mixasiansex.com
 mixero.com
 mixi.jp
 mixmaturesex.com
-mixpod.com
 mixvintagesex.com
 mixx.com
 miyazakibank.co.jp
@@ -16078,7 +15988,6 @@ mkto-c0100.com
 mktorest.com
 mktroute.com
 mlc.ai
-mlcool.com
 mlzs.work
 mm-cg.com
 mm9841.cc
@@ -16089,14 +15998,12 @@ mmftb.gov.mm
 mmgy.cc
 mminsurance.gov.mm
 mmmanual.com
-mmmca.com
 mmonsterheadphones.net
 mmscdh.one
 mmtongdao.xyz
 mmtourismbank.com
 mmtv.life
 mmwxl27.top
-mnewstv.com
 mo.co
 mo.nightlife141.com
 mobatek.net
@@ -16114,7 +16021,6 @@ mobileways.de
 mobimon.com.tw
 mobmyanmar.com
 moby.to
-mobypicture.com
 mochajs.org
 mocloudplus.com
 mod.io
@@ -16498,8 +16404,6 @@ my-enema.com
 my-formosa.com
 my-magazine.me
 my-private-network.co.uk
-my-proxy.com
-my.mail.ru
 my.opera.com
 my.pcloud.com
 my03.com
@@ -16512,7 +16416,6 @@ my3dhentai.com
 my45.com
 my9nj.com
 myaccountglobalcash.com
-myactimes.com
 myamateurgirls.net
 myamateurtv.com
 myappleid.com
@@ -16520,14 +16423,12 @@ myatos.net
 myaudiocast.com
 myautocad.com
 myautodeskbenefits.com
-myav.com.tw
 myav886.buzz
 myavfun.com
 myavok.com
 myavsuper.com
 myavxx.xyz
 mybabehotz.com
-mybbs.us
 mybeatsbydrestudio.com
 mybeatsbydreuk.com
 mybeatscheapbydre.com
@@ -16540,28 +16441,22 @@ mybookinlm.com
 myboylove.com
 mybridgestoneeducation.com
 mybukkakeporn.com
-myca168.com
 mycams.com
-mycanadanow.com
 mycardbenefits.com
 mycartoonsexgames.com
 mycdn.me
-mychinanet.com
 mychinanews.com
-mychinese.news
 myciscobenefits.com
 myclitgames.com
 mycnnews.com
 mycomicsxxx.com
 myconstructionworld.net
-mycould.com
 mydad.info
 myddns.com
 mydirectgroove.com
 mydirectvchannels.com
 mydirtyhobby.com
 myds.me
-myeasytv.com
 myebay.com
 myeclipseide.com
 myfappening.org
@@ -16600,7 +16495,6 @@ myfreeblack.com
 myfreecams.com
 myfreepaysite.com
 myfreeporngames.com
-myfreshnet.com
 myftp.info
 myfun.com
 mygaysites.com
@@ -16670,7 +16564,6 @@ myq2.com
 myqnapcloud.com
 myradio.com.hk
 myradio.hk
-myreadingmanga.info
 myrewardzone.com
 myrimmingporn.com
 myrz.com
@@ -16684,11 +16577,9 @@ myshare.url.com.tw
 myshopify.com
 mysims.com
 mysimsracing.com
-mysinablog.com
 mysinchew.com
 mysite.verizon.net
 mysocialworklab.com
-myspace.com
 myspacecdn.com
 mysql.com
 mystrikingly.com
@@ -16888,7 +16779,6 @@ nervanasys.com
 nesaporn.com
 nesaporn.mobi
 nest.com
-net
 netacad.com
 netacad.net
 netalert.me
@@ -17380,7 +17270,6 @@ njav.tv
 njpw.co.jp
 njpw1972.com
 nke6.com
-nko.navy.mil
 nlfreevpn.com
 nlm.io
 nlsexfilmpjes.com
@@ -21507,7 +21396,6 @@ softwarebychuck.com
 softwaredownload.gitbooks.io
 sogclub.com
 sogrady.me
-soh
 soh.tw
 sohcradio.com
 sohfrance.org
@@ -25176,6 +25064,7 @@ wikipedia.com
 wikipedia.org
 wikiporn.tv
 wikiquote.org
+wikis.tw
 wikisexguide.com
 wikisource.org
 wikiunblocked.org
@@ -25209,6 +25098,8 @@ windowssearch.com
 windowsuem.com
 windowsupdate.com
 windscribe.com
+windsurf.build
+windsurf.com
 windy.com
 wingamestore.com
 wingy.site
