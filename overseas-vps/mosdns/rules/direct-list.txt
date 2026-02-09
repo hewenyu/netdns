@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -2536,7 +2537,7 @@
 18778450600.com
 187997.com
 188.com
-188.nfull:a1.mzstatic.com
+188.net
 188.vip
 188158.com
 188187.xyz
@@ -21471,7 +21472,7 @@ chinacqsb.com
 chinacraa.org
 chinacrane.net
 chinacrankshaft.com
-chinacrfull:265.com
+chinacreator.com
 chinacrops.org
 chinacrosspoint.com
 chinacrt.com
@@ -31899,7 +31900,6 @@ easyya.com
 easyzw.com
 eaton-samc.com
 eatonbusbar.com
-eator.com
 eatuo.com
 eavic.com
 eawh.com
@@ -33286,7 +33286,6 @@ esztsg.org
 esztyg.com
 eszwdx.com
 eszyb.com
-et
 et-api.com
 et-cdn.com
 et-fine.com
