@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -28256,6 +28255,7 @@ ddbqgtxt.cc
 ddcdn.com
 ddcheshi.com
 ddcits.com
+ddcorp.net
 ddcsjw.com
 ddcwl.com
 ddd-china.com
@@ -28272,6 +28272,7 @@ dde-desktop.org
 ddedush.com
 ddfans.com
 ddfchina.com
+ddfresh.net
 ddfzb.com
 ddgjjj.com
 ddguanhuai.com
@@ -28295,7 +28296,9 @@ ddkt365.com
 ddky.com
 ddle.cc
 ddlequ.com
+ddmaicai.net
 ddmap.com
+ddmc.mobi
 ddmer.com
 ddmogo.com
 ddnddn.com
@@ -52569,6 +52572,7 @@ imagineadtech.com
 imags-google.com
 imahui.com
 imaibo.net
+imaicai.mobi
 imaijia.com
 imaitu.com
 imalljoy.com
