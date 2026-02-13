@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -6240,6 +6239,7 @@ developer-advisor.com
 developer.allizom.org
 developers.box.net
 developria.com
+deviantart.capplecensorship.com
 deviantart.com
 deviantart.net
 deviantclip.com
@@ -8250,6 +8250,7 @@ fgacebook.com
 fgirl.ch
 fgmtv.org
 fhreports.net
+fhreports.netlt6-mtalk.google.com
 fi11.com
 fi11av1.com
 fi11tv1.com
@@ -8925,6 +8926,7 @@ full:3dns-4.adobe.com
 full:3dns-5.adobe.com
 full:3dns.adobe.com
 full:a.ppy.sh
+full:a000webhost.com
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:abematv.akamaized.net
 full:activate-sea.adobe.com
@@ -8948,7 +8950,6 @@ full:alt2-mtalk.google.com
 full:alt3-mtalk.google.com
 full:alt4-mtalk.google.com
 full:alt5-mtalk.google.com
-full:alt6-mtalk.google.com
 full:alt7-mtalk.google.com
 full:alt8-mtalk.google.com
 full:amp.akamaized.net
@@ -16821,6 +16822,7 @@ olevod.tv
 olevodtv.com
 oli-school.com
 olumpo.com
+om
 omafotze.com
 omaps.app
 omct.org
