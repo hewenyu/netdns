@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -1684,6 +1685,7 @@ apkmonk.com
 apkplz.com
 apkpure.com
 apkpure.net
+apkpures.xyz
 aple.com
 aplestore.com
 aplleipods.com
@@ -2253,6 +2255,7 @@ attcenter.com
 attcollaborate.com
 attdns.com
 attdns.net
+attestation.app
 attexperts.com
 attglobal.net
 attic.io
@@ -6239,7 +6242,6 @@ developer-advisor.com
 developer.allizom.org
 developers.box.net
 developria.com
-deviantart.capplecensorship.com
 deviantart.com
 deviantart.net
 deviantclip.com
@@ -8250,7 +8252,6 @@ fgacebook.com
 fgirl.ch
 fgmtv.org
 fhreports.net
-fhreports.netlt6-mtalk.google.com
 fi11.com
 fi11av1.com
 fi11tv1.com
@@ -8926,7 +8927,6 @@ full:3dns-4.adobe.com
 full:3dns-5.adobe.com
 full:3dns.adobe.com
 full:a.ppy.sh
-full:a000webhost.com
 full:a4e8s8k3.map2.ssl.hwcdn.net
 full:abematv.akamaized.net
 full:activate-sea.adobe.com
@@ -8950,6 +8950,7 @@ full:alt2-mtalk.google.com
 full:alt3-mtalk.google.com
 full:alt4-mtalk.google.com
 full:alt5-mtalk.google.com
+full:alt6-mtalk.google.com
 full:alt7-mtalk.google.com
 full:alt8-mtalk.google.com
 full:amp.akamaized.net
@@ -9411,7 +9412,31 @@ full:tv.applemusic.com
 full:tvcastlive-hamivideo.cdn.hinet.net
 full:ubisoft-orbit-savegames.s3.amazonaws.com
 full:ubisoft-uplay-savegames.s3.amazonaws.com
+full:ubisoft.siteintercept.qualtrics.com
+full:ubistatic1-a.akamaihd.net
+full:ubistatic10-a.akamaihd.net
+full:ubistatic11-a.akamaihd.net
+full:ubistatic12-a.akamaihd.net
+full:ubistatic13-a.akamaihd.net
+full:ubistatic14-a.akamaihd.net
+full:ubistatic15-a.akamaihd.net
+full:ubistatic16-a.akamaihd.net
+full:ubistatic17-a.akamaihd.net
+full:ubistatic18-a.akamaihd.net
+full:ubistatic19-a.akamaihd.net
+full:ubistatic2-a.akamaihd.net
+full:ubistatic20-a.akamaihd.net
+full:ubistatic21-a.akamaihd.net
+full:ubistatic22-a.akamaihd.net
+full:ubistatic23-a.akamaihd.net
+full:ubistatic24-a.akamaihd.net
 full:ubistatic3-a.akamaihd.net
+full:ubistatic4-a.akamaihd.net
+full:ubistatic5-a.akamaihd.net
+full:ubistatic6-a.akamaihd.net
+full:ubistatic7-a.akamaihd.net
+full:ubistatic8-a.akamaihd.net
+full:ubistatic9-a.akamaihd.net
 full:ulrichsweb.serialssolutions.com
 full:ut1-time.colorado.edu
 full:ut1-wwv.nist.gov
@@ -10493,6 +10518,19 @@ grannylovesyoungcock.com
 grannytube.net
 granulate.io
 graph.org
+grapheneos.app
+grapheneos.ca
+grapheneos.com
+grapheneos.dev
+grapheneos.foundation
+grapheneos.info
+grapheneos.net
+grapheneos.network
+grapheneos.online
+grapheneos.org
+grapheneos.ovh
+grapheneos.page
+grapheneos.social
 graphengine.io
 graphis.ne.jp
 graphql.org
@@ -16822,7 +16860,6 @@ olevod.tv
 olevodtv.com
 oli-school.com
 olumpo.com
-om
 omafotze.com
 omaps.app
 omct.org
@@ -19521,6 +19558,7 @@ sdcountybmw.com
 sdnice.one
 sdnitube.buzz
 seagroup.com
+seamlessupdate.app
 seamonkey-project.org
 seancody.com
 seaofsolitude.com
@@ -22405,6 +22443,7 @@ valeursactuelles.com
 valoryirene.com
 valuegb.com
 valvesoftware.com
+vanadium.app
 vancouverbmwretailers.ca
 vanish.at
 vanish.be
