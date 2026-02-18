@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -7001,6 +7000,7 @@
 6501111.com
 65119.com
 651700.com
+6532.xyz
 654320.com
 6543210.com
 654321wan.com
@@ -7045,7 +7045,6 @@
 666127.xyz
 666291.xyz
 6665.com
-666532.xyz
 666546.xyz
 666548.xyz
 6666519.net
@@ -7093,6 +7092,7 @@
 66cn.com
 66d6.com
 66ds.net
+66full:a1.mzstatic.com
 66good.com
 66han.com
 66huigo.com
@@ -24873,6 +24873,7 @@ colourlife.com
 columbia-china.com
 columbia-kaiyuan.com
 columbia-wuxi.com
+com
 com.fi
 com.mp
 com.tv
@@ -96184,7 +96185,7 @@ vanguardstars.com
 vanjoin.com
 vankang.com
 vanke-hotels.com
-vanke.com
+vanke.full:265.com
 vankeclub.com.hk
 vankeservice.com
 vankeservice.mobi
