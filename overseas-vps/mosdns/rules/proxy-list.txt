@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2788,6 +2787,7 @@ baijie.org
 bailandaily.com
 baixing.me
 baizhi.org
+balectbabe.com
 ballbustingtube.com
 baltimorebmw.com
 bamgrid.com
@@ -7069,6 +7069,7 @@ e-hentaidb.com
 e-szigno.hu
 e-tugra.com
 e-zone.com.hk
+e000webhost.com
 e123.hk
 e5.sk
 e53w.com
@@ -7373,7 +7374,6 @@ el-ladies.com
 elasticbeanstalk.com
 elconfidencial.com
 elderscrolls.com
-electbabe.com
 electrek.co
 electricluxury.com
 electrochem.org
@@ -7664,6 +7664,7 @@ esm.run
 esmarthealth.com
 esmatube.com
 esopworld.com
+esounds.info
 esp32.com
 esp8266.com
 espadoldettol.com.ar
@@ -8454,7 +8455,7 @@ firesidegatherings.com
 firestone.cl
 firestone.co.cr
 firestone.com.ar
-firestone.com.br
+firestone.com.brngchen.net
 firestone.com.co
 firestone.com.mx
 firestonebpco.com
@@ -15541,6 +15542,7 @@ mortein.com.ng
 mortein.com.pk
 morteincam.com
 mos.ru
+mosavi.io
 mostly.jp
 mostpopularpornsites.com
 motherless.com
@@ -17796,6 +17798,7 @@ pki-poste.ch
 pki.goog
 pkqjiasu.com
 pkuanvil.com
+pla
 placemix.com
 placemyad.com.au
 placesdocs.com
@@ -19517,6 +19520,7 @@ satoshilabs.com
 satv01.me
 savethedate.foo
 savethesounds.info
+savethypcesor.com
 savetibet.de
 savetibet.org
 savetibetstore.org
