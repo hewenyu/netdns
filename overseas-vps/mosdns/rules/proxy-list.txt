@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2321,7 +2322,6 @@ atc.org.au
 atchinese.com
 atdmt2.com
 ateam-oracle.com
-atgeomaps.com
 athenaeizou.com
 atkgallery.com
 atl-paas.net
@@ -3059,7 +3059,7 @@ beatsbydrefriday.com
 beatsbydregot.com
 beatsbydrehd.com
 beatsbydrehd.net
-beatsbydreheadphon000webhost.com
+beatsbydreheadphones-nz.com
 beatsbydreheadphonesolo.com
 beatsbydrehut.com
 beatsbydreinexpensive.com
@@ -4075,7 +4075,7 @@ bmwarchiv.at
 bmwarchiv.de
 bmwartjourney.com
 bmwasia.com
-bmwauslieferungscom
+bmwauslieferungszentrum.com
 bmwbikes.com
 bmwbkk.de
 bmwccrc.ca
@@ -5179,7 +5179,6 @@ chinauncensored.tv
 chinaview.wordpress.com
 chinaworker.info
 chinchuqi-av.lat
-chincontent.com
 chinese-memorial.org
 chinese-porn-videos.com
 chinese-xnxx.com
@@ -5956,7 +5955,6 @@ dalailama.mn
 dalailama.ru
 dalailamacenter.org
 dalailamaworld.com
-dalailamaworld.es-nz.com
 dalianmeng.org
 daliulian.org
 damduc.org
@@ -6270,7 +6268,7 @@ denfaminicogamer.jp
 dengeamerika.com
 dengekionline.com
 dengiamerika.com
-deno.comwordpress.com
+deno.com
 deno.land
 dentalhypotheses.com
 dependabot.com
@@ -7378,7 +7376,7 @@ ehwiki.org
 eic-av.com
 eighteen-store18x.jp
 eilieili.cc
-einst.uk
+einstein.com
 eireinikotaerukai.com
 eiu.com
 ekhindi.com
@@ -8372,7 +8370,7 @@ fightforux.com
 figma.com
 figprayer.com
 fileflyer.com
-files.oaiuserzentrum.com
+files.oaiusercontent.com
 filesmonster.vip
 filesor.com
 filipino-music.net
@@ -11618,7 +11616,7 @@ hqcdp.org
 hqdesexo.com
 hqjapanesesex.com
 hqporner.com
-hqsbnet.a-review.com.ua
+hqsbnet.wordpress.com
 hqsbonline.wordpress.com
 hqseek.com
 hqtrannytube.com
@@ -12607,10 +12605,10 @@ interactivebrokers.co.jp
 interactivebrokers.co.uk
 interactivebrokers.com
 interactivebrokers.com.au
+interactivebrokers.com.hk
 interactivebrokers.com.sg
 interactivebrokers.eu
 interactivebrokers.ie
-interactivebrom
 interactivesex.xxx
 intercamcashpassport.com.mx
 intercom.com
@@ -13739,7 +13737,6 @@ lala.im
 lama.com.tw
 lamayeshe.com
 lamnia.co.uk
-lamnia.coapplecensorship.com
 lanasbigboobs.com
 landofhope.tv
 langsuirs.com
@@ -14920,7 +14917,7 @@ microsoftedge.com
 microsoftedgeinsider.com
 microsoftgamestack.com
 microsofthouse.com
-microsofthouse.necago.edu
+microsofthouse.net
 microsoftinternetsafety.net
 microsoftiotcentral.com
 microsoftiotinsiderlabs.com
@@ -15992,6 +15989,7 @@ nastyvids.com
 nat.moe
 nataliefiore.com
 natgeokidsbooks.co.uk
+natgeomaps.com
 national-lottery.co.uk
 nationalawakening.org
 nationalgeographic.com
@@ -16091,7 +16089,6 @@ neow.in
 neowin.net
 nephobox.com
 nerdnudes.com
-nerment.org
 nervanasys.com
 nesaporn.com
 nesaporn.mobi
@@ -17841,7 +17838,6 @@ plantsvszombies2.com
 plasticlabs.com
 plastics-cadcam.com
 platinumlinks.org
-play-asia.coein.com
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
@@ -21914,6 +21910,7 @@ toptoonsites.com
 topvids.net
 topxxxpornvids.com
 topyoungporn.com
+tor.eff.org
 torcidadeouro.com
 torguard.net
 torlock.com
@@ -22350,7 +22347,6 @@ ubuntu.net
 ubuntuforums.org
 uc-japan.org
 uchicago.edu
-uchikers.com.hk
 ucla.edu
 udacity.com
 udemy.com
@@ -23935,7 +23931,6 @@ wordpress.tv
 work2icu.org
 workatruna.com
 workerempowerment.org
-workerempowt
 workers.dev
 workplace.com
 workplaceusecases.com
