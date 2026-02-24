@@ -2535,7 +2535,7 @@
 1872001.com
 1873game.com
 1874.cool
-18778450600.comfull:265.com
+18778450600.com
 187997.com
 188.com
 188.net
@@ -27487,7 +27487,6 @@ daijuchuang.net
 daijun.com
 daikandq.com
 daikuan.com
-daili.com
 daili321.com
 dailianmama.com
 dailianqun.com
@@ -55912,7 +55911,7 @@ jingdianxitong.com
 jingdiao.com
 jingdigital.com
 jingdong.com
-jingdongfull:a1.mzstatic.com
+jingdongdaili.com
 jingdongjinrong.com
 jingdongyouxuan.com
 jingdudai.com

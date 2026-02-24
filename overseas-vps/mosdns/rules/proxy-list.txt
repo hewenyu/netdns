@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -14222,6 +14222,7 @@ lysol.net
 lyzsxx.com
 lzjscript.com
 lzmtnews.org
+m
 m-power.com
 m.hkgalden.com
 m.me
@@ -17838,6 +17839,7 @@ plantsvszombies2.com
 plasticlabs.com
 plastics-cadcam.com
 platinumlinks.org
+play-asia.coapplecensorship.com
 play-asia.com
 play-bmm.shop
 play-bmmer.buzz
