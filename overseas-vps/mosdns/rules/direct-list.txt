@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -37041,6 +37040,7 @@ full:alibaba.cdn.steampipe.steamcontent.com
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 full:amp-api-edge-lb.itunes-apple.com.akadns.net
 full:amp-api-edge.apps.apple.com
+full:amp-api-edge.music.apple.com
 full:amp-api-search-edge.apps.apple.com
 full:amp-api-updates.apps.apple.com
 full:amp-api.apps.apple.com
@@ -37359,6 +37359,8 @@ full:ml.cdn-apple.com
 full:monitoring.qpdp1.net
 full:moocs.unipus.cn
 full:music.apple.com
+full:musicstatus.music.apple.com
+full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
 full:nexus.dell.com
@@ -37515,6 +37517,7 @@ full:snp.cdn.dell.com
 full:snpi.dell.com
 full:software.download.prss.microsoft.com
 full:sp.itunes.apple.com
+full:speedysub.music.apple.com
 full:ss.bjmu.edu.cn
 full:ssl-google-analytics.l.google.com
 full:ssl.gstatic.com

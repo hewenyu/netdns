@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -918,7 +919,7 @@ adult3dtoons.com
 adult789.futoka.jp
 adultartlinks.supertop-100.com
 adultartsites.com
-adultbay.orgcom
+adultbay.org
 adultblogranking.com
 adultblogtoplist.com
 adultcamslover.com
@@ -2049,9 +2050,9 @@ appleone.community
 appleone.film
 appleone.guide
 appleone.host
+appleone.space
 appleone.tech
 appleone.website
-appleoneplay-asia.com
 appleonline.com
 appleonline.net
 appleoriginalproductions.com
@@ -4071,9 +4072,9 @@ bmw.no
 bmw.pl
 bmw.ps
 bmw.pt
+bmw.re
 bmw.ro
 bmw.rs
-bmw.rxy.net
 bmw.se
 bmw.si
 bmw.sk
@@ -5966,7 +5967,6 @@ dajiyuan.eu
 dalailama.mn
 dalailama.ru
 dalailamacenter.org
-dalailamaworld.000webhost.com
 dalailamaworld.com
 dalianmeng.org
 daliulian.org
@@ -7084,7 +7084,6 @@ dysfz.cc
 dzcdn.net
 dzen.ru
 dzeninfra.ru
-e
 e-bay.com
 e-bay.it
 e-bay.net
@@ -9338,6 +9337,7 @@ full:pchomeonline.com.tw
 full:pki.google.com
 full:play-edge.itunes.apple.com
 full:poshtestgallery.cloudapp.net
+full:ppl-ai-file-upload.s3.amazonaws.com
 full:pplx-res.cloudinary.com
 full:practivate.adobe
 full:practivate.adobe.com
@@ -22354,7 +22354,6 @@ ubddns.org
 uber-assets.com
 uber.com
 ubereats.com
-uberpro.space
 uberproxy.net
 ubi.com
 ubisoft.com
@@ -24831,6 +24830,7 @@ yandexadexchange.net
 yandexcloud.net
 yandexcom.net
 yandexmetrica.com
+yandexwebcache.net
 yandexwebcache.org
 yangzhi.org
 yantaqu.com
