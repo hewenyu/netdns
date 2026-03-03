@@ -13005,6 +13005,7 @@ jav.guru
 jav.la
 jav.land
 jav.place
+jav.sb
 jav.si
 jav.wine
 jav01.cc
@@ -13078,6 +13079,7 @@ javhdporn.net
 javher.com
 javheroine.com
 javhihi.com
+javhub.com
 javhub.me
 javhub.net
 javhuge.com
@@ -13113,6 +13115,7 @@ javprime.net
 javpub.me
 javpush.com
 javqd.com
+javquick.com
 javrank.com
 javrate.com
 javrave.club
@@ -16869,7 +16872,6 @@ nytimes.com
 nytimes.map.fastly.net
 nytimg.com
 nytstyle.com
-o.pe
 o2action.co.kr
 o365weve-dev.com
 o365weve-ppe.com
@@ -21393,7 +21395,6 @@ telegramdownload.com
 telegraph.co.uk
 telekom.com
 telekom.de
-telescapplecensorship.com
 telesco.pe
 telesec.de
 telesell.com
@@ -24040,7 +24041,6 @@ www.gmiddle.net
 www.hoyolab.com
 www.hustlercash.com
 www.idlcoyote.com
-www.imdb.com
 www.kindleren.com
 www.lorenzetti.com.br
 www.m-sport.co.uk
