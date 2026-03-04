@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -2206,6 +2206,7 @@ arctosia.com
 area120.com
 area51.to
 areca-backup.org
+arena.ai
 arena.taipei
 arethusa.su
 arewereadyyet.com
@@ -2237,6 +2238,7 @@ artstationmedia.com
 artstor.org
 artstorm.com
 arvanstorage.ir
+arweave.org
 arxiv.org
 arzon.jp
 as-hp.ca
@@ -6387,6 +6389,7 @@ dhlestudio.com.co
 diablo3.com
 diabloimmortal.com
 diabrowser.com
+diabrowser.engineering
 dialga.com
 dialogflow.com
 diamantewebcam.com
@@ -6647,6 +6650,7 @@ dkrecttv.com
 dl-iphone.com
 dl-laby.jp
 dl.box.net
+dlaf.jp
 dlap001.xyz
 dlap301.com
 dldlinks.com
@@ -12169,9 +12173,8 @@ ilife.eu
 ilife.gr
 ilife.wang
 illawarramercury.com.au
+illgames.jp
 illianacomputerrecycling.com
-illusion.co.jp
-illusion.jp
 illusion111.com
 illusionas.com
 illusionchn.com
@@ -12972,6 +12975,7 @@ jamyangnorbu.com
 jan.ai
 janor6.net
 japan-forward.com
+japan-illgames.com
 japan-whores.com
 japan18tube.com
 japanbeast.com
@@ -22108,6 +22112,7 @@ tsundora.com
 tsuradou.noonvob.com
 tsyum.com
 tt1069.com
+ttcdn-us.com
 tteshop.com
 ttlivecdn.com
 ttoverseaus.net
@@ -23888,6 +23893,7 @@ wisekey.com
 wisekey.com.hk
 wisevid.com
 wish.com
+wispbyte.com
 wistia.com
 wistia.net
 withgoogle.com
