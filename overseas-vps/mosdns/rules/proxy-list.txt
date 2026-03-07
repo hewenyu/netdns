@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1223,7 +1223,6 @@ akamai-platform-internal.net
 akamai-platform-staging.com
 akamai-platform.net
 akamai-regression.net
-akamai-staging.net
 akamai-sucks.net
 akamai-thailand.com
 akamai-thailand.net
@@ -2543,8 +2542,8 @@ autodesktechx.com
 autodesktinkerbox.com
 autodesktravel.com
 autodeskturkiye.com
-autodeskuniversity.com
 autodeskuniversity2013.com
+autodeskuniversixeldrain.com
 autodeskvasari.com
 autodeskvasari.net
 autodeskvietnam.com
@@ -6690,6 +6689,7 @@ dnai.in
 dnaindia.com
 dnaspaces.io
 dndbeyond.com
+dns.cloudflare.com
 dns.sb
 dns2go.com
 dnscrypt.org
@@ -9084,6 +9084,7 @@ full:antigravity.googleapis.com
 full:aod-pod-uk-live.akamaized.net
 full:api-p.videomarket.jp
 full:api.viu.now.com
+full:apkmirror.disqus.com
 full:apl-hamivideo.cdn.hinet.net
 full:apple-tv-plus-press.apple.com
 full:apple.com.akadns.net
@@ -9472,6 +9473,8 @@ full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
 full:ssl-lvlt.cdn.ea.com
+full:st-ok-pts.cdn-vk.ru
+full:st-ok.cdn-vk.ru
 full:standchartbank.sc.omtrdc.net
 full:standchartbank.tt.omtrdc.net
 full:static-hamivideo.cdn.hinet.net
@@ -9697,6 +9700,7 @@ full:wwis-dubc1-vip99.adobe.com
 full:www-cdn.icloud.com.akadns.net
 full:yandex-pogoda.static-storage.net
 full:yangzhi.app
+full:youla-web-static.mrgcdn.ru
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
 fulldesisex.com
@@ -10364,6 +10368,7 @@ google.co.vi
 google.co.za
 google.co.zm
 google.co.zw
+google.co000webhost.com
 google.com
 google.com.af
 google.com.ag
@@ -12672,6 +12677,7 @@ inventorfusion.com
 inventorseries.com
 inventorship.com.au
 investigating.wordpress.com
+investing.com
 investorschronicle.co.uk
 invidio.us
 invity.io
@@ -14247,6 +14253,7 @@ lyzsxx.com
 lzjscript.com
 lzmtnews.org
 m-power.com
+m.co
 m.hkgalden.com
 m.me
 m.moegirl.org
@@ -15756,6 +15763,7 @@ musickit.net
 musixmatch.com
 mut.ch
 muthead.com
+muvluv-girls-garden.com
 muycerdas.xxx
 muyzorras.com
 muzi.com
@@ -17072,6 +17080,7 @@ only3x.com
 onlyams.com
 onlycartoonsex.com
 onlydudes.com
+onlyfans.com
 onlyfanspw.com
 onlyfreelatinaporn.com
 onlygayvideo.com
@@ -17702,6 +17711,7 @@ phxbmw.com
 physicalexam.info
 physiology.org
 pi-vr.com
+piakamai-staging.net
 piaotia.com
 piapp.com.tw
 piapro.net
@@ -19767,6 +19777,7 @@ selfloversworld.com
 sellercommunity.com
 semanticscholar.org
 sena.co.kr
+sendvid.com
 seneporno.com
 seniortgp.com
 senpaiheat.com
@@ -22338,6 +22349,7 @@ txvia.com
 txvlog.com
 txxx.com
 txxx1.com
+ty.com
 tycool.com
 tyler-brown.com
 tyms2022.com
@@ -22530,6 +22542,7 @@ ustibetcommittee.org
 ustream.tv
 usvimosquito.com
 usvimosquitoproject.com
+utdstc.com
 utopianpal.com
 uug22.com
 uug23.com
@@ -24948,6 +24961,8 @@ youflix.is
 youjism.com
 youjizz.com
 youjizz.sex
+youla.io
+youla.ru
 youlucky.com
 youmaker.com
 youmind.ai
