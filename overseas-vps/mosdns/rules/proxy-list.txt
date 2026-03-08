@@ -1,9 +1,9 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
+.com
 01.org
 02weqj32.com
 04647.club
@@ -1039,6 +1039,7 @@ ai7995.site
 ai91porn.cc
 aiaa.org
 aiasahi.jp
+ailamacenter.org
 aimei133.com
 aimsciences.org
 aiosearch.com
@@ -1223,6 +1224,7 @@ akamai-platform-internal.net
 akamai-platform-staging.com
 akamai-platform.net
 akamai-regression.net
+akamai-staging.net
 akamai-sucks.net
 akamai-thailand.com
 akamai-thailand.net
@@ -1809,6 +1811,7 @@ app-analytics-services.com
 app-dynamics.com
 app-measurement-cn.com
 app-measurement.com
+app-pay.jp
 app-store.wang
 app.box.com
 app.cloudcone.com
@@ -2542,8 +2545,8 @@ autodesktechx.com
 autodesktinkerbox.com
 autodesktravel.com
 autodeskturkiye.com
+autodeskuniversity.com
 autodeskuniversity2013.com
-autodeskuniversixeldrain.com
 autodeskvasari.com
 autodeskvasari.net
 autodeskvietnam.com
@@ -4835,6 +4838,7 @@ cartoontube.com
 cartoonville.net
 cas.org
 casatibet.org.mx
+casatibetu
 cash.app
 cash2.com
 cashback69.com
@@ -5965,6 +5969,7 @@ daindianporn.com
 dajiyuan.com
 dajiyuan.de
 dajiyuan.eu
+dal.com
 dalailama.mn
 dalailama.ru
 dalailamacenter.org
@@ -8463,7 +8468,7 @@ finishinfo.it
 finishinfo.jp
 finishinfo.nl
 finishinfo.no
-finishinfo.ru
+finishinfo.r000webhost.com
 finishinfo.se
 finishkilpailu.fi
 finishwin.be
@@ -10368,7 +10373,6 @@ google.co.vi
 google.co.za
 google.co.zm
 google.co.zw
-google.co000webhost.com
 google.com
 google.com.af
 google.com.ag
@@ -11396,7 +11400,7 @@ honkaistarrail.com
 honnaka.jp
 honven.xyz
 hoodamateurs.com
-hooligapps.com
+hooligapps.org.mx
 hooloo.tv
 hoolu.com
 hoolu.tv
@@ -11479,6 +11483,7 @@ hotporntubes.com
 hotscope.tv
 hotsexvideo.mobi
 hotsexydolls.com
+hotspotintelstore.com
 hotspotshield.com
 hotsrv.de
 hotstar-cdn.net
@@ -12620,7 +12625,6 @@ intelsalestraining.com
 intelsecurity.com
 intelserveredge.com
 intelsoftwarenetwork.com
-intelstore.com
 inteltechnologyprovider.com
 intelvmwarecybersecurity.com
 interactivebrokers.ca
@@ -13739,6 +13743,7 @@ kusugurizanmai.com
 kutjeporno.com
 kwcg.ca
 kwongwah.com.my
+kwongwah.comm
 kxsw.life
 kynogon.com
 kyodo-d.info
@@ -14253,7 +14258,6 @@ lyzsxx.com
 lzjscript.com
 lzmtnews.org
 m-power.com
-m.co
 m.hkgalden.com
 m.me
 m.moegirl.org
@@ -16000,6 +16004,7 @@ nakedmodelsxxx.com
 nakednews.com
 nakedsecurity.sophos.com
 nakido.com
+nakido.coshield.com
 nalandabodhi.org
 nalandawest.org
 namemybeats.com
@@ -17711,7 +17716,6 @@ phxbmw.com
 physicalexam.info
 physiology.org
 pi-vr.com
-piakamai-staging.net
 piaotia.com
 piapp.com.tw
 piapro.net
@@ -18233,7 +18237,7 @@ pornohd.blue
 pornohd.plus
 pornohoo.com.mx
 pornohut.info
-pornohutdeutsch.net
+pornohutdeutsch.net.my
 pornoid.com
 pornoincreible.com
 pornoingyen.hu
@@ -19534,7 +19538,8 @@ samsungdm.com
 samsunggalaxyfriends.com
 samsunghealth.com
 samsungiotcloud.com
-samsungknox.com
+samsungiots.com
+samsungknox.comure.hustler.com
 samsungosp.com
 samsungqbe.com
 samsungrs.com
@@ -19725,6 +19730,7 @@ searx.me
 seasidestory.tokyo
 seattlefdc.com
 seattlespheres.com
+sec
 secom.co.jp
 secomtrust.net
 second-ns.com
@@ -19738,7 +19744,6 @@ secretsline.biz
 secretubes.com
 sectigo.com
 secure-paypal.info
-secure.hustler.com
 secure.logmein.com
 secure.shadowsocks.nu
 securecloudtransformation.com
@@ -20386,6 +20391,7 @@ smartonerobotics.com
 smartonesolutions.com.hk
 smartonesolutions.hk
 smartstream.ne.jp
+smartthings.com
 smashed.xxx
 smbc.co.jp
 smbctb.co.jp
@@ -21717,6 +21723,7 @@ threatlabz.com
 thri.xxx
 thrixxx.com
 throughnightsfire.com
+throughnightsfiretkr.com
 thtmod1.com
 thuhole.com
 thumbnailseries.com
@@ -22244,6 +22251,7 @@ tvmost.com.hk
 tvnaviweb.jp
 tvpromise.com
 tvunetworks.com
+tw
 tw-blog.com
 tw.jiepang.com
 tw01.org
@@ -22349,7 +22357,6 @@ txvia.com
 txvlog.com
 txxx.com
 txxx1.com
-ty.com
 tycool.com
 tyler-brown.com
 tyms2022.com
