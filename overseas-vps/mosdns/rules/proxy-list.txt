@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-.com
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -1039,7 +1039,6 @@ ai7995.site
 ai91porn.cc
 aiaa.org
 aiasahi.jp
-ailamacenter.org
 aimei133.com
 aimsciences.org
 aiosearch.com
@@ -4838,7 +4837,6 @@ cartoontube.com
 cartoonville.net
 cas.org
 casatibet.org.mx
-casatibetu
 cash.app
 cash2.com
 cashback69.com
@@ -5969,7 +5967,6 @@ daindianporn.com
 dajiyuan.com
 dajiyuan.de
 dajiyuan.eu
-dal.com
 dalailama.mn
 dalailama.ru
 dalailamacenter.org
@@ -7086,6 +7083,7 @@ dynamics.com
 dynamobuilds.com
 dynamopackages.com
 dynamoreach.com
+dynatrace.com
 dynawebinc.com
 dyncdn.me
 dynu.com
@@ -8135,6 +8133,7 @@ familymart.com.ph
 familypies.net
 familyporn.tv
 familypornhd.com
+familysearch.org
 familysexsimulator.com
 familysimulator.com
 familysimulator.io
@@ -8468,7 +8467,7 @@ finishinfo.it
 finishinfo.jp
 finishinfo.nl
 finishinfo.no
-finishinfo.r000webhost.com
+finishinfo.ru
 finishinfo.se
 finishkilpailu.fi
 finishwin.be
@@ -9129,7 +9128,6 @@ full:cbsplaylistserver.aws.syncbak.com
 full:cbsservice.aws.syncbak.com
 full:cdn-spotify-experiments.conductrics.com
 full:cdn.js7k.com
-full:cdn.jsdelivr.net
 full:cdngarenanow-a.akamaihd.net
 full:chinapower.csis.org
 full:cisco.evergage.com
@@ -11400,7 +11398,7 @@ honkaistarrail.com
 honnaka.jp
 honven.xyz
 hoodamateurs.com
-hooligapps.org.mx
+hooligapps.com
 hooloo.tv
 hoolu.com
 hoolu.tv
@@ -11483,7 +11481,6 @@ hotporntubes.com
 hotscope.tv
 hotsexvideo.mobi
 hotsexydolls.com
-hotspotintelstore.com
 hotspotshield.com
 hotsrv.de
 hotstar-cdn.net
@@ -12625,6 +12622,7 @@ intelsalestraining.com
 intelsecurity.com
 intelserveredge.com
 intelsoftwarenetwork.com
+intelstore.com
 inteltechnologyprovider.com
 intelvmwarecybersecurity.com
 interactivebrokers.ca
@@ -13743,7 +13741,6 @@ kusugurizanmai.com
 kutjeporno.com
 kwcg.ca
 kwongwah.com.my
-kwongwah.comm
 kxsw.life
 kynogon.com
 kyodo-d.info
@@ -16004,7 +16001,6 @@ nakedmodelsxxx.com
 nakednews.com
 nakedsecurity.sophos.com
 nakido.com
-nakido.coshield.com
 nalandabodhi.org
 nalandawest.org
 namemybeats.com
@@ -18237,7 +18233,7 @@ pornohd.blue
 pornohd.plus
 pornohoo.com.mx
 pornohut.info
-pornohutdeutsch.net.my
+pornohutdeutsch.net
 pornoid.com
 pornoincreible.com
 pornoingyen.hu
@@ -19539,7 +19535,7 @@ samsunggalaxyfriends.com
 samsunghealth.com
 samsungiotcloud.com
 samsungiots.com
-samsungknox.comure.hustler.com
+samsungknox.com
 samsungosp.com
 samsungqbe.com
 samsungrs.com
@@ -19730,7 +19726,6 @@ searx.me
 seasidestory.tokyo
 seattlefdc.com
 seattlespheres.com
-sec
 secom.co.jp
 secomtrust.net
 second-ns.com
@@ -19744,6 +19739,7 @@ secretsline.biz
 secretubes.com
 sectigo.com
 secure-paypal.info
+secure.hustler.com
 secure.logmein.com
 secure.shadowsocks.nu
 securecloudtransformation.com
@@ -20101,6 +20097,7 @@ shishijump001.com
 shit-porn.net
 shithd.com
 shitjav.com
+shitjournal.org
 shittytube.com
 shixiao.org
 shizhao.org
@@ -21723,7 +21720,6 @@ threatlabz.com
 thri.xxx
 thrixxx.com
 throughnightsfire.com
-throughnightsfiretkr.com
 thtmod1.com
 thuhole.com
 thumbnailseries.com
@@ -22251,7 +22247,6 @@ tvmost.com.hk
 tvnaviweb.jp
 tvpromise.com
 tvunetworks.com
-tw
 tw-blog.com
 tw.jiepang.com
 tw01.org
