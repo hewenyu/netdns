@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2437,6 +2436,7 @@ autocadsucks.com
 autocadsucks.net
 autocadws.com
 autocadws.net
+autod000webhost.com
 autodesk-aia-me.com
 autodesk-events.com
 autodesk-kickoff.com
@@ -2544,7 +2544,6 @@ autodesktechx.com
 autodesktinkerbox.com
 autodesktravel.com
 autodeskturkiye.com
-autodeskuniversity.com
 autodeskuniversity2013.com
 autodeskvasari.com
 autodeskvasari.net
@@ -3067,7 +3066,6 @@ beatsbydreexecutivesale.com
 beatsbydreformall2013-nl.com
 beatsbydreforsalesonline.com
 beatsbydreforshop2013-nl.com
-beatsbydreforstore.com
 beatsbydreforyououtlet.com
 beatsbydrefr.com
 beatsbydrefrcasquepascher.com
@@ -3210,6 +3208,7 @@ beatssaleus.com
 beatssaustraliabuy.com
 beatssbyaustralia.com
 beatssbydredanmark.com
+beatsshield.com
 beatsshop-uk.com
 beatsshop-usa.com
 beatsshopstore.com
@@ -6273,7 +6272,7 @@ delltechnologies.com
 delltechnologiescapital.com
 delltechnologiesworld.com
 deluxe.com.hk
-delvenetworks.com
+delvenetwoxeldrain.com
 demandware.com
 demdex.net
 demo.unlock-music.dev
@@ -11482,6 +11481,7 @@ hotporntubes.com
 hotscope.tv
 hotsexvideo.mobi
 hotsexydolls.com
+hotspoteskuniversity.com
 hotspotshield.com
 hotsrv.de
 hotstar-cdn.net
@@ -17716,6 +17716,7 @@ pi-vr.com
 piaotia.com
 piapp.com.tw
 piapro.net
+pibydreforstore.com
 picacg2022.com
 picacgp.com
 picacgy.com
@@ -19305,6 +19306,7 @@ rixcloud.us
 rjgsp.buzz
 rjgsp1.buzz
 rk.com
+rks.com
 rlczdo.xyz
 rlwlw.com
 rm2029.com
@@ -20263,6 +20265,7 @@ sinoants.com
 sinoca.com
 sinocast.com
 sinoinsider.com
+sinyalee.com
 sipml5.org
 siport.com
 sipriyearbook.org
