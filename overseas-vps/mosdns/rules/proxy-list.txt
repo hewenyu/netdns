@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2049,7 +2050,7 @@ appleone.club
 appleone.community
 appleone.film
 appleone.guide
-appleone.host
+appleone.ho000webhost.com
 appleone.space
 appleone.tech
 appleone.website
@@ -2436,7 +2437,6 @@ autocadsucks.com
 autocadsucks.net
 autocadws.com
 autocadws.net
-autod000webhost.com
 autodesk-aia-me.com
 autodesk-events.com
 autodesk-kickoff.com
@@ -2544,6 +2544,7 @@ autodesktechx.com
 autodesktinkerbox.com
 autodesktravel.com
 autodeskturkiye.com
+autodeskuniversity.com
 autodeskuniversity2013.com
 autodeskvasari.com
 autodeskvasari.net
@@ -3208,7 +3209,6 @@ beatssaleus.com
 beatssaustraliabuy.com
 beatssbyaustralia.com
 beatssbydredanmark.com
-beatsshield.com
 beatsshop-uk.com
 beatsshop-usa.com
 beatsshopstore.com
@@ -3221,6 +3221,7 @@ beatsua.com
 beatswholesale.us
 beatswirelesscheap.com
 beatswirelesscuffie.com
+beatsxeldrain.com
 beatthatquote.com
 beautifulandbusty.com
 beautyandthebeastmusical.co.uk
@@ -5144,7 +5145,7 @@ chibabank.co.jp
 chibakogyo-bank.co.jp
 chicagolandbmw.com
 chicksonblackdicks.com
-chickstagram.com
+chickstagram.cure.hustler.com
 chickteases.com
 chid.com.mm
 chihair-straightener.com
@@ -5342,10 +5343,12 @@ clasporno.org
 classicalguitarblog.net
 classicnike.com
 classymomsex.com
+clau.de
 claude.ai
 claude.com
 claudemcpclient.com
 claudeusercontent.com
+clawhub.ai
 clco.cc
 cldr.unicode.org
 clearasil.us
@@ -6271,8 +6274,8 @@ delltechcenter.com
 delltechnologies.com
 delltechnologiescapital.com
 delltechnologiesworld.com
-deluxe.com.hk
-delvenetwoxeldrain.com
+deluxm
+delvenetworks.com
 demandware.com
 demdex.net
 demo.unlock-music.dev
@@ -7104,6 +7107,7 @@ e-hentaidb.com
 e-szigno.hu
 e-tugra.com
 e-zone.com.hk
+e.com.hk
 e123.hk
 e5.sk
 e53w.com
@@ -10774,6 +10778,7 @@ h-top.supertop-100.com
 h-webtoon.com
 h0930.com
 h18ani1.vip
+h2o.ai
 h2porn.com
 h528.com
 habr.com
@@ -11481,7 +11486,6 @@ hotporntubes.com
 hotscope.tv
 hotsexvideo.mobi
 hotsexydolls.com
-hotspoteskuniversity.com
 hotspotshield.com
 hotsrv.de
 hotstar-cdn.net
@@ -17120,6 +17124,7 @@ openapiservice.com
 openart.ai
 openbook.org.tw
 opencas.io
+openclaw.ai
 opencollective.com
 opencreate.org
 opencritic.com
@@ -17716,7 +17721,6 @@ pi-vr.com
 piaotia.com
 piapp.com.tw
 piapro.net
-pibydreforstore.com
 picacg2022.com
 picacgp.com
 picacgy.com
@@ -17830,6 +17834,7 @@ piratecams.com
 pirates-forum.org
 pirouvr.com
 pise.pw
+pist
 pittpatt.com
 pivotalinitiative.com
 piwheels.org
@@ -19306,7 +19311,6 @@ rixcloud.us
 rjgsp.buzz
 rjgsp1.buzz
 rk.com
-rks.com
 rlczdo.xyz
 rlwlw.com
 rm2029.com
@@ -19729,6 +19733,7 @@ searx.me
 seasidestory.tokyo
 seattlefdc.com
 seattlespheres.com
+secbydreforstore.com
 secom.co.jp
 secomtrust.net
 second-ns.com
@@ -19742,7 +19747,6 @@ secretsline.biz
 secretubes.com
 sectigo.com
 secure-paypal.info
-secure.hustler.com
 secure.logmein.com
 secure.shadowsocks.nu
 securecloudtransformation.com
@@ -21380,6 +21384,7 @@ teco-mo.org
 ted.com
 tedcdn.com
 teddysun.com
+teddysun.coom
 teen-girl.net
 teen-lover.net
 teen-sexy.com
