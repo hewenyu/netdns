@@ -1,9 +1,8 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -38354,6 +38353,7 @@ full:static.gc.apple.com
 full:statics.teams.cdn.office.net
 full:stocks-sparkline-lb.apple.com.akadns.net
 full:stocks-sparkline.apple.com
+full:stolynote.com
 full:store.apple.com
 full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
@@ -53633,6 +53633,7 @@ ifenxiang.cc
 ifere.com
 ifeve.com
 iffline.com
+iffull:a1.mzstatic.com
 ifindever.com
 ifintechnews.com
 ifireeye.com
@@ -53654,7 +53655,6 @@ iflyhealth.com
 iflying.com
 iflyink.com
 iflyiot.com
-iflynote.com
 iflyread.com
 iflyrec.com
 iflyresearch.com
@@ -54976,7 +54976,6 @@ iqr.cc
 iqtianshanmw.com
 iquanba.com
 iquanben.net
-iquanfen.com
 iquanpai.com
 iquanwai.com
 iquaveizeeru.com
@@ -54998,6 +54997,7 @@ iraoping.com
 irbsh.com
 irc-risk.com
 ircmnr.com
+ire.storeimages.apple.com.akadns.net
 ireader.com
 ireader.live
 ireadercity.com
@@ -80480,6 +80480,7 @@ quanduoduo.com
 quanerp.com
 quanfangtong.net
 quanfangtongvip.com
+quanfen.com
 quanfeng.tech
 quanfensi.com
 quanfs.com
