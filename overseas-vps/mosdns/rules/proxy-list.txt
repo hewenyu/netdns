@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -3307,6 +3307,7 @@ bestbuytradein.com
 bestbuyus.com
 bestcamsites.net
 bestclouddrive.com
+bestdori.com
 besterpornos.com
 bestescortgirls.nl
 bestfreecams.club
@@ -5252,6 +5253,7 @@ chwr7s8u.com
 chyoa.com
 ci-en.jp
 ci-en.net
+cia.gov
 ciattackers.com
 cici.com
 ciciai.com
@@ -25363,6 +25365,7 @@ zhuichaguoji.org
 zhuzhushipin-app.com
 zi.media
 zibacity.com
+ziglang.org
 zigzag.kr
 zillionk.com
 zim.vn
