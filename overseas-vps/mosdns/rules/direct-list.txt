@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -38140,6 +38140,7 @@ full:is5.mzstatic.com
 full:itunes-apple.com.akadns.net
 full:itunes.apple.com
 full:itunesconnect.apple.com
+full:izattime.qcomgeo2.com
 full:js-cdn.music.apple.com
 full:km.support.apple.com
 full:ksn-cinfo-geo.kaspersky-labs.com
@@ -38435,6 +38436,7 @@ full:www.support.apple.com
 full:www4-static.gog-statics.com
 full:xn--flw351e.com
 full:xp.apple.com
+full:xtratime.qcomgeo2.com
 full:xz.pphimalayanrt.com
 fullcopecb.icu
 fullde.com
@@ -66415,7 +66417,6 @@ loushi.com
 lousj.com
 lousw.com
 louyue.com
-lovart.ai
 lovcuty.com
 love-freedom.com
 love-math-edu.com
