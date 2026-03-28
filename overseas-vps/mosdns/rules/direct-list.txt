@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -700,7 +700,7 @@
 0577cnw.com
 0577gyy.com
 0577home.net
-0577hr.com
+0577hr.full:265.com
 0577job.com
 0577qiche.com
 0578rencai.com
@@ -26088,6 +26088,7 @@ colourlife.com
 columbia-china.com
 columbia-kaiyuan.com
 columbia-wuxi.com
+com
 com.fi
 com.mp
 com.tv
