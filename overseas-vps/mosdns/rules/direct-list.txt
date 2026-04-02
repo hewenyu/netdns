@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -21391,7 +21392,6 @@ cftest8.com
 cftsupport.com
 cftzqinzhou.com
 cfucn.com
-cfull:265.com
 cfunctions.com
 cfund108.com
 cfuture.shop
@@ -27343,6 +27343,7 @@ crecohe.com
 crecshif.com
 crectgroup.com
 crecu.com
+cred.com
 credibleglass.com
 credit100.com
 creditcn.com
@@ -81864,7 +81865,6 @@ recuvachina.com
 recycle366.com
 red-apple.net
 red-yellow.net
-red.com
 redapplechina.com
 redatoms.com
 redbaby.com
