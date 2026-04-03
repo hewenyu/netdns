@@ -7433,6 +7433,7 @@ ekiten.jp
 ekolojik.org
 eksisozluk.com
 el-ladies.com
+el.ph
 elasticbeanstalk.com
 elconfidencial.com
 elderscrolls.com
@@ -12514,6 +12515,7 @@ instituteofwar.org
 insuyo.xyz
 intagram.com
 intagrm.com
+intapplecensorship.com
 intc.com
 integral7.com
 intel
@@ -12630,7 +12632,6 @@ intel.nu
 intel.nz
 intel.pa
 intel.pe
-intel.ph
 intel.pl
 intel.pn
 intel.re
