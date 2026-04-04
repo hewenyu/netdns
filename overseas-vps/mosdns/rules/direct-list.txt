@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -16439,7 +16440,6 @@ bfsutw.com
 bft-robot.com
 bftq.com
 bftv.com
-bfull:265.com
 bfvvs.com
 bfw.wiki
 bfxiuxianqipai.com
@@ -17251,6 +17251,7 @@ bj-zkhb.com
 bj003.com
 bj0yx.com
 bj1.api.bing.com
+bj1000e.com
 bj148.org
 bj159zx.com
 bj1777.com
@@ -55838,7 +55839,6 @@ j-test.com
 j-ui.com
 j03og.app
 j0g0.com
-j1000e.com
 j1000plan.org
 j1998.com
 j1j5q683cj.world
@@ -56710,7 +56710,7 @@ jialiangad.com
 jialianzg.com
 jialinep.com
 jialiwood.com
-jialiyoukuang8.cfull:a1.mzstatic.com
+jialiyoukuang8.com
 jialongsports.com
 jialvzc.com
 jiamei123.com
@@ -75299,7 +75299,6 @@ olymtech.com
 olymvax.com
 olys88.com
 olzz.com
-om
 omacloud.com
 omarea.com
 omarte.com
