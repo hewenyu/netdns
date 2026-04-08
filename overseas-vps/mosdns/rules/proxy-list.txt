@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -920,7 +919,7 @@ adult3dporno.com
 adult3dtoons.com
 adult789.futoka.jp
 adultartlinks.supertop-100.com
-adultartsites.com
+adultartsirnytrip.com
 adultbay.org
 adultblogranking.com
 adultblogtoplist.com
@@ -1222,9 +1221,9 @@ akamah.com
 akamai-access.com
 akamai-access.net
 akamai-cdn.com
+akamai-platfet.com
 akamai-platform-internal.net
 akamai-platform-staging.com
-akamai-platform.net
 akamai-regression.net
 akamai-staging.net
 akamai-sucks.net
@@ -2417,6 +2416,7 @@ audiencenetwork.tv
 audiobeatsau.com
 audiobeatsbydre.com
 audiomonsterbeatsonline.com
+auerest.fr
 auntology.fandom.com
 auntymaza.com
 auricularemonsterbeats.com
@@ -2547,7 +2547,6 @@ autodesksubscription.com
 autodesksucks.com
 autodesksucks.net
 autodesktechdays.com
-autodesktechx.com
 autodesktinkerbox.com
 autodesktravel.com
 autodeskturkiye.com
@@ -3272,7 +3271,7 @@ bellesa.co
 bellotube.com
 bellsouth.net
 benaughty.fun
-bengalisexviapplecensorship.com
+bengalisexvideos.com
 benliton.com
 bentobox.tv
 berizaryad.ru
@@ -5771,6 +5770,7 @@ crabporn.com
 crackle.com
 craigslist.org
 crankplayer.com
+crashlytics.com
 crates.io
 crazy-amateurs.com
 crazyav.xyz
@@ -6328,7 +6328,6 @@ deno.com
 deno.land
 dentalhypotheses.com
 dentry.jp
-deos.com
 dependabot.com
 depositphotos.com
 deps.dev
@@ -8533,7 +8532,6 @@ finlitsummit.org
 fiotolia.com
 fire-emblem-heroes.com
 firearmsworld.net
-firebase-settings.crashlytics.com
 firebase.com
 firebase.io
 firebaseapp.com
@@ -11450,6 +11448,7 @@ hnalady.com
 hnext.jp
 hnjhj.com
 hnntube.com
+ho000webhost.com
 hobbigame.com
 hobonichielog.com
 hochi.news
@@ -12000,6 +11999,7 @@ iamakamai.com
 iamakamai.net
 iamremarkable.org
 iana.org
+iapplecensorship.com
 iask.ca
 iavian.net
 iavnight.com
@@ -12618,7 +12618,6 @@ intel.de
 intel.dev
 intel.dk
 intel.dz
-intel.ec
 intel.ee
 intel.eg
 intel.es
@@ -15968,6 +15967,7 @@ mybmw.com
 mybookinlm.com
 myboylove.com
 mybridgestoneeducation.com
+mybtes.com
 mybukkakeporn.com
 mycams.com
 mycardbenefits.com
@@ -16838,6 +16838,7 @@ ntdtv.se
 ntdtvla.com
 ntdvideo.tw
 ntdvn.com
+ntel.ec
 ntnews.com.au
 ntp-os01.ocn.ad.jp
 ntp-tk01.ocn.ad.jp
@@ -18004,6 +18005,7 @@ pinterest.uk
 pinterest.vn
 pinterestmail.com
 pintool.com
+pintorm.net
 piratecams.com
 pirates-forum.org
 pirouvr.com
@@ -22132,6 +22134,7 @@ to-porno.com
 tochigibank.co.jp
 tochka-tech.com
 tochka.com
+todesktechx.com
 toget.com.tw
 togetter.com
 tohobank.co.jp
@@ -22749,7 +22752,6 @@ uoherald.com
 up.audio
 up01.cc
 upbit.com
-update.crashlytics.com
 updates.tdesktop.com
 updatetube.com
 upfrontcfd.com
