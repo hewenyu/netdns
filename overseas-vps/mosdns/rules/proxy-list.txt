@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -1722,11 +1723,9 @@ anistreaming.xyz
 ankarazirvesi2018.com
 anm.co.uk
 annamilk.com
-annas-archive.in
-annas-archive.li
-annas-archive.org
-annas-archive.pm
-annas-archive.se
+annas-archive.gd
+annas-archive.gl
+annas-archive.pk
 annstores.net
 annualpelvicexam.com
 annualreviews.org
@@ -4643,6 +4642,7 @@ c2cx.com
 c3pool.com
 c4rex.co
 c4slive.com
+cabconnect.org
 cableav.tv
 cableav.xyz
 cablegatesearch.net
@@ -4742,6 +4742,7 @@ canada-beatsbydre.com
 candidforum-videos.com
 candycumcity.com
 candypleasure.com
+canny.io
 canon
 canon-cee.com
 canon-cmos-sensors.com
@@ -6002,7 +6003,6 @@ dailyporn.club
 dailysabah.com
 dailytelegraph.com.au
 dailyview.tw
-dailyvntel.ec
 daindianporn.com
 dajiyuan.com
 dajiyuan.de
@@ -6933,6 +6933,7 @@ dreprobeats.com
 dreprofy.com
 drgan.net
 dribbble.com
+driveawaytaxi.org
 driverxxx.com
 drivevideo.xyz
 driving.co.uk
@@ -7591,6 +7592,9 @@ entrust.cn
 entrust.com
 entrust.net
 entrustdatacard.com
+envato-static.com
+envato.com
+envatousercontent.com
 eotarchive.org
 epicbrowser.com
 epicgames.com
@@ -7648,7 +7652,6 @@ equinox.io
 erabaru.net
 eracom.com.tw
 eraofconnection.com
-erest.fr
 erights.net
 erito.com
 eriversoft.com
@@ -9377,15 +9380,20 @@ full:ntp-b.nist.gov
 full:ntp-c.colorado.edu
 full:ntp-d.nist.gov
 full:ntp-wwv.nist.gov
+full:ntp.time.nl
 full:ntp.ubuntu.com
 full:ntp0.ntp-servers.net
 full:ntp1.ntp-servers.net
+full:ntp1.time.nl
 full:ntp2.ntp-servers.net
+full:ntp2.time.nl
 full:ntp3.ntp-servers.net
 full:ntp4.ntp-servers.net
 full:ntp5.ntp-servers.net
 full:ntp6.ntp-servers.net
 full:ntp7.ntp-servers.net
+full:ntppool1.time.nl
+full:ntppool2.time.nl
 full:nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 full:nvidia.custhelp.com
 full:nvidia.tt.omtrdc.net
@@ -10364,6 +10372,7 @@ gofuckmenow.com
 gofundme.com
 gog-statics.com
 gog.com
+gogettaxi.org
 gogle.com
 gogo-load.com
 gogoanime.vc
@@ -10731,6 +10740,7 @@ gotquestions.org
 gotraffic.net
 gotrusted.com
 gotw.ca
+goup.ai
 gouri.xyz
 gov.ir
 gov.taipei
@@ -10987,6 +10997,7 @@ hayabusa.io
 hayabusa.media
 hayday.com
 haydaygame.com
+hayya.ae
 hbabit.com
 hbfile.net
 hbg.com
@@ -11988,7 +11999,6 @@ i-scmp.com
 i.111666.best
 i.lithium.com
 i.org
-i000webhost.com
 i234.me
 i2p2.de
 i69.com.tw
@@ -12619,6 +12629,7 @@ intel.de
 intel.dev
 intel.dk
 intel.dz
+intel.ec
 intel.ee
 intel.eg
 intel.es
@@ -13365,6 +13376,21 @@ jiuse6666.com
 jiuse821.com
 jiuse822.com
 jiuse823.com
+jivo.chat
+jivo.ru
+jivochat.co.in
+jivochat.co.za
+jivochat.com
+jivochat.com.br
+jivochat.com.co
+jivochat.com.pe
+jivochat.com.tr
+jivochat.de
+jivochat.es
+jivochat.ng
+jivochat.ru
+jivosite.com
+jivosite.ru
 jiyou520.com
 jiyu-kobo.co.jp
 jizzboom.com
@@ -15932,6 +15958,7 @@ mxshm.site
 my-enema.com
 my-formosa.com
 my-magazine.me
+my-manager-account.com
 my-private-network.co.uk
 my.pcloud.com
 my13la.com
@@ -15966,7 +15993,6 @@ mybmw.ca
 mybmw.com
 mybookinlm.com
 myboylove.com
-mybremium.com
 mybridgestoneeducation.com
 mybukkakeporn.com
 mycams.com
@@ -18003,7 +18029,6 @@ pinterest.tw
 pinterest.uk
 pinterest.vn
 pinterestmail.com
-pintm
 pintool.com
 piratecams.com
 pirates-forum.org
@@ -18270,7 +18295,7 @@ porndish.com
 porndisk.com
 pornditos.com
 porndoe.com
-porndoepiew.tw
+porndoepremium.com
 porndork.com
 porndr.com
 porndroids.com
@@ -21355,6 +21380,7 @@ supervpn.net
 superzooi.com
 supjav.com
 supplybestjerseys.com
+support-uber.com
 supportfacebook.com
 supremacy.com
 supremacy.net
@@ -21570,7 +21596,10 @@ taweet.com
 tawny-peaks.com
 taxel.media
 taxi69.com
+taxiaid.org
 taxidrivermovie.com
+taxiguru.org
+taxitax.org
 taylorandfrancis.com
 taylorfrancis.com
 tbank-online.com
@@ -21606,7 +21635,6 @@ technogym.ru
 technogym.su
 technologyandsociety.org
 techradar.com
-techspot.com
 techstreet.com
 techtimes.com
 techtudo.com
@@ -21660,7 +21688,6 @@ telegram.me
 telegram.org
 telegram.space
 telegramdownload.com
-telegraph.co.uk
 telekom.com
 telekom.de
 telesco.pe
@@ -21845,6 +21872,7 @@ thelittleslush.com
 theman.in
 themarvelexperiencetour.com
 themathsfactor.com
+themeforest.net
 themercury.com.au
 themessengeradelaide.com.au
 themilfmovies.com
@@ -22838,6 +22866,7 @@ uverse.com
 uvwxyz.xyz
 uwants.com
 uwpcommunitytoolkit.com
+uxthemes.com
 uyghur-j.org
 uyghuraa.org
 uyghuramerican.org
@@ -25141,9 +25170,23 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
+yandexgo.com
 yandexlyceum.ru
 yandexwebcache.net
 yandexwebcache.org
+yango-b2b.com
+yango-team.com
+yango-tech.com
+yango.africa
+yango.ao
+yango.bh
+yango.co.il
+yango.com
+yango.fi
+yango.qa
+yango.taxi
+yango.tech
+yangofellowship.com
 yangzhi.org
 yantaqu.com
 yaohubaba.com
@@ -25311,7 +25354,7 @@ yourvserver.net
 yourwifemymeat.com
 yourxxxvideos.pro
 yousendit.com
-youskbe.coet.com
+youskbe.com
 youtrack.cloud
 youtrannytube.com
 youtu.be
