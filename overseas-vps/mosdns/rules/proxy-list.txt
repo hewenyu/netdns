@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -3803,6 +3803,7 @@ bluffyporn.com
 blurams.com
 blylq.buzz
 blz-contentstack.com
+bmapplecensorship.com
 bmdru.com
 bmi.ir
 bmia.org
@@ -4057,7 +4058,6 @@ bmw.com.py
 bmw.com.sg
 bmw.com.sv
 bmw.com.tr
-bmw.com.tw
 bmw.com.uy
 bmw.com.ve
 bmw.cw
@@ -24016,6 +24016,7 @@ vuvuzela.io
 vzw.com
 w-mt.co
 w-pool.com
+w.com.tw
 w.org
 w.wiki
 w0512.com
