@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -18201,6 +18201,7 @@ pinksporn.com
 pinkvelvetvault.com
 pinkworld.com
 pinoy-n.com
+pintereapplecensorship.com
 pinterest.at
 pinterest.be
 pinterest.ca
@@ -21317,6 +21318,7 @@ sstmlt.net
 ssttest.net
 ssx3.com
 st.com
+st.ph
 stackage.org
 stackapps.com
 stackauth.com
