@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -15577,6 +15577,7 @@ minilondon.ca
 minilondon.co
 minimarkham.ca
 minimarkham.com
+minimax.io
 minimoncton.ca
 minimoncton.com
 minimontrealcentre.ca
@@ -20182,6 +20183,7 @@ scnsrc.me
 scolle.net
 scoop.sh
 scopus.com
+scorecardresearch.com
 scoreclassics.com
 scorediscounts.club
 scoregroup.com
