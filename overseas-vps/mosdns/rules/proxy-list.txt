@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -640,6 +639,7 @@ abematv.co.jp
 abgsp1.buzz
 abigass.com
 ablmm.com
+aboi
 aboluowang.com
 about.gitlab.com
 about.me
@@ -658,7 +658,6 @@ aboutamazon.sg
 aboutfacebook.com
 aboutmcdonalds.com
 aboutporno.net
-aboutschwab.com
 aboutyourmini.com
 abow.jp
 abplive.com
@@ -18213,6 +18212,7 @@ pinksporn.com
 pinkvelvetvault.com
 pinkworld.com
 pinoy-n.com
+pinteresapplecensorship.com
 pinterest.at
 pinterest.be
 pinterest.ca
@@ -21832,6 +21832,7 @@ t-technologies.ru
 t-tolk.ru
 t.co
 t.finance
+t.fr
 t.me
 t66y.com
 taa-usa.org
@@ -23215,6 +23216,7 @@ usvimosquito.com
 usvimosquitoproject.com
 utdstc.com
 utopianpal.com
+utschwab.com
 uug22.com
 uug23.com
 uug25.com
@@ -24732,6 +24734,7 @@ wolfberries.ru
 wolframalpha.com
 wolfsex-me.sbs
 wolterskluwer.com
+wombo.a000webhost.com
 wombo.ai
 womensnikeshox.com
 womenwill.com

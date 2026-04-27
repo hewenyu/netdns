@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+.com
 0.zone
 00.net
 000.link
@@ -2422,7 +2423,7 @@
 17b.net
 17bang.ren
 17bdc.com
-17beijiang.com
+17beijiangfull:265.com
 17bianji.com
 17biao.com
 17bigu.com
