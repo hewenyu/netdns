@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -12192,7 +12193,7 @@ alicall.com
 alicaptcha.com
 alicdm.com
 alicdn.com
-aliclofull:265.com
+aliclofull:a1.mzstatic.com
 alicloudapi.com
 alicloudccp.com
 alicloudlayer.com
@@ -66819,7 +66820,6 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
-m
 m-edu.com
 m-hero.com
 m-rainbow.com
@@ -77154,7 +77154,7 @@ puh3.com
 puhebiopharma.com
 puhedesign.com
 puhler.com
-puhuacapital.cofull:a1.mzstatic.com
+puhuacapital.com
 puhuahui.com
 puhuaxincai.com
 puidc.com
