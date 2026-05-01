@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -12193,7 +12193,7 @@ alicall.com
 alicaptcha.com
 alicdm.com
 alicdn.com
-aliclofull:a1.mzstatic.com
+alicloud.com
 alicloudapi.com
 alicloudccp.com
 alicloudlayer.com
@@ -95620,7 +95620,6 @@ ucxsw.com
 ucying.com
 uczzd.com
 uczzd.net
-ud.com
 udache.com
 udalogistic.com
 udamall.com
