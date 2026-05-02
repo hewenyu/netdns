@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1755,7 +1755,6 @@ anthemthegame.com
 anthonycalzadilla.com
 anthropic.com
 antiwave.net
-antpool.applecensorship.com
 antpool.com
 anudetube.com
 anuneko.com
@@ -5667,7 +5666,6 @@ colombianas.webcam
 colorfulstage.com
 colorme-repeat.jp
 colorprotechnology.com
-com
 comdotgame.com
 come29.xyz
 comefromchina.com
