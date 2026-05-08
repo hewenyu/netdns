@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -23244,6 +23244,7 @@ ultravpn.com
 ultravpn.fr
 uma.media
 umagazine.com.hk
+umap.openstreetmap.fr
 umass.edu
 umbrella.com
 umschool.net
