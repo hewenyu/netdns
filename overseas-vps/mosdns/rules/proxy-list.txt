@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -639,7 +640,6 @@ abematv.co.jp
 abgsp1.buzz
 abigass.com
 ablmm.com
-aboapplecensorship.com
 aboluowang.com
 about.gitlab.com
 about.me
@@ -658,6 +658,7 @@ aboutamazon.sg
 aboutfacebook.com
 aboutmcdonalds.com
 aboutporno.net
+aboutschwab.com
 aboutyourmini.com
 abow.jp
 abplive.com
@@ -3089,7 +3090,7 @@ beatsbydreaustraliaonlines.com
 beatsbydreaustraliasales.com
 beatsbydrebeatsby.com
 beatsbydreblackfriday2013.com
-beatsbydreblackfridaypro.000webhost.com
+beatsbydreblackfridaypro.com
 beatsbydreboxingdayca.com
 beatsbydrecasquesfr.com
 beatsbydrecheap-outletstore.com
@@ -4049,7 +4050,7 @@ bmw.by
 bmw.ca
 bmw.cc
 bmw.ch
-bmw.clly.com
+bmw.cl
 bmw.co.ao
 bmw.co.cr
 bmw.co.id
@@ -6135,6 +6136,7 @@ dat.foundation
 data-tscbank.ru
 data-vocabulary.org
 data.com
+data18.com
 datacloudmy.com
 dataframeworks.com
 dataliberation.org
@@ -6261,6 +6263,7 @@ dell.co.in
 dell.co.jp
 dell.co.kr
 dell.co.mu
+dell.co.nz
 dell.co.th
 dell.co.tt
 dell.co.uk
@@ -6395,7 +6398,6 @@ delltechcenter.com
 delltechnologies.com
 delltechnologiescapital.com
 delltechnologiesworld.com
-delonven.xyz
 deltacredit.ru
 deluxe.com.hk
 delvenetworks.com
@@ -7074,6 +7076,7 @@ dssott.com
 dstk.dk
 dswz88.xyz
 dsyiren.com
+dt18.com
 dtci.co
 dtci.technology
 dtiblog.com
@@ -7683,7 +7686,7 @@ entermap.com
 entermediadb.net
 entermediadb.org
 enterprisepaging.com
-enterprissaweb.com
+enterprisessl.com
 entrust.cn
 entrust.com
 entrust.net
@@ -7880,7 +7883,6 @@ esports.gg
 esposasymaridos.com
 espressif.com
 esri.com
-essl.com
 estudio360.com.co
 estudiopenthouse.com
 esurance.com
@@ -8505,7 +8507,6 @@ fedoramagazine.org
 fedorapeople.org
 fedoraproject.org
 feedburner.com
-feedcom
 feeder.co
 feedherfuckher.com
 feedly.com
@@ -10298,6 +10299,7 @@ gettyimages.se
 gettyimages.us
 getuploader.com
 getws1.com
+getwsj.com
 getwsone.com
 getzola.org
 gfacecbook.com
@@ -11075,7 +11077,6 @@ gynoexam.info
 gyutte.site
 gyutto.com
 gzone-anime.info
-h
 h-chan.me
 h-china.org
 h-doujinshi.xyz
@@ -13447,6 +13448,7 @@ javdoe.to
 javdove.com
 javdove8.xyz
 javextreme.net
+javfc2.xyz
 javfilms.com
 javfinder.ai
 javfor.me
@@ -18295,7 +18297,6 @@ picacn.xyz
 picacomic.com
 picacomic.xyz
 picacomiccn.com
-pical.co.nz
 picasa.com
 picasaweb.com
 picasaweb.net
@@ -23367,7 +23368,6 @@ usvimosquito.com
 usvimosquitoproject.com
 utdstc.com
 utopianpal.com
-utschwab.com
 uug22.com
 uug23.com
 uug25.com
