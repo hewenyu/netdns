@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -1297,6 +1296,7 @@ alchemysynth.com
 alefbank.com
 alexa.com
 alexanderstreet.com
+alfa.me
 alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
@@ -6075,6 +6075,7 @@ da3dsoul.dev
 daboja18.com
 dabr.co.uk
 dabr.me
+dabr.me.cz
 dabr.mobi
 dacebook.com
 dachix.com
@@ -9440,6 +9441,7 @@ full:espndotcom.tt.omtrdc.net
 full:f3b7q2p3.ssl.hwcdn.net
 full:fandom.zendesk.com
 full:faronics.kayako.com
+full:favoritescc-hamivideo2.cdn.hinet.net
 full:fbcdn-a.akamaihd.net
 full:firebase.google.com
 full:firebase.googleapis.com
@@ -9496,6 +9498,7 @@ full:imperial.insendi.com
 full:ingest.apple-studies.com
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
+full:lgcscc-hamivideo2.cdn.hinet.net
 full:lgelectronics.122.2o7.net
 full:licdn.cn.cdn20.com
 full:linear-abematv.akamaized.net
@@ -9757,6 +9760,7 @@ full:t21.nikkei.co.jp
 full:t21ipau.nikkei.co.jp
 full:teamviewer.com.cdn.cloudflare.net
 full:tesla-cdn.thron.com
+full:thumbnail-hamivideo.cdn.hinet.net
 full:time-a-b.nist.gov
 full:time-a-g.nist.gov
 full:time-a-wwv.nist.gov
@@ -9790,6 +9794,7 @@ full:time3.google.com
 full:time4.facebook.com
 full:time4.google.com
 full:time5.facebook.com
+full:tlmr-hamivideo2.cdn.hinet.net
 full:tmdb-image-prod.b-cdn.net
 full:tmdb-web-image-prod.b-cdn.net
 full:tv.applemusic.com
@@ -9852,6 +9857,7 @@ full:vsmarketplacebadge.apphb.com
 full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 full:webchannel-alkalimakersuite-pa.clients6.google.com
 full:weblive-hamivideo.cdn.hinet.net
+full:webvodad-hamivideo.cdn.hinet.net
 full:widgets.stripst.com
 full:wip.adobe.com
 full:wip1.adobe.com
@@ -14741,7 +14747,6 @@ lysol.net
 lyzsxx.com
 lzjscript.com
 lzmtnews.org
-m
 m-power.com
 m.hkgalden.com
 m.me
@@ -16203,6 +16208,7 @@ mrvideosdesexo.xxx
 ms-studiosmedia.com
 ms365surfaceoffer.com
 ms4dre.com
+msa-ir.com
 msa-it.org
 msauth.net
 mschallenge2018.com
@@ -16497,6 +16503,7 @@ mysocialworklab.com
 myspacecdn.com
 mysql.com
 mystrikingly.com
+myteamspeak.com
 myteenwebcam.com
 mythicentertainment.com
 mythicentertainment.net
@@ -17244,6 +17251,7 @@ ntdtv.kr
 ntdtv.org
 ntdtv.ru
 ntdtv.se
+ntdtv000webhost.com
 ntdtvla.com
 ntdvideo.tw
 ntdvn.com
@@ -18351,8 +18359,7 @@ phun.org
 phxbmw.com
 physicalexam.info
 physiology.org
-pi-vr.com
-piaotia.coapplecensorship.com
+pi-v
 piaotia.com
 piapp.com.tw
 piapro.net
@@ -19653,6 +19660,7 @@ realviz.com
 realzoomovies.com
 reason.com
 reastatic.net
+reators.com
 reaxys.com
 rebates.jp
 rebirth-fy.com
@@ -21882,7 +21890,7 @@ superadultgames.com
 supercell.com
 supercell.helpshift.com
 supercell.net
-supercellcreators.com
+supercellct.org
 supercellgames.com
 supercellid.com
 supercellstore.com
@@ -22172,6 +22180,8 @@ teachmyass.com
 teachparentstech.org
 teamneedforspeed.com
 teamskeet.com
+teamspeak-services.com
+teamspeak.com
 teamviewer.com
 teamviewer.us
 tearapeak.com
