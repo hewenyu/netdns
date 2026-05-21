@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -6075,7 +6076,6 @@ da3dsoul.dev
 daboja18.com
 dabr.co.uk
 dabr.me
-dabr.me.cz
 dabr.mobi
 dacebook.com
 dachix.com
@@ -10041,6 +10041,7 @@ g-technology.com
 g-tun.com
 g-tvapp.com
 g-xxxhub.com
+g.ai
 g.co
 g.dev
 g.page
@@ -14353,6 +14354,7 @@ lenkino.xxx
 lenporno.net
 lenporno.red
 lenwhite.com
+leonardo.ai
 leporno.org
 lepornochaud.com
 lepornofrais.com
@@ -16172,10 +16174,12 @@ moxing.mobi
 moxing.news
 moystoys.com
 mozgcp.net
+mozilla.ai
 mozilla.com
 mozilla.community
 mozilla.net
 mozilla.org
+mozillafoundation.org
 mp.world
 mpettis.com
 mpfinance.com
@@ -16208,7 +16212,6 @@ mrvideosdesexo.xxx
 ms-studiosmedia.com
 ms365surfaceoffer.com
 ms4dre.com
-msa-ir.com
 msa-it.org
 msauth.net
 mschallenge2018.com
@@ -16526,6 +16529,7 @@ myxxgirl.com
 myyoungmomisnude.com
 myyoungwifeisnude.com
 mzed.com
+mzl.la
 mzstatic.com
 n0vadesktop.com
 n26.com
@@ -17251,7 +17255,6 @@ ntdtv.kr
 ntdtv.org
 ntdtv.ru
 ntdtv.se
-ntdtv000webhost.com
 ntdtvla.com
 ntdvideo.tw
 ntdvn.com
@@ -18359,7 +18362,7 @@ phun.org
 phxbmw.com
 physicalexam.info
 physiology.org
-pi-v
+pi-vr.com
 piaotia.com
 piapp.com.tw
 piapro.net
@@ -19510,6 +19513,7 @@ ramcity.com.au
 randyblue.com
 rapefilms.net
 rapetube.me
+raphael.app
 rapidmoviez.com
 rapidprototyping-cadcam.com
 rapidssl.com
@@ -19660,7 +19664,6 @@ realviz.com
 realzoomovies.com
 reason.com
 reastatic.net
-reators.com
 reaxys.com
 rebates.jp
 rebirth-fy.com
@@ -20127,6 +20130,7 @@ ruhub.tv
 ruinedking.com
 rukoebxx.com
 rulaisc-tv.buzz
+rule34.us
 rule34.xxx
 rule34h.com
 rule34pornvids.com
@@ -21388,6 +21392,7 @@ sos44.com
 sosad.fun
 soso7778.com
 sosreader.com
+sotwe.com
 soubory.com
 souka.xyz
 soulcaliburhentai.net
@@ -21890,7 +21895,7 @@ superadultgames.com
 supercell.com
 supercell.helpshift.com
 supercell.net
-supercellct.org
+supercellcreators.com
 supercellgames.com
 supercellid.com
 supercellstore.com
@@ -22132,6 +22137,7 @@ taose.in
 tap.io
 tapanwap.com
 tapatalk.com
+tapnow.ai
 taptap.io
 taptotokyo.com
 taqunuhai.vip
