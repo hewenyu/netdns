@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -223,6 +223,7 @@
 233abc.com
 2371tom.com
 24h.tv
+24hbook.com
 24hjav.com
 24hrs.ca
 24porn.com
@@ -14992,6 +14993,7 @@ marvelsuperheroseptember.com
 marvelsuperwar.com
 marxist.net
 marxists.org
+mas.to
 masalabin.com
 masaladesi.com
 masalaseen.net
@@ -16679,6 +16681,7 @@ nenastran.com
 nenitas.club
 nentindo.net
 neo-miracle.com
+neodb.social
 neoforged.net
 neotokyo.supertop-100.com
 neovim.io
@@ -17594,6 +17597,7 @@ olevodtv.com
 oli-school.com
 ollama.com
 olumpo.com
+om
 omafotze.com
 omakase.in
 omaps.app
@@ -18347,7 +18351,7 @@ phimsexnhanh.club
 phmsociety.org
 phncdn.com
 phoenix-ca.ru
-phosphation13.rssing.com
+phosphation13.rssing.capplecensorship.com
 photo-image.monster
 photodharma.net
 photofocus.com
