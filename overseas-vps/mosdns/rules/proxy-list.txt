@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+.com
 000webhost.com
 01.org
 02weqj32.com
@@ -78,6 +79,7 @@
 12joursdecadeauxdeitunes.com
 12vpn.com
 12vpn.net
+13.rssing.com
 1337x.gd
 1337x.is
 1337x.st
@@ -8497,6 +8499,7 @@ fbrell.com
 fbrpms.com
 fbsbx.com
 fbsbx.net
+fbsbxphotos18.com
 fbsupport-covid.net
 fbthirdpartypixel.com
 fbthirdpartypixel.net
@@ -18351,14 +18354,13 @@ phimsexnhanh.club
 phmsociety.org
 phncdn.com
 phoenix-ca.ru
-phosphation13.rssing.com
+phosphationvodafone.com
 photo-image.monster
 photodharma.net
 photofocus.com
 photolia.net
 photonicssociety.org
 photonmedia.net
-photos18.com
 photoshop.com
 php.net
 phprcdn.com
@@ -24217,7 +24219,6 @@ vod-abematv.akamaized.net
 vod.wwe.com
 vod360.net
 vodafone.co.uk
-vodafone.com
 vodafone.com.au
 vodafone.com.tr
 vodafone.de
