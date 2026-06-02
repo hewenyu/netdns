@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -24650,6 +24649,7 @@ cnside.com
 cnsihai.com
 cnsikao.com
 cnsimeng.com
+cnsimg.net
 cnsimin.com
 cnsiwu.com
 cnskg.com
@@ -27110,6 +27110,7 @@ cydow.com
 cyegushi.com
 cyfeng.com
 cyfengchao.com
+cyfull:a1.mzstatic.com
 cyfyydyfy.com
 cygbdst.com
 cygia.com
@@ -27188,7 +27189,6 @@ cyvalve.com
 cywetc.com
 cywl.org
 cywlxy.com
-cywyjj.com
 cyxh.org
 cyxigua.com
 cyxshop.com
@@ -33627,7 +33627,7 @@ ewrrpuquc1.com
 ewsaas.com
 ewstudy.com
 ewt360.com
-ewteacher.comfull:265.com
+ewteacher.com
 ewtp.com
 ewtp.org
 ewu.cc
@@ -90284,6 +90284,7 @@ tianxing.com
 tianxingjianyiliao.com
 tianxinkeji.com
 tianya.com
+tianya.net
 tianya.tv
 tianya66.com
 tianyabook.com
@@ -99012,6 +99013,7 @@ wyhos.fun
 wyins.cc
 wyins.net
 wyjianzhan.com
+wyjj.com
 wyjsq.com
 wyk8.com
 wykefu.com
@@ -101193,6 +101195,7 @@ xinmeihu.com
 xinmeijiutian.com
 xinmeinuo.com
 xinmem.com
+xinmeng.info
 xinmenglife.com
 xinmeow.com
 xinmeti.com
