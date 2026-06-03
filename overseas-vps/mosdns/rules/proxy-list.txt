@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -22822,6 +22822,7 @@ tomonews.net
 tomp3.cc
 tomsguide.com
 ton.org
+toncenter.com
 tonec.com
 tonicmovies.com
 toolforge.org
