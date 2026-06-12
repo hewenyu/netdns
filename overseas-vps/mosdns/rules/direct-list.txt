@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -3307,6 +3307,7 @@
 264006.com
 264321.com
 264400.com
+265.com
 26582.vip
 26595.com
 265g.com
@@ -36291,7 +36292,6 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -36849,6 +36849,7 @@ full:www.entrust.cn
 full:www.gstatic.com
 full:www.microsoft.com
 full:www.pxcc.com
+full:www.recaptcha-cn.net
 full:www.recaptcha.net
 full:www.support.apple.com
 full:www4-static.gog-statics.com
