@@ -1,9 +1,9 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
+.com
 00.net
 000.link
 000000.net
@@ -1690,7 +1690,7 @@
 123684.com
 12369zb.com
 123773.com
-123842.com
+123842full:265.com
 123860.com
 123865.com
 123888222.com
@@ -10953,6 +10953,7 @@ aichangbaishan.com
 aichaoxing.com
 aichat.net
 aichat1234.com
+aichaxun.com
 aichehome.com
 aichi-zhe.com
 aichinaw.com
@@ -15060,6 +15061,7 @@ bdatu.com
 bdbae.com
 bdc-rays.com
 bdcb.cc
+bdcgslb.com
 bdcgz.com
 bdchangtujs.com
 bdchina.com
@@ -20795,6 +20797,7 @@ charmsunfund.com
 chartboost-china.com
 chase-secure55.wiki
 chasedorisu.com
+chasedream.com
 chaseyanyu.net
 chashebao.com
 chashudi.com
@@ -23478,7 +23481,7 @@ cloudlishui.com
 cloudluohe.com
 cloudluoyang.com
 cloudlvs.com
-cloudmarket-apigw.com
+cloudmarkfull:a1.mzstatic.com
 cloudmaster.hk
 cloudmeishan.com
 cloudmes.io
@@ -24490,7 +24493,7 @@ cnsal.com
 cnsanf.com
 cnsantech.com
 cnsav.com
-cnsb.org
+cnsb.orgll:support.apple.com
 cnsbjy.com
 cnsc8.com
 cnsce.net
@@ -26273,6 +26276,7 @@ csghy.com
 csgjhzzx.com
 csgjjt.com
 csgkjt.com
+csgky.net
 csgocn.net
 csgongshui.com
 csgpc.org
@@ -36124,6 +36128,7 @@ fuedf.org
 fuel-lab.com
 fuelcellchina.com
 fuermu.com
+fuet-apigw.com
 fufeng-group.com
 fufuidc.com
 fufuok.com
@@ -51550,6 +51555,7 @@ ikuju.com
 ikunac.com
 ikuncdnfb.com
 ikunpay.com
+ikutu.com
 ikx.me
 ikzybf.com
 il8r.com
@@ -51598,6 +51604,7 @@ illl.xyz
 ilmgq.com
 ilohas.com
 iloli.bid
+iloli.love
 iloli.xin
 ilongre.com
 ilovechao.com
@@ -51844,6 +51851,7 @@ imsle.com
 imsun.net
 imsyy.com
 imtaweb.net
+imtedge.com
 imtics.com
 imtmp.net
 imtrwqjier3.com
@@ -54562,6 +54570,7 @@ jiemin.com
 jiemo.net
 jiemodui.com
 jiemoselect.com
+jiemu5.com
 jienyl.com
 jiepai.net
 jiepaids.com
@@ -58766,6 +58775,7 @@ kfb163.com
 kfcbest.com
 kfcdn.com
 kfcjrl.com
+kfcrm.com
 kfd3sm2c.com
 kfdcc.com
 kffone.com
@@ -59922,6 +59932,7 @@ kunchuang.com
 kunduo.com
 kungfucloud.com
 kungfuenglish.com
+kungfumars.com
 kunguankeji.com
 kunguanyx.net
 kunjuke.com
@@ -64584,6 +64595,7 @@ m2ez.com
 m2mlib.com
 m2mzy.com
 m2time.net
+m2ucam.com
 m3-cloud.com
 m3cqjc3og6.com
 m3guo.com
@@ -65547,6 +65559,7 @@ mdmt.com
 mdnice.com
 mdouvip.com
 mdouwz.com
+mdown.asia
 mdpda.com
 mdpetrotech.com
 mdrmyy.com
@@ -69807,6 +69820,7 @@ niujinniu.com
 niuk12020gi.com
 niukk.com
 niuming147.com
+niumowang.com
 niunai.com
 niuniufund.com
 niupiano.com
@@ -72112,6 +72126,7 @@ orayer.com
 orayimg.com
 orbiepharm.com
 orbitmes.com
+orbrand.com
 orcadt.com
 orchome.com
 orcode.com
@@ -75162,6 +75177,7 @@ qgwzjs.com
 qgxl.org
 qgyqshz.com
 qgysj.org
+qgyyl.com
 qgyyzs.net
 qgzb.net
 qgzxx.com
@@ -90522,6 +90538,7 @@ to999.com
 toast.pub
 toaw.net
 tobaccochina.com
+tobaccodb.org
 tobaccosz.com
 tobebetterjavaer.com
 toberp.com
@@ -91524,6 +91541,7 @@ ttn8.com
 ttnea.com
 ttnongli.com
 ttnqh.com
+ttoffice.net
 ttongda.com
 ttpaicdn.com
 ttpaihang.com
@@ -95722,6 +95740,7 @@ weishi100.com
 weishigz.com
 weishipin.com
 weishishuyuan.com
+weishucdn.cloud
 weisiliang.com
 weismarts.com
 weistang.com
@@ -100372,6 +100391,7 @@ xindns.com
 xindong.com
 xindongdinglv.com
 xindonghuyu123.com
+xindonshan.com
 xindu.cc
 xinduo.com
 xinduoad.com
@@ -100722,6 +100742,7 @@ xinruipiao.com
 xinruiweb.com
 xinsanbanbao.com
 xinsankeji.com
+xinsannong.com
 xinsdn.com
 xinsenz.com
 xinsf.cc
@@ -102533,6 +102554,7 @@ xxkapp.com
 xxkucun.com
 xxkxjx.net
 xxkxw.net
+xxlab.tech
 xxlcn.com
 xxlifexx.com
 xxliudsp.com
