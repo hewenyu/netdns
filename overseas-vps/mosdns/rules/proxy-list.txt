@@ -648,7 +648,6 @@ ablmm.com
 aboluowang.com
 about.gitlab.com
 about.me
-aboutamazogoogle.ad
 aboutamazon.co.uk
 aboutamazon.com
 aboutamazon.com.au
@@ -659,6 +658,7 @@ aboutamazon.fr
 aboutamazon.in
 aboutamazon.it
 aboutamazon.jp
+aboutamazon.pl
 aboutamazon.sg
 aboutfacebook.com
 aboutmcdonalds.com
@@ -925,7 +925,7 @@ adult-home-videos.com
 adult-list.com
 adult-sex-games.com
 adult-web-site.net
-adult.contents.fcitch.com
+adult.contents.fc2.com
 adult.friendfinder.com
 adult.toonsearch.net
 adult3dcomics.com
@@ -1224,8 +1224,8 @@ aka.ms
 akacrypto.net
 akadeem.net
 akademiye.org
-akadna.com
 akadns.com
+akadns.net
 akadns6.net
 akaeai.com
 akafms.net
@@ -2573,7 +2573,7 @@ autodeskjournal.com
 autodesklearning.com
 autodesklistens.com
 autodesklivedesign.com
-autodesklmet
+autodesklms.com
 autodeskmanufacturingacademy.com
 autodeskmayaformotiongraphics.com
 autodeskmedbookrequest.com
@@ -3546,6 +3546,7 @@ bild.de
 bili2.cc
 bili888.com
 bili999.com
+bilinovel.com
 biliplus.com
 biliworld.com
 bill-safe.com
@@ -11783,7 +11784,6 @@ hilostripper.com
 himalaya.exchange
 himalayan-foundation.org
 himemix.com
-hin.pl
 hindawi.com
 hindiweb.com
 hindustantimes.com
@@ -14011,7 +14011,6 @@ juliereyc.com
 jump.taxi
 jumpwork.ru
 junauza.com
-juoa2.com
 juoaa.com
 jupyter.org
 juroku.co.jp
@@ -18073,7 +18072,7 @@ oracleimg.com
 oracleinfinity.io
 oranum.com
 orbitera.com
-ordns.he.ns.net
+ordns.he.net
 oreil.ly
 oreilly.com
 oreilly.review
@@ -20566,7 +20565,6 @@ s-msn.com
 s-nbcnews.com
 s-rewards.hk
 s-xoom.com
-s.com
 s.team
 s.yimg.com
 s1s1s1.com
