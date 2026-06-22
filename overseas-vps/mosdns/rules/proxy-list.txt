@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -10087,6 +10087,7 @@ full:wwis-dubc1-vip97.adobe.com
 full:wwis-dubc1-vip98.adobe.com
 full:wwis-dubc1-vip99.adobe.com
 full:www-cdn.icloud.com.akadns.net
+full:www.microsoft.com
 full:www.quora.com.cdn.cloudflare.net
 full:yangzhi.app
 full:yt3.googleusercontent.com
@@ -10753,8 +10754,10 @@ gofile.me
 gofucker.com
 gofuckmenow.com
 gofundme.com
+gog-services.com
 gog-statics.com
 gog.com
+gogalaxy.com
 gogettaxi.org
 gogle.com
 gogo-load.com
