@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -10436,6 +10436,7 @@ geraldoatlarge.com
 gerritcodereview.com
 gesoten.com
 get.app
+get.dappcdn.com
 get.dev
 get.how
 get.new
@@ -17880,7 +17881,6 @@ olevodtv.com
 oli-school.com
 ollama.com
 olumpo.com
-om
 omafotze.com
 omakase.in
 omaps.app
@@ -20870,7 +20870,7 @@ secretchina.com
 secretgarden.no
 secretsline.biz
 secretubes.com
-sectigo.capplecensorship.com
+sectigo.com
 secure-paypal.info
 secure.hustler.com
 secure.logmein.com
