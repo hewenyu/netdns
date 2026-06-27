@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -5078,7 +5078,6 @@ ccpsx.com
 ccstatic.org
 ccthere.com
 ccthere.net
-cculator.com
 cdbook.org
 cdef.org
 cdig.info
@@ -5202,7 +5201,7 @@ chargenowusa.com
 charlestonroadregistry.com
 charlotte-anime.jp
 charmescorts.com
-charti000webhost.com
+charticulator.com
 chat.com
 chat.lmsys.org
 chatango.com
@@ -6262,7 +6261,7 @@ dcard.link
 dcard.tw
 dclk
 dcs-spotify.megaphone.fm
-dctactusvpn.com
+dctbeatsbydre.com
 ddc.com.tw
 ddd-smart.net
 ddex.io
@@ -7411,7 +7410,7 @@ ebates.sg
 ebatescanada.com
 ebay-authenticate.net
 ebay-confirm.com
-ebay-course.co
+ebay-course.com
 ebay-cz.com
 ebay-delivery.com
 ebay-discoveries.com
@@ -7959,7 +7958,6 @@ erotikaweb.hu
 erovizor.ru
 eroxia.com
 err.sh
-ersons.com
 ertk.net
 es-rt.com
 es-visiontimes.com
@@ -8464,7 +8462,6 @@ fanfox.net
 fangeqiang.com
 fanglizhi.info
 fangong.org
-fangong.orgbeatsbydre.com
 fangsung.com
 fanhaodian.com
 fanhaolou.com
@@ -10369,6 +10366,7 @@ gdaily.org
 gdansk-amazon.com
 gdian-dh.mom
 gdsrx888.com
+ge.space
 gears5.com
 gearspop.com
 gearstactics.com
@@ -12719,6 +12717,7 @@ ikea.com.in
 ikea.com.kw
 ikea.com.lv
 ikea.com.mx
+ikea.com.my
 ikea.com.om
 ikea.com.pl
 ikea.com.pr
@@ -13296,7 +13295,6 @@ investing.com
 investorschronicle.co.uk
 invidio.us
 invity.io
-invpn.org
 inxian.com
 inxporn.com
 ioe.com
@@ -13954,7 +13952,7 @@ jobmarket.com.hk
 jobnewera.wordpress.com
 jodic-forum.org
 joeswall.com
-johnp10vpn.com
+johnpersons.com
 johren.games
 johren.net
 joiasmr.com
@@ -18007,7 +18005,6 @@ ootbstudio.co.kr
 op.gg
 op7979.com
 opac-project.eu
-opem
 open.firstory.me
 openai.com
 openamt.com
@@ -19541,7 +19538,7 @@ psiphon.ca
 psiphon3.com
 pskb.ru
 pstatic.net
-pstorage.space
+pstoraapplecensorship.com
 psyccareers.com
 pt.im
 ptapjmp.com
@@ -23240,7 +23237,6 @@ tophd.xxx
 tophdsex.com
 tophentai.biz
 tophentaicomics.com
-topkea.com.my
 toplayerserver.com
 topmanga.biz
 topnudemalecelebs.com
