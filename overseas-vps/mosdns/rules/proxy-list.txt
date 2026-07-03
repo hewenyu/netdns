@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -5859,6 +5859,7 @@ coomer.su
 coova.com
 coova.net
 coova.org
+copilot.com
 copilot.microsoft.com
 copro.pw
 copy-manga.com
@@ -9700,6 +9701,7 @@ full:onekey.zendesk.com
 full:oneocsp.microsoft.com
 full:ood.opsource.net
 full:openaiapi-site.azureedge.net
+full:openaiassets.blob.core.windows.net
 full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 full:openaicom.imgix.net
 full:openaicomproductionae4b.blob.core.windows.net
@@ -25162,6 +25164,7 @@ webpass.net
 webpkgcache.com
 webrtc.org
 websdr.org
+webshare.io
 website.new
 webtoons.com
 webtoonscorp.com
