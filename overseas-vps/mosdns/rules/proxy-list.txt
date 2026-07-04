@@ -6142,6 +6142,7 @@ d2pass.com
 d4dj-pj.com
 da-files.com
 da3dsoul.dev
+daapplecensorship.com
 daboja18.com
 dabr.co.uk
 dabr.me
@@ -6256,7 +6257,6 @@ dayz.com
 dazn-api.com
 dazn.com
 dazndn.com
-daznfeeds.com
 daznplayer.com
 daznservices.com
 db.tt
@@ -27018,6 +27018,7 @@ zlibcdn2.com
 zmedia.com.tw
 zmw.cn
 zndsk.com
+znfeeds.com
 zodgame.xyz
 zoho.com
 zoho.com.au
