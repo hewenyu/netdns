@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -12257,6 +12258,7 @@ anqingonline.com
 anqingzhiyun.com
 anqn.com
 anqu.com
+anquan
 anquan.info
 anquan.org
 anquanbao.com
@@ -32480,7 +32482,6 @@ embryform.com
 embryochina.com
 embsky.com
 emby.men
-emby.yun
 embyvip.org
 emcbj.com
 emcdir.com
@@ -36190,6 +36191,7 @@ full:edge.geo.kaspersky.com
 full:emoi-cncdn.bing.com
 full:end-api.shallow.ink
 full:end.shallow.ink
+full:entitlements-edge.itunes.apple.com
 full:experiments.apple.com
 full:f.c2r.ts.cdn.office.net
 full:fcs.dell.com
@@ -36198,6 +36200,7 @@ full:firebase-settings.crashlytics.com
 full:fontfiles.googleapis.com
 full:fonts.googleapis.com
 full:fonts.gstatic.com
+full:fpinit.itunes.apple.com
 full:fta.dell.com
 full:ftaapj.dell.com
 full:ftaemea.dell.com
@@ -82373,6 +82376,7 @@ shouhuigroup.com
 shouhuisoft.com
 shouhuojiyun.com
 shouhuola.com
+shouji
 shouji.com
 shouji.racing
 shouji10086.com
@@ -83280,6 +83284,7 @@ simuwang.com
 simwe.com
 simxhs.com
 sin0sites.com
+sina
 sina-cf.com
 sina.com
 sina.lt
@@ -95155,6 +95160,7 @@ weibanan.com
 weibang.vip
 weibangong.com
 weibanzhushou.com
+weibo
 weibo.com
 weibo.tv
 weibocdn.com
@@ -99875,6 +99881,7 @@ xihaxueche.com
 xihazsww.com
 xihegp.com
 xiherencai.com
+xihuan
 xihuan.me
 xihusgh.com
 xiimoon.com
@@ -101168,6 +101175,7 @@ xn--8y0a063a
 xn--91-y60d638c.xyz
 xn--9et52u
 xn--9kr72kqwe.com
+xn--9krt00a
 xn--9myo55bi8l.com
 xn--9pr56vfna007k.com
 xn--9pry86bq5ex68c.org
@@ -106475,6 +106483,7 @@ yumingguwen.com
 yumingyouhui.com
 yummy.tech
 yumstone.com
+yun
 yun-ac.com
 yun-dns.com
 yun-gu.com

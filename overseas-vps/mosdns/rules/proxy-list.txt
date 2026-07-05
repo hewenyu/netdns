@@ -1907,6 +1907,7 @@ apple-pay.rs
 apple-pay.wang
 apple-store.net
 apple-store.wang
+apple-studies.com
 apple-usa.net
 apple-watch.com.ru
 apple.ae
@@ -2410,6 +2411,7 @@ atlasonepoint.com
 atlassian-dev.net
 atlassian.com
 atlassian.net
+atmeta.com
 atnext.com
 atokara.jp
 atom.io
@@ -2791,6 +2793,7 @@ aziani.com
 azirevpn.com
 aznude.com
 azure
+azure-api.net
 azure-devices-int.net
 azure-devices.net
 azure-dns.com
@@ -2828,6 +2831,7 @@ azureplanetscale.net
 azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
+azurestaticapps.net
 azurewebsites.net
 b-cdn.net
 b-eroland.net
@@ -6142,7 +6146,6 @@ d2pass.com
 d4dj-pj.com
 da-files.com
 da3dsoul.dev
-daapplecensorship.com
 daboja18.com
 dabr.co.uk
 dabr.me
@@ -6257,6 +6260,7 @@ dayz.com
 dazn-api.com
 dazn.com
 dazndn.com
+daznfeeds.com
 daznplayer.com
 daznservices.com
 db.tt
@@ -9627,7 +9631,6 @@ full:img-prod-cms-rt-microsoft-com.akamaized.net
 full:img-s-msn-com.akamaized.net
 full:impala-media-production.s3.amazonaws.com
 full:imperial.insendi.com
-full:ingest.apple-studies.com
 full:lastfm.freetls.fastly.net
 full:lazer.ppy.sh
 full:lgcscc-hamivideo2.cdn.hinet.net
@@ -27018,7 +27021,6 @@ zlibcdn2.com
 zmedia.com.tw
 zmw.cn
 zndsk.com
-znfeeds.com
 zodgame.xyz
 zoho.com
 zoho.com.au
