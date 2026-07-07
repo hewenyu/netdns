@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
+.br
 01.org
 02weqj32.com
 04647.club
@@ -11782,6 +11782,7 @@ hibiki-cast.jp
 hicairo.com
 hiccears.com
 hidden-advent.org
+hidden-advered.com
 hiddenvoyeurspy.com
 hiddify.com
 hide.me
@@ -13987,6 +13988,7 @@ jokerlu.world
 jokerlu1.cc
 jokerlu1.info
 joox.com
+jornaldacidadeonline.com
 jornaldacidadeonline.com.br
 jorropo.net
 jos.com
@@ -17037,6 +17039,7 @@ netzerobuildingstudio.com
 neuerporno.com
 neuralink.com
 neurology.org
+neurs.org
 nevex.com
 new-akiba.com
 new-jero.net
@@ -18354,6 +18357,8 @@ patreoncommunity.com
 patreonusercontent.com
 paulsimon-music.com
 pavpal.com
+pawchive.pw
+pawchive.st
 pawoo.net
 paxful.com
 paxlicense.org
@@ -23057,6 +23062,7 @@ tibetaction.net
 tibetanbuddhistinstitute.org
 tibetancommunity.org
 tibetancommunityuk.net
+tibetanentrepreapplecensorship.com
 tibetanentrepreneurs.org
 tibetanhealth.org
 tibetanliberation.org
@@ -25292,6 +25298,7 @@ whyiwantciscotelepresence.com
 whynotbi.com
 whyx.org
 wi-fi.org
+wi000webhost.com
 wibes.com
 wibes.ru
 widberri.ru
@@ -25434,7 +25441,6 @@ winudf.com
 wionews.com
 wipower.com
 wire.com
-wired.com
 wiredbytes.com
 wiredpen.com
 wireguard.com
@@ -26624,7 +26630,7 @@ youmind.site
 young-amateur-movies.com
 young-webcam.net
 young-xxx.net
-youngamateursporn.com
+youngamateursporn.comnt.org
 younger19.com
 youngerbabes.com
 youngermommy.com
