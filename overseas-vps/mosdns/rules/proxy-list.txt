@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-.br
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -8908,6 +8908,8 @@ flowfront.net
 flowgpt.com
 flowhongkong.net
 flowtype.org
+flowwow-images.com
+flowwow.com
 fluffychat.im
 fluidfxapp.com
 fluidpreview.com
@@ -10135,6 +10137,8 @@ funimation.com
 funkyimg.com
 funnyfacebook.org
 funnyordie.com
+funpay.com
+funpay.ru
 funshemale.com
 fuq.com
 fuqqt.com
@@ -11782,7 +11786,6 @@ hibiki-cast.jp
 hicairo.com
 hiccears.com
 hidden-advent.org
-hidden-advered.com
 hiddenvoyeurspy.com
 hiddify.com
 hide.me
@@ -13988,7 +13991,6 @@ jokerlu.world
 jokerlu1.cc
 jokerlu1.info
 joox.com
-jornaldacidadeonline.com
 jornaldacidadeonline.com.br
 jorropo.net
 jos.com
@@ -17039,7 +17041,6 @@ netzerobuildingstudio.com
 neuerporno.com
 neuralink.com
 neurology.org
-neurs.org
 nevex.com
 new-akiba.com
 new-jero.net
@@ -21192,6 +21193,7 @@ sfmcompile.club
 sforce.com
 sfshibao.com
 sftuk.org
+sfunpay.com
 sfx.ms
 sg120.me
 sg1lib.org
@@ -23062,7 +23064,6 @@ tibetaction.net
 tibetanbuddhistinstitute.org
 tibetancommunity.org
 tibetancommunityuk.net
-tibetanentrepreapplecensorship.com
 tibetanentrepreneurs.org
 tibetanhealth.org
 tibetanliberation.org
@@ -23134,6 +23135,7 @@ tilda.ru
 tilda.ws
 tildaapi.com
 tildacdn.com
+tildacdn.net
 tiltbrush.com
 timdir.com
 time-messenger.ru
@@ -25298,7 +25300,6 @@ whyiwantciscotelepresence.com
 whynotbi.com
 whyx.org
 wi-fi.org
-wi000webhost.com
 wibes.com
 wibes.ru
 widberri.ru
@@ -25441,6 +25442,7 @@ winudf.com
 wionews.com
 wipower.com
 wire.com
+wired.com
 wiredbytes.com
 wiredpen.com
 wireguard.com
@@ -26630,7 +26632,7 @@ youmind.site
 young-amateur-movies.com
 young-webcam.net
 young-xxx.net
-youngamateursporn.comnt.org
+youngamateursporn.com
 younger19.com
 youngerbabes.com
 youngermommy.com
