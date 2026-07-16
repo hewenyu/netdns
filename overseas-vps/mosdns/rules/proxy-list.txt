@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -2821,6 +2821,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azureedge.us
 azurefd.net
 azureiotcentral.com
 azureiotsolutions.com
@@ -5868,6 +5869,7 @@ coomer.su
 coova.com
 coova.net
 coova.org
+copilot-stg.com
 copilot.com
 copilot.microsoft.com
 copro.pw
@@ -9929,7 +9931,6 @@ full:t.ssp.hinet.net
 full:t21.nikkei.co.jp
 full:t21ipau.nikkei.co.jp
 full:teamviewer.com.cdn.cloudflare.net
-full:tesla-cdn.thron.com
 full:thumbnail-hamivideo.cdn.hinet.net
 full:time-a-b.nist.gov
 full:time-a-g.nist.gov
@@ -15665,6 +15666,7 @@ mgstage.com
 mh4u.org
 mhcb.ru
 mhcbr.ru
+mhgui.com
 mhhanman.xyz
 mhqwe.xyz
 mhradio.org
@@ -17834,6 +17836,7 @@ obutu.com
 obyte.org
 ocbmwdealers.com
 ocourier.ru
+ocracy.net
 ocsp-certum.com
 ocsp-responder.com
 october-review.org
@@ -18090,6 +18093,7 @@ openclaw.ai
 opencollective.com
 opencreate.org
 opencritic.com
+opendemapplecensorship.com
 opendemocracy.net
 opendns.com
 opendroneid.org
@@ -22154,6 +22158,7 @@ starfieldtech.com
 starfox.com
 stargazer-games.com
 stark-verlag.ch
+starlink.com
 starott.com
 starp2p.com
 starplus.com
