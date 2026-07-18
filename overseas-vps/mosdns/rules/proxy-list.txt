@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -11814,6 +11813,7 @@ hibdontire.com
 hibiki-cast.jp
 hicairo.com
 hiccears.com
+hidden-advellw.net
 hidden-advent.org
 hiddenvoyeurspy.com
 hiddify.com
@@ -17587,6 +17587,7 @@ nsfw247.to
 nsfwmemes.com
 nsimg.net
 nspk.ru
+nt.org
 ntc.party
 ntd.com
 ntd.tv
@@ -19740,6 +19741,7 @@ qmov.net
 qmp4.com
 qmttqg3k.me
 qnap.com
+qnapsupport.net
 qobuz.com
 qoder.com
 qombol.com
@@ -25349,6 +25351,7 @@ whyiwantciscotelepresence.com
 whynotbi.com
 whyx.org
 wi-fi.org
+wi000webhost.com
 wibes.com
 wibes.ru
 widberri.ru
