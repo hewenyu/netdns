@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -19493,6 +19494,7 @@ cd-wx.net
 cd-zc.com
 cd00c44f211031.beer
 cd120.com
+cd120.info
 cd12371.com
 cd1958.com
 cd20.net
@@ -66914,6 +66916,7 @@ moe233.org
 moe321.com
 moeclub.org
 moedot.net
+moedu.com
 moeelf.com
 moefactory.com
 moefantasy.com
@@ -90891,6 +90894,7 @@ tsingoofoods.com
 tsingpost.com
 tsingshang.com
 tsingtek.com
+tsingtengms.com
 tsingtoo.com
 tsingtuo.com
 tsingyangroup.com
@@ -98513,6 +98517,7 @@ xcxwo.com
 xcxymw.com
 xcxzww.com
 xcyg.net
+xcz.im
 xczhmzb.com
 xczhsh.com
 xczim.com
