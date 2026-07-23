@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -2421,7 +2420,6 @@
 188bifen.com
 188bio.com
 188hi.com
-188lanxi.com
 188mb.com
 188pi.com
 188soft.com
@@ -2449,6 +2447,7 @@
 18db5cd8710292.beer
 18dx.com
 18fd54f1b1114.beer
+18full:a1.mzstatic.com
 18fzl.com
 18guanjia.com
 18imall.com
@@ -8588,6 +8587,7 @@
 8kwebs.com
 8l8e.com
 8lag.com
+8lanxi.com
 8le8le.com
 8lhx.com
 8liuxing.com

@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2573,7 +2574,7 @@ autodeskicpcouncil.com
 autodeskimpression.com
 autodeskinform.com
 autodeskinstant.com
-autodeskjournaai
+autodeskjournal.com
 autodesklearning.com
 autodesklistens.com
 autodesklivedesign.com
@@ -14502,7 +14503,6 @@ kzaobao.com
 kzeng.info
 l-0005.dc-msedge.net
 l-msedge.net
-l.com
 la-mama.ru
 lab.skk.moe
 labiennale.org
@@ -16470,7 +16470,7 @@ mottainai.info
 move-free.net
 move.com
 moveaws.com
-movefreeoffers.capplecensorship.com
+movefreeoffers.com
 movefreerewards.com
 movefrees.com
 movements.org
@@ -17958,7 +17958,6 @@ olevodtv.com
 oli-school.com
 ollama.com
 olumpo.com
-om
 omafotze.com
 omakase.in
 omaps.app
@@ -18095,7 +18094,6 @@ openapi.longbridge.cn
 openapi.longbridge.com
 openapiplatform.com
 openapiservice.com
-openart.000webhost.com
 openart.ai
 openbook.org.tw
 opencas.io
@@ -23284,6 +23282,7 @@ tohoku-bank.co.jp
 tok.media
 token.im
 tokenlon.im
+tokenplus.app
 tokyo-hot.com
 tokyo-porn-tube.com
 tokyo-sports.co.jp
