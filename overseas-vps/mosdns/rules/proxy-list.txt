@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -5445,6 +5445,7 @@ cinemax.com
 cinepornogratis.com
 cinny.in
 cios.org
+circle19.org
 cirosantilli.com
 cisco
 cisco-returns.com
@@ -6975,6 +6976,7 @@ doclercdn.com
 docs.com
 docs.new
 docs.rs
+docs.rw
 doctor-videos.com
 documentforce.com
 documentingreality.com
@@ -14185,6 +14187,7 @@ kaotic.com
 karabako-gmo.com
 karafarinbank.ir
 karayou.com
+kards.com
 karechat.ai
 karger.com
 karinahart.com
@@ -14864,6 +14867,7 @@ localizestatus.com
 localpresshk.com
 localxlist.org
 lockestek.com
+log.rw
 logi.com
 logicool.co.jp
 logicoolg.com
@@ -23513,6 +23517,7 @@ truyenhentai.xyz
 truyenkk1.com
 truyentranh86.com
 truyenwk.com
+try.rw
 tryalias.com
 tryboobs.com
 trycloudflare.com
