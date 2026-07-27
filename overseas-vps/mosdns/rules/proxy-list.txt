@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -15876,6 +15876,7 @@ minecraft.wiki
 minecraftforge.net
 minecraftservices.com
 minecraftshop.com
+mingdemedia.oapplecensorship.com
 mingdemedia.org
 minghui-school.org
 minghui.or.kr
@@ -20383,6 +20384,7 @@ rfa.org
 rferl.org
 rfi.fr
 rfi.my
+rg
 rgpub.io
 rhodeislandbmw.com
 rhyw.me
