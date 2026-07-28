@@ -10678,6 +10678,7 @@ githubhackathon.com
 githubnext.com
 githubpreview.dev
 githubstatus.com
+githubsupport.com
 githubuniverse.com
 githubusercontent.com
 gitlab-static.net
@@ -15876,7 +15877,6 @@ minecraft.wiki
 minecraftforge.net
 minecraftservices.com
 minecraftshop.com
-mingdemedia.oapplecensorship.com
 mingdemedia.org
 minghui-school.org
 minghui.or.kr
@@ -20384,7 +20384,6 @@ rfa.org
 rferl.org
 rfi.fr
 rfi.my
-rg
 rgpub.io
 rhodeislandbmw.com
 rhyw.me
@@ -23520,6 +23519,7 @@ truyenkk1.com
 truyentranh86.com
 truyenwk.com
 try.rw
+tryai.dev
 tryalias.com
 tryboobs.com
 trycloudflare.com
