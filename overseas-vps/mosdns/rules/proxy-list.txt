@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -732,6 +732,7 @@ acrobat.com
 acs.org
 actalis.com
 actalis.it
+actifio.com
 activelearnprimary.co.uk
 activelearnprimary.com.au
 activematter.game
@@ -11820,7 +11821,6 @@ hexxeh.net
 hey.boo
 heydoga.com
 heydouga.com
-heyuedi.coapplecensorship.com
 heyuedi.com
 heywire.com
 heyzo.com
@@ -13900,7 +13900,10 @@ jessicaturner.com
 jetbrains.ai
 jetbrains.cloud
 jetbrains.com
+jetbrains.dev
 jetbrains.net
+jetbrains.org
+jetbrains.ru
 jetbrains.space
 jetbrains.team
 jetfuelapp.com
@@ -14457,6 +14460,8 @@ korewaeroi.com
 korona.com
 koshelek.app
 kostenlosepornoclips.com
+kotl.in
+kotlinconf.com
 kotlinlang.org
 koubaibu.jp
 koukoku.jp
@@ -14483,6 +14488,7 @@ ksescortclub.com
 kspcoin.com
 ksyp10.com
 ktech.team
+ktor.io
 ktvu.com
 ktzhk.com
 ku77.xyz
@@ -15058,7 +15064,6 @@ lysol.net
 lyzsxx.com
 lzjscript.com
 lzmtnews.org
-m
 m-power.com
 m.hkgalden.com
 m.me
@@ -16810,6 +16815,7 @@ myhulu.com
 myicloud.net
 myiphide.com
 myipod.net
+myjetbrains.com
 myjkwd.com
 myjs.tw
 mykomica.org
@@ -17641,6 +17647,7 @@ ntdtv.se
 ntdtvla.com
 ntdvideo.tw
 ntdvn.com
+nthlink.com
 ntl.fyi
 ntnews.com.au
 ntp-os01.ocn.ad.jp
@@ -18168,6 +18175,7 @@ openweathermap.org
 openweave.io
 openwebster.com
 openwrt.org
+openxla.org
 opera.com
 opinionjournal.com
 oppai-doga.info
@@ -22654,6 +22662,7 @@ taleofthenight.com
 talkatone.com
 talkboxapp.com
 talkcc.com
+talkingkotlin.com
 talkonly.net
 talksport.com
 tamilsexvideos.cc
