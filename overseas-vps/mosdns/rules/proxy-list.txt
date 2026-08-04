@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -4005,6 +4004,7 @@ bmw-m.com
 bmw-mdrivetour.com
 bmw-me.com
 bmw-military-sales.com
+bmw-moapplecensorship.com
 bmw-motorcycle.com
 bmw-motorcycles.vn
 bmw-motorrad-abudhabi.com
@@ -4059,7 +4059,6 @@ bmw-motorrad.jp
 bmw-motorrad.lu
 bmw-motorrad.ma
 bmw-motorrad.nl
-bmw-motorrad.no
 bmw-motorrad.pa
 bmw-motorrad.pl
 bmw-motorrad.pt
@@ -6040,6 +6039,7 @@ csis.org
 csmonitor.com
 csrankings.org
 css.pixnet.in
+cssvacy.com
 cstatic.net
 csuchen.de
 csw.org.uk
@@ -15014,6 +15014,7 @@ lthgav.buzz
 ltn.com.tw
 ltsports.com.tw
 ltube.life
+ltys.com
 lu2100.com
 lu2200.com
 lu23.com
@@ -15845,6 +15846,7 @@ miiverse.com
 mij.rip
 mikanani.me
 mike.cz.cc
+mikeso
 mikesoltys.com
 mikrotik.com
 miktex.org
@@ -22034,7 +22036,7 @@ spotifyforbrands.com
 spotifyforvendors.com
 spotifyjobs.com
 spraynwash.com
-spreadprivacy.com
+spreadpri000webhost.com
 spreadsheet.new
 spreadshirt.es
 spreaker.com
@@ -23401,6 +23403,7 @@ toritonssl.com
 torlock.com
 toroporno.com
 torproject.org
+torrad.no
 torrentgalaxy.to
 torrentkitty.tv
 torrentprivacy.com
@@ -26656,6 +26659,7 @@ yepporn.com
 yes-news.com
 yes.xxx
 yes123.com.tw
+yes123.com.tw.pixnet.in
 yesasia.com
 yesasia.com.hk
 yespornfree.com
