@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -4004,7 +4005,6 @@ bmw-m.com
 bmw-mdrivetour.com
 bmw-me.com
 bmw-military-sales.com
-bmw-moapplecensorship.com
 bmw-motorcycle.com
 bmw-motorcycles.vn
 bmw-motorrad-abudhabi.com
@@ -4059,6 +4059,7 @@ bmw-motorrad.jp
 bmw-motorrad.lu
 bmw-motorrad.ma
 bmw-motorrad.nl
+bmw-motorrad.no
 bmw-motorrad.pa
 bmw-motorrad.pl
 bmw-motorrad.pt
@@ -6039,7 +6040,6 @@ csis.org
 csmonitor.com
 csrankings.org
 css.pixnet.in
-cssvacy.com
 cstatic.net
 csuchen.de
 csw.org.uk
@@ -6348,6 +6348,8 @@ deepfreeze.net
 deepfreeze.tech
 deepl.com
 deepmind.com
+deepwiki.com
+deepwiki.org
 deezer.com
 definebabe.com
 definefetish.com
@@ -8945,8 +8947,11 @@ fluidfxapp.com
 fluidpreview.com
 flutter.dev
 flutterapp.com
+fly.dev
+fly.io
 flyflv.com
 flyingjizz.com
+flyio.net
 flypool.org
 flyvpn.com
 flyyindh-cc.sbs
@@ -10718,6 +10723,7 @@ glasamerike.net
 glass8.eu
 gle
 gleline.com
+glitchwave.com
 global-sci.org
 global.bing.com
 global.ssl.fastly.net
@@ -15014,7 +15020,6 @@ lthgav.buzz
 ltn.com.tw
 ltsports.com.tw
 ltube.life
-ltys.com
 lu2100.com
 lu2200.com
 lu23.com
@@ -15846,7 +15851,6 @@ miiverse.com
 mij.rip
 mikanani.me
 mike.cz.cc
-mikeso
 mikesoltys.com
 mikrotik.com
 miktex.org
@@ -18307,14 +18311,17 @@ ozodlik.org
 ozon-credit.ru
 ozon-dostavka.ru
 ozon-tech.ru
+ozon.app
 ozon.by
 ozon.com
 ozon.com.by
 ozon.com.kz
 ozon.dev
 ozon.express
+ozon.global
 ozon.kz
 ozon.li
+ozon.market
 ozon.ru
 ozon.tech
 ozon.tm
@@ -20683,6 +20690,7 @@ rutracker.nl
 rutracker.org
 rutrk.org
 rutube.ru
+rutube.sport
 rutubelist.ru
 ruvideos.net
 rwb.ru
@@ -20690,6 +20698,7 @@ rwbautomation.ru
 rwbautomation.tech
 rwbgeo.ru
 rxhj.net
+rym.fm
 ryokoyomiuri.co.jp
 ryukyubank.co.jp
 rzr.to
@@ -21737,6 +21746,7 @@ snjulebu.com
 snk-corp.co.jp
 snk-corp.info
 snkplaymore.info
+snmc.io
 snow.me
 snowcorp.com
 snowmiku.com
@@ -21806,6 +21816,8 @@ solutionstation.com
 solv.finance
 solveforx.com
 somee.com
+sonematic.net
+sonemic.com
 songjianjun.com
 sonorousporn.com
 sony
@@ -22036,7 +22048,7 @@ spotifyforbrands.com
 spotifyforvendors.com
 spotifyjobs.com
 spraynwash.com
-spreadpri000webhost.com
+spreadprivacy.com
 spreadsheet.new
 spreadshirt.es
 spreaker.com
@@ -23403,7 +23415,6 @@ toritonssl.com
 torlock.com
 toroporno.com
 torproject.org
-torrad.no
 torrentgalaxy.to
 torrentkitty.tv
 torrentprivacy.com
@@ -26659,7 +26670,6 @@ yepporn.com
 yes-news.com
 yes.xxx
 yes123.com.tw
-yes123.com.tw.pixnet.in
 yesasia.com
 yesasia.com.hk
 yespornfree.com

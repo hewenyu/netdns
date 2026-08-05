@@ -1,9 +1,8 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -2794,7 +2793,6 @@
 21826aafe2a48426.com
 218318.com
 21869.org
-218996.com
 2189cok.com
 21ask.com
 21bcr.com
@@ -2833,6 +2831,7 @@
 21epub.com
 21fid.com
 21food.com
+21full:a1.mzstatic.com
 21good.com
 21hifi.com
 21hospital.com
@@ -8415,6 +8414,7 @@
 8989118.com
 8989jt.com
 8989u.com
+8996.com
 8999.cc
 89b12b5e3ff8085c.com
 89dj.com
@@ -35711,6 +35711,7 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
+full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -36256,6 +36257,8 @@ full:time.amazonaws.cn
 full:time.izatcloud.net
 full:time.xtracloud.net
 full:tj-pod1-smp-device.apple.com
+full:tj-pod2-smp-device.apple.com
+full:tj-pod3-smp-device.apple.com
 full:tools.google.com
 full:tp.louisvuitton.com
 full:universal-activity-service.itunes.apple.com
