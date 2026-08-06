@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -2793,6 +2794,7 @@
 21826aafe2a48426.com
 218318.com
 21869.org
+218996.com
 2189cok.com
 21ask.com
 21bcr.com
@@ -2831,7 +2833,6 @@
 21epub.com
 21fid.com
 21food.com
-21full:a1.mzstatic.com
 21good.com
 21hifi.com
 21hospital.com
@@ -8414,7 +8415,6 @@
 8989118.com
 8989jt.com
 8989u.com
-8996.com
 8999.cc
 89b12b5e3ff8085c.com
 89dj.com
@@ -63929,6 +63929,7 @@ madailicai.com
 madajiefood.com
 madaomall.com
 madboxi.com
+made-in-china.com
 madefuns.com
 madeinchinastone.com
 madewei.com
@@ -65667,6 +65668,7 @@ microwu.com
 microxiang.com
 microyan.com
 microzuji.com
+micstatic.com
 mictormedical.com
 micu.hk
 micun.com
@@ -73269,6 +73271,7 @@ powerchinayun.com
 powercx.com
 powerde.com
 powereasy.net
+poweremarket.com
 powerex1.com
 powerflow-tech.com
 powerfulchina.com
