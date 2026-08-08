@@ -603,7 +603,6 @@
 9xav.cc
 9xlove.xyz
 9zipai.net
-a
 a-bank.jp
 a-hentai.tv
 a-msedge.net
@@ -2068,6 +2067,7 @@ applehongkong.com
 applehongkong.com.hk
 appleid-applemx.com
 appleid-applemx.us
+appleid-iclou.com
 appleid-uk.us
 appleid.berlin
 appleid.com
@@ -18158,7 +18158,7 @@ openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
 openapi-trade.longbridge.com
 openapi.futunn.com
-openapi.longbridge.cn000webhost.com
+openapi.longbridge.cn
 openapi.longbridge.com
 openapiplatform.com
 openapiservice.com
@@ -19526,7 +19526,6 @@ ppaypal.com
 ppb-mod.buzz
 ppe.lawyer
 pplah.com
-ppleid-iclou.com
 pplusstatic.com
 pplx.ai
 ppnnpp.com
