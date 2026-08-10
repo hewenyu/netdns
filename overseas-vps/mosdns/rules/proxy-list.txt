@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -1064,6 +1065,7 @@ ai7995.site
 ai91porn.cc
 aiaa.org
 aiasahi.jp
+aihub.top
 aimei133.com
 aimsciences.org
 aiosearch.com
@@ -1799,7 +1801,6 @@ anyshemale.com
 anythingllm.com
 anyxxx.me
 anyxxx.pro
-ao
 ao3.org
 aoaou.iillii.net
 aobo.com.au
@@ -2974,6 +2975,7 @@ barton.de
 base.org
 baselinestudy.com
 baselinestudy.org
+basemaps.arcgis.com
 basilisk-browser.org
 bastillepost.com
 bastropfirestone.com
@@ -6260,7 +6262,7 @@ dasaob.online
 dashlane.com
 dashly.app
 dashly.help
-dashly.i000webhost.com
+dashly.io
 dashly.me
 dashlytrack.app
 dashwood360.com
@@ -7416,6 +7418,7 @@ ea-anz-press.com
 ea.com
 eaaccess.com
 eablackbox.com
+eac-cdn.com
 eacashcard.com
 eachpay.com
 eachpay.net
@@ -7460,7 +7463,6 @@ easynike.com
 easypic.com
 easysexporn.com
 eater.com
-eazirevpn.com
 ebahy.com
 ebalovo.com
 ebates.ca
@@ -7693,7 +7695,6 @@ eduplus.hk
 edx-cdn.org
 edx.org
 eebay.com
-eeeoes.org
 eenike.com
 eesti.ee
 eevpn.com
@@ -8040,6 +8041,7 @@ esetsoftware.com
 esforce.com
 esforce.ru
 esg.t91y.com
+esim.redteago.com
 eskimotube.com
 eslite.com
 esm.run
@@ -8150,6 +8152,7 @@ expatshield.com
 expecthim.com
 expekt.com
 experience-vmware.com
+experience.arcgis.com
 experiencebillmelater.com
 expertmaker.com
 explicittube.com
@@ -11569,12 +11572,12 @@ hbospain.com
 hbotvsales.com
 hbox.jp
 hbrowse.com
-hc
 hcaptcha.com
 hcaptchastatus.com
 hcbdsm.com
 hclips.com
 hcomic.net
+hcomicbook.com
 hcpdts.com
 hd-tubes.com
 hdabla.net
@@ -12733,6 +12736,7 @@ ieeefoundation.org
 ieeemagnetics.org
 ieeemce.org
 ieeenano.org
+ieeeoes.org
 ieeer10.org
 ieeer5.org
 ieeer8.org
@@ -12913,7 +12917,6 @@ ilove80.be
 iloveinterracial.com
 ilovelongtoes.com
 ilovexs.com
-im
 im88.tw
 imac-apple.com
 imac-applecomputer.com
@@ -18159,7 +18162,7 @@ openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
 openapi-trade.longbridge.com
 openapi.futunn.com
-openapi.longbridge.cnc-cdn.com
+openapi.longbridge.cn
 openapi.longbridge.com
 openapiplatform.com
 openapiservice.com
@@ -22138,7 +22141,6 @@ ssplive.pw
 ssr.tools
 ssrpass.pw
 ssrshare.com
-ssrshare.coomicbook.com
 ssrshare.us
 ssrtool.com
 sss.xxx
