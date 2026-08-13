@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -2424,6 +2424,7 @@
 194nb.com
 195155.com
 195268032591463.icu
+1958xy.com
 195idc.com
 196b7adb23969e39.com
 196g.com
@@ -4080,6 +4081,7 @@
 36kr.net
 36krcdn.com
 36krcnd.com
+36linkr.com
 36pnes36t0qs.com
 36qp.com
 36rv3j3.shop
@@ -14161,7 +14163,6 @@ bamaying.com
 bamboofactorychina.com
 bambooolab.com
 bambu-lab.com
-bambulab.com
 bamengame.com
 bamensq.com
 bamenzhushou.com
@@ -16716,6 +16717,7 @@ bktencent.com
 bktsj.com
 bkvps.com
 bkweek.com
+bkzhibo.com
 bkzzy.com
 bl.com
 bl0757.com
@@ -35711,7 +35713,6 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -53276,6 +53277,7 @@ jgsdaily.com
 jgsemicon.com
 jgstour.com
 jgsxfw.com
+jgtab.link
 jgtc315.com
 jguanjia.com
 jgums.com
@@ -55029,6 +55031,7 @@ jkydt.com
 jkyule.com
 jkzhilu.com
 jkzl.com
+jkzlrs.com
 jkzn365.com
 jl-er.com
 jl-jssk.com
@@ -56691,6 +56694,7 @@ juwangmedia.com
 juwanhezi.com
 juwanshe.com
 juweixin.com
+juwinmedia.com
 juxia.com
 juxian.com
 juxiang3d.com
@@ -85805,6 +85809,7 @@ sxygsj.com
 sxyj.net
 sxyqgs.asia
 sxyyc.net
+sxyygh.com
 sxzhaobiao.com
 sxzhongfei.com
 sxzhyy.com
@@ -98307,6 +98312,7 @@ xhscdn.com
 xhscdn.net
 xhsd.com
 xhsd.net
+xhsdzd.com
 xhsf.com
 xhslink.com
 xhslw.com
@@ -104693,7 +104699,6 @@ youleliwu.com
 youlesp.com
 youletd.com
 youleyou.com
-youlian.fun
 youlianfuwu.com
 youliangda.com
 youlianghz.com
