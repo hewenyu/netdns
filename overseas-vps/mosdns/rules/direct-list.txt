@@ -2077,7 +2077,7 @@
 175pt.net
 175sf.com
 175wan.com
-175yo.cfull:265.com
+175yo.com
 17666.mobi
 1766bbs.com
 17673.com
@@ -35712,6 +35712,7 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
+full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -70903,7 +70904,6 @@ olymtech.com
 olymvax.com
 olys88.com
 olzz.com
-om
 omacloud.com
 omarea.com
 omarte.com
