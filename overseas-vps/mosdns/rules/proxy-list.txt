@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -1873,6 +1872,7 @@ app.box.com
 app.cloudcone.com
 app.element.io
 app.smartmailcloud.com
+app000webhost.com
 app0le.com
 app756.com
 appadvice.com
@@ -2067,7 +2067,6 @@ applefinalcutproworld.net
 applefinalcutproworld.org
 applefruity.com
 applehealth.com.hk
-applehongkong.com
 applehongkong.com.hk
 appleid-applemx.com
 appleid-applemx.us
@@ -3122,8 +3121,8 @@ beatsbestdeals.com
 beatsblackfridaydeals.net
 beatsblackfridayretails.com
 beatsboxingdayuksale.com
+beatsbydrdau.org
 beatsbydrdre-headphones.com
-beatsbydrdre-officials5.com
 beatsbydrdre-online.com
 beatsbydrdre-onsale.com
 beatsbydrdre-store.com
@@ -3922,6 +3921,7 @@ blurams.com
 blylq.buzz
 blz-contentstack.com
 bm-bank.ru
+bm.net
 bmdru.com
 bmi.ir
 bmia.org
@@ -4060,7 +4060,6 @@ bmw-motorrad.dk
 bmw-motorrad.dz
 bmw-motorrad.ec
 bmw-motorrad.ee
-bmw-motorrad.es
 bmw-motorrad.fi
 bmw-motorrad.fr
 bmw-motorrad.gr
@@ -5199,7 +5198,7 @@ ceosummit.ru
 cepacol.ca
 cepacol.com
 ceramics-cadcam.com
-cerdas.com
+cerd
 cerebras.ai
 cern
 cern.ch
@@ -7407,6 +7406,7 @@ dynamoreach.com
 dynatrace.com
 dynawebinc.com
 dyncdn.me
+dynu.coge.com
 dynu.com
 dynupdate.no-ip.com
 dysfz.cc
@@ -8506,6 +8506,7 @@ falundafamuseum.org
 falungong.club
 falunhr.org
 faluninfo.net
+falunlehongkong.com
 fameregistry.com
 famifun.com.tw
 family-sex.me
@@ -10375,6 +10376,7 @@ gamesstack.com
 gametap.com
 gameuxmasterguide.com
 gamewtb.com
+gamez.codiatimes.com
 gamez.com.tw
 gaming-notebooks.com
 gandhara.ru
@@ -11825,6 +11827,7 @@ hentaizz.net
 henti-night.com
 heptio.com
 heqinglian.net
+heqinglianre-officials5.com
 heraldsun.com.au
 hereistheporn.com
 herexxx.com
@@ -15125,6 +15128,7 @@ m-power.com
 m.hkgalden.com
 m.me
 m.moegirl.org
+m.tw
 m12.vc
 m2m.com
 ma1lib.org
@@ -15759,6 +15763,7 @@ mgo.com
 mgoon.com
 mgstage.com
 mh4u.org
+mh4u.orgw-motorrad.es
 mhcb.ru
 mhcbr.ru
 mhgui.com
@@ -17639,6 +17644,7 @@ nonlinearnastran.com
 nonstopfap.com
 noodlemagazine.com
 noosferabank.ru
+nordcdn.com
 nordstrom.com
 nordstromimage.com
 nordstrommedia.com
@@ -18188,8 +18194,8 @@ opac-project.eu
 open.firstory.me
 openai.com
 openamt.com
+openapi-quote.longbridas.com
 openapi-quote.longbridge.cn
-openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
 openapi-trade.longbridge.com
 openapi.futunn.com
@@ -20789,6 +20795,7 @@ s1s1s1.com
 s2csntp.miz.nao.ac.jp
 s2stagehance.com
 s3-ap-northeast-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
 s81c.com
 s8ds5gfm.xyz
 saas-support.com
@@ -23339,6 +23346,7 @@ timelinestoryteller.com
 timesmembership.com
 timesnownews.com
 timesofindia.indiatimes.com
+timesofindia.inm
 timestalks.com
 timeweb.cloud
 timeweb.com
