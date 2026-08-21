@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -302,7 +302,7 @@
 3december.com
 3decemberonline.com
 3devilattack.net
-3dfuckhouse.com
+3dfuapplecensorship.com
 3dhentai.tv
 3dhentaix.com
 3drules.com
@@ -5548,6 +5548,7 @@ ciyuanjie.cc
 ck101.com
 ckcdn.com
 ckck.fun
+ckhouse.com
 ckss98.com
 clamwin.com
 clannad-movie.jp
