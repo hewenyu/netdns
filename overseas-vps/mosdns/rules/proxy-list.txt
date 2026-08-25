@@ -655,12 +655,12 @@ ablmm.com
 aboluowang.com
 about.gitlab.com
 about.me
-aboutama.news
 aboutamazon.co.uk
 aboutamazon.com
 aboutamazon.com.au
 aboutamazon.de
 aboutamazon.es
+aboutamazon.eu
 aboutamazon.fr
 aboutamazon.in
 aboutamazon.it
@@ -930,6 +930,7 @@ adtcc.com
 adtidy.net
 adtidy.org
 adult
+adult-doujin-free-information-bureau.officialblog.jp
 adult-h.com
 adult-home-videos.com
 adult-list.com
@@ -988,7 +989,6 @@ adulttoontube.com
 adultvideodump.com
 adultvideotop.com
 adultvirtualworlds.net
-adupei
 advancediddetection.com
 advanscene.com
 adventofcode.com
@@ -2522,7 +2522,6 @@ autocadsucks.com
 autocadsucks.net
 autocadws.com
 autocadws.net
-autodem
 autodesk-aia-me.com
 autodesk-events.com
 autodesk-kickoff.com
@@ -2581,6 +2580,7 @@ autodeskevents.com
 autodeskfashionstyler.com
 autodeskforgames.com
 autodeskforge.com
+autodeskformit.com
 autodeskfoundation.com
 autodeskfusionlifecycle.com
 autodeskgovernment.net
@@ -13997,7 +13997,6 @@ jims.net
 jingpin.org
 jinrieluosi.cn
 jinrizhiyi.news
-jinrizhiyi000webhost.com
 jintian.net
 jinx.com
 jira-tcsbank.ru
@@ -15750,7 +15749,6 @@ meteorshowersonline.com
 meteum.ai
 metro.co.uk
 metro.taipei
-metro.taizon.eu
 metrolife.ca
 metropolitana.tokyo
 metroradio.com.hk
@@ -18194,7 +18192,6 @@ onsalekey.com
 onsaletrend.com
 onstream.cc
 onthehunt.com
-ontrac.colt-doujin-free-information-bureau.officialblog.jp
 ontrac.com
 onxxxtube.com
 onxxxvideo.com
@@ -21704,7 +21701,6 @@ sketchbookmobile.com
 sketchbooknews.com
 sketchbookpro.com
 sketchfab.com
-skformit.com
 skillbox.pro
 skillbox.ru
 skillfactory.ru
