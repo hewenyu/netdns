@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2067,8 +2066,8 @@ appleexpo.eu
 appleexpo.info
 applefilmaker.com
 applefilmmaker.com
+applefinalcutp000webhost.com
 applefinalcutproworld.com
-applefinalcutproworld.net
 applefinalcutproworld.org
 applefruity.com
 applehealth.com.hk
@@ -3124,8 +3123,8 @@ beatsaudiobydre.net
 beatsaudios.net
 beatsbeatsmonster.com
 beatsbestdeals.com
+beatsblackfridacom
 beatsblackfridaydeals.net
-beatsblackfridayretails.com
 beatsboxingdayuksale.com
 beatsbydrdre-headphones.com
 beatsbydrdre-officials5.com
@@ -3727,6 +3726,7 @@ blackamateursvideos.com
 blackandstacked.com
 blackboxgames.com
 blacked.com
+blackedraw.com
 blackfridaydrebeatsnew.com
 blackfridaydrebeatsshop.com
 blackhomeporn.com
@@ -4023,6 +4023,7 @@ bmw-m.com
 bmw-mdrivetour.com
 bmw-me.com
 bmw-military-sales.com
+bmw-mot
 bmw-motorcycle.com
 bmw-motorcycles.vn
 bmw-motorrad-abudhabi.com
@@ -4059,7 +4060,6 @@ bmw-motorrad.com.pe
 bmw-motorrad.com.py
 bmw-motorrad.com.tr
 bmw-motorrad.cr
-bmw-motorrad.cz
 bmw-motorrad.de
 bmw-motorrad.dk
 bmw-motorrad.dz
@@ -10416,6 +10416,8 @@ gastrointestinalexam.com
 gate.cc
 gate.com
 gate.io
+gate.tv
+gateapi.io
 gatecoin.com
 gatedata.org
 gateimg.com
@@ -15943,6 +15945,7 @@ milfthreesomes.com
 milftube.pro
 milftugs.com
 milfvr.com
+milfy.com
 milfzr.com
 miliav.com
 milkmanbook.com
@@ -18192,6 +18195,7 @@ onlynudes.org
 onlyprime.ru
 onlysiterip.com
 onlytweets.com
+onlytweets.roworld.net
 onmanorama.com
 onsalekey.com
 onsaletrend.com
@@ -18312,6 +18316,7 @@ orithegame.com
 orl.ly
 orlandohurricane.com
 orn.jp
+orrad.cz
 orsm.net
 orthopaedic-cadcam.com
 orthotics-cadcam.com
@@ -21761,6 +21766,7 @@ slashdot.org
 slashine.onl
 slavbank.ru
 slavicstar.com
+slayed.com
 slc.tl
 sldolls.com
 sleazyfork.org
@@ -23798,6 +23804,7 @@ turntable.fm
 tusco.ru
 tushy.com
 tushycash.com
+tushyraw.com
 tuta.com
 tuta.io
 tutamail.com
@@ -24786,6 +24793,7 @@ vivaldi.com
 vivaxnxx.com
 vivthomas.com
 vixen.com
+vixengroup.com
 vixvids.to
 vjav.com
 vjmedia.com.hk
@@ -24893,6 +24901,7 @@ voacambodia.com
 voacantonese.com
 voachinese.com
 voachineseblog.com
+voachineseblog.comyretails.com
 voadeewanews.com
 voadeewaradio.com
 voahausa.com
