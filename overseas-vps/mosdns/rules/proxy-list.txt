@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+.com
 000webhost.com
 01.org
 02weqj32.com
@@ -2067,8 +2068,8 @@ appleexpo.eu
 appleexpo.info
 applefilmaker.com
 applefilmmaker.com
+applefinalcutpodfootsteps.org
 applefinalcutproworld.com
-applefinalcutproworld.net
 applefinalcutproworld.org
 applefruity.com
 applehealth.com.hk
@@ -6257,7 +6258,7 @@ danskpornofilm.com
 dansmovies.com
 daoc.net
 daretoku-eromanga.info
-darivoa.com
+darivoacom
 darkageofcamelot.com
 darkcategories.com
 darknaija.com
@@ -10334,6 +10335,7 @@ g.ai
 g.co
 g.dev
 g.page
+g000webhost.com
 g0v.social
 g1.com.br
 g6hentai.com
@@ -18196,6 +18198,7 @@ onlynudes.org
 onlyprime.ru
 onlysiterip.com
 onlytweets.com
+onlytweets.roworld.net
 onmanorama.com
 onsalekey.com
 onsaletrend.com
