@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -18166,7 +18166,6 @@ onionshare.org
 onkakao.net
 online-deals.net
 online-instagram.com
-online.recoverapplecensorship.com
 online.recoveryversion.org
 onlineapplestore.com
 onlinefucktube.com
@@ -27143,7 +27142,6 @@ yunomi.tokyo
 yusercontent.com
 yusjb.com
 yuvutu.com
-yversion.org
 yvesgeleyn.com
 ywoos.com
 yy55.tv
