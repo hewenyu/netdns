@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -8493,6 +8493,7 @@ faesebook.com
 fafacebook.com
 faicbooc.com
 fairmarket.com
+faith100.oapplecensorship.com
 faith100.org
 faiththedog.info
 fakehub.com
@@ -17649,6 +17650,7 @@ nodejs.org
 nodequality.com
 nodereal.io
 nodeseek.com
+nodeseek.org
 nodesource.com
 noisullifb.com
 nokiantyres.com
@@ -20522,6 +20524,7 @@ rfa.org
 rferl.org
 rfi.fr
 rfi.my
+rg
 rgpub.io
 rhodeislandbmw.com
 rhyw.me
