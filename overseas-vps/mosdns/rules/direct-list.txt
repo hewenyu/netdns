@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+.com
 00.net
 000.link
 000000.net
@@ -33625,7 +33626,7 @@ fayufaguo.com
 fazhijx.com
 fazz.fun
 fb32dc52302e6b9b.com
-fb46cd5483f029aa.com
+fb46cd5483f029aafull:a1.mzstatic.com
 fb4bc82f71019.beer
 fb56.com
 fb71ef91e1014.beer
