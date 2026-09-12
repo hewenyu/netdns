@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -928,7 +929,7 @@ adskeng.net
 adskengineering.net
 adskengpp.net
 adskengpr.net
-adt000webhost.com
+adtcc.com
 adtidy.net
 adtidy.org
 adult
@@ -1832,12 +1833,9 @@ apat1989.org
 apexlegends.com
 apexprint.com.hk
 api-extractor.com
-api-gl.lbkrs.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.futunn.com
-api.lbkrs.com
 api.moomoobull.com
 api.news
 api.palworldgame.com
@@ -1845,7 +1843,6 @@ api.pureapk.com
 api.recaptcha.net
 api.shuaiapi.com
 api.steampowered.com
-api5.futunn.com
 apiary.io
 apiauto.ru
 apibay.org
@@ -2068,9 +2065,9 @@ appleexpo.eu
 appleexpo.info
 applefilmaker.com
 applefilmmaker.com
+applefinalcutproworld.com
 applefinalcutproworld.net
 applefinalcutproworld.org
-applefinalcutproworldal.com
 applefruity.com
 applehealth.com.hk
 applehongkong.com
@@ -3125,7 +3122,7 @@ beatsaudiobydre.net
 beatsaudios.net
 beatsbeatsmonster.com
 beatsbestdeals.com
-beatsblackfridaydeals.yversion.org
+beatsblackfridaydeals.net
 beatsblackfridayretails.com
 beatsboxingdayuksale.com
 beatsbydrdre-headphones.com
@@ -4060,6 +4057,7 @@ bmw-motorrad.com.my
 bmw-motorrad.com.pe
 bmw-motorrad.com.py
 bmw-motorrad.com.tr
+bmw-motorrad.cr
 bmw-motorrad.cz
 bmw-motorrad.de
 bmw-motorrad.dk
@@ -4097,7 +4095,6 @@ bmw-motorsport.com
 bmw-mountains.com
 bmw-museum.com
 bmw-museum.net
-bmw-ner.com
 bmw-nigeria.com
 bmw-oman.com
 bmw-ottawa.ca
@@ -5142,7 +5139,6 @@ cdn-tinkoff.ru
 cdn-vk.net
 cdn-vk.ru
 cdn.arstechnica.net
-cdn.futustatic.com
 cdn.jwplayer.com
 cdn.printfriendly.com
 cdn.seatguru.com
@@ -5198,7 +5194,7 @@ centerforhumanreprod.com
 centervillage.co.jp
 centos.org
 centralnation.com
-centraluniversi--oiq.cc
+centraluniversity.ru
 centralvalidation.com
 centrino.com
 centrino.net
@@ -5708,7 +5704,6 @@ cn.fmnnow.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
 cn.theaustralian.com.au
-cn.uptodown.com
 cna.com.tw
 cnbbnews.wordpress.com
 cnbc.com
@@ -6052,7 +6047,6 @@ crrev.com
 crsed.net
 crtsgfb1.top
 crucial.com
-crucicc.com
 cruel-furies.com
 crunchyroll.com
 crustwebsites.net
@@ -7134,7 +7128,6 @@ dowjones.io
 dowjoneson.com
 download.com
 download.dappcdn.com
-download.futunn.com
 downloadpass.com
 downloadsforipod.com
 dpool.top
@@ -15142,7 +15135,6 @@ lyzsxx.com
 lzjscript.com
 lzmtnews.org
 m-power.com
-m.hkgalden.com
 m.me
 m.moegirl.org
 m12.vc
@@ -18167,7 +18159,6 @@ onionshare.org
 onkakao.net
 online-deals.net
 online-instagram.com
-online.recover.com
 online.recoveryversion.org
 onlineapplestore.com
 onlinefucktube.com
@@ -18221,12 +18212,8 @@ open.firstory.me
 openai.com
 openamt.com
 openapi-quote.longbridge.cn
-openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
-openapi-trade.longbridge.com
-openapi.futunn.com
 openapi.longbridge.cn
-openapi.longbridge.com
 openapiplatform.com
 openapiservice.com
 openart.ai
@@ -19910,9 +19897,8 @@ qr.ae
 qstatus.com
 qt-project.org
 qt.io
-qtcard.futunn.com
-qtcardfthk.futufin.com
 qtrac.eu
+quakemachinex.com
 qualcomm-email.com
 qualcomm-inc.com
 qualcomm.co.id
@@ -20034,7 +20020,6 @@ radiyoyacuvoa.com
 radmin-vpn.com
 rael.org
 raggedbanner.com
-raggedbannet
 raidcall.com.tw
 raiffeisen-media.ru
 raiffeisen.ru
@@ -22588,7 +22573,6 @@ superzooi.com
 supjav.com
 supplybestjerseys.com
 support-uber.com
-support.futunn.com
 supportfacebook.com
 supr.cl
 supremacy.com
@@ -23583,8 +23567,6 @@ tracfone.com
 tracker.gg
 tracker.network
 tracking-location.com
-trade.futunn.com
-trade.longportapp.com
 tradeup.com
 tradevip1.com
 tradingview.com
@@ -23953,7 +23935,6 @@ txvia.com
 txvlog.com
 txxx.com
 txxx1.com
-ty.ru
 tycool.com
 tyler-brown.com
 tyms2022.com
@@ -26251,7 +26232,6 @@ xn--yt8h.la
 xn--ztsq84g.cn
 xnalgas.com
 xnertv.shop
-xnmotorrad.cr
 xnostars.com
 xnpool.com
 xnxvideos.org
