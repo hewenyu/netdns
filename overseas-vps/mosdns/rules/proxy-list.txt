@@ -1,10 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-.br
-.com
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2066,9 +2065,9 @@ appleexpo.eu
 appleexpo.info
 applefilmaker.com
 applefilmmaker.com
-applefinalcutproworld.com
 applefinalcutproworld.net
 applefinalcutproworld.org
+applefinalcutproworldenai.com
 applefruity.com
 applehealth.com.hk
 applehongkong.com
@@ -3123,7 +3122,7 @@ beatsaudiobydre.net
 beatsaudios.net
 beatsbeatsmonster.com
 beatsbestdeals.com
-beatsblackfridaydeals.net
+beatsblackfridaydeals.liocommons.com
 beatsblackfridayretails.com
 beatsboxingdayuksale.com
 beatsbydrdre-headphones.com
@@ -8500,7 +8499,6 @@ fallenark.com
 falsefire.com
 falunasia.info
 falunau.org
-falundafa-.net
 falundafa-florida.org
 falundafa-nc.org
 falundafa-pa.net
@@ -12722,7 +12720,7 @@ idelreal.org
 identi.ca
 identrust.co.uk
 identrust.com
-identrust000webhost.com
+identrust.net
 idiomconnection.com
 idnike.com
 idol-sagasukun.com
@@ -13963,6 +13961,7 @@ jerkofftocelebs.com
 jessicaturner.co.uk
 jessicaturner.com
 jetbrains.ai
+jetbrains.cloud
 jetbrains.com
 jetbrains.dev
 jetbrains.net
@@ -13970,7 +13969,6 @@ jetbrains.org
 jetbrains.ru
 jetbrains.space
 jetbrains.team
-jetbrainsnc.org
 jetfuelapp.com
 jetfuelapps.com
 jex.com
@@ -17140,6 +17138,7 @@ nervanasys.com
 nesaporn.com
 nesaporn.mobi
 nest.com
+net
 netacad.com
 netacad.net
 netalert.me
@@ -18207,8 +18206,8 @@ oojj.de
 ooni.io
 ooni.org
 ootbstudio.co.kr
-op.cloud
 op.gg
+op000webhost.com
 op7979.com
 opac-project.eu
 open.firstory.me
@@ -22044,7 +22043,6 @@ souka.xyz
 soulcaliburhentai.net
 soundcloud.cloud
 soundcloud.com
-soundcloudenai.com
 soundofhope.eu
 soundofhope.kr
 soundofhope.org
@@ -22163,7 +22161,6 @@ springboardplatform.com
 springer.com
 springerlink.com
 springernature.com
-springrbuckspoq.com
 springwood.me
 sprinklesapp.com
 sproutcore.com
@@ -22311,6 +22308,7 @@ starbuckscoffeegear.com
 starbuckscoffeegearstore.com
 starbucksforlife.ca
 starbucksforlife.com
+starbuckspoq.com
 starbucksreserve.com
 starbucksrewardsstarland.ca
 starbucksrewardsstarland.com
@@ -22321,7 +22319,6 @@ starbuckssummergame.ca
 starbuckssummergame.com
 starcraft.com
 starcraft2.com
-stareabble.com
 starfieldtech.com
 starfox.com
 stargazer-games.com
@@ -24281,6 +24278,7 @@ vanish.co.nz
 vanish.co.uk
 vanish.co.za
 vanish.com.ar
+vanish.com.br
 vanish.com.co
 vanish.com.hr
 vanish.com.mx
@@ -24288,7 +24286,6 @@ vanish.com.my
 vanish.com.pe
 vanish.com.sg
 vanish.com.tr
-vanish.comwood.me
 vanish.de
 vanish.dk
 vanish.es
@@ -25114,6 +25111,7 @@ voyeurpapa.com
 voyeurporntapes.com
 voyeurstyle.com
 voyeurweb.com
+vpl.bib.com
 vpl.bibliocommons.com
 vpn.ac
 vpn.cmu.edu
