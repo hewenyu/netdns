@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -35531,7 +35531,6 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -36024,6 +36023,7 @@ full:store.apple.com.edgekey.net
 full:store.apple.com.edgekey.net.globalredir.akadns.net
 full:store.storeimages.apple.com.akadns.net
 full:store.storeimages.cdn-apple.com
+full:store.storeimagesncentclb.cloud
 full:storecorefulfillment.download.prss.microsoft.com
 full:storeedge.microsoft.com
 full:storeedgefd.dsx.mp.microsoft.com
@@ -63509,6 +63509,7 @@ lzznbyq.com
 lzzrgas.com
 lzzy.net
 lzzyy.com
+m
 m-edu.com
 m-hero.com
 m1.run
@@ -89667,7 +89668,7 @@ tpbook.com
 tpccoo.com
 tpdmp.com
 tpdz.net
-tpe-tencentclb.cloud
+tpe-tefull:a1.mzstatic.com
 tpe-tencentclb.com
 tpe-tencentclb.net
 tpe-tencentclb.work
@@ -91011,7 +91012,7 @@ uc123.com
 uc129.com
 uc138.com
 uc1z.com
-uc2008.com
+uc2008.co.cdn-apple.com
 uc23.net
 uc56.com
 uc666.com

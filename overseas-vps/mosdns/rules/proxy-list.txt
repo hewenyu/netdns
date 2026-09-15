@@ -2065,9 +2065,9 @@ appleexpo.eu
 appleexpo.info
 applefilmaker.com
 applefilmmaker.com
+applefinalcutproworld.com
 applefinalcutproworld.net
 applefinalcutproworld.org
-applefinalcutproworldenai.com
 applefruity.com
 applehealth.com.hk
 applehongkong.com
@@ -3122,7 +3122,7 @@ beatsaudiobydre.net
 beatsaudios.net
 beatsbeatsmonster.com
 beatsbestdeals.com
-beatsblackfridaydeals.liocommons.com
+beatsblackfridaydeals.net
 beatsblackfridayretails.com
 beatsboxingdayuksale.com
 beatsbydrdre-headphones.com
@@ -9820,6 +9820,7 @@ full:opgg-static.akamaized.net
 full:origin-a.akamaihd.net
 full:osu.ppy.sh
 full:p-events-delivery.akamaized.net
+full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 full:p16-tiktokcdn-com.akamaized.net
 full:packages.microsoft.com
 full:paper-attachments.s3.amazonaws.com
@@ -17138,7 +17139,6 @@ nervanasys.com
 nesaporn.com
 nesaporn.mobi
 nest.com
-net
 netacad.com
 netacad.net
 netalert.me
@@ -18207,7 +18207,6 @@ ooni.io
 ooni.org
 ootbstudio.co.kr
 op.gg
-op000webhost.com
 op7979.com
 opac-project.eu
 open.firstory.me
@@ -22484,6 +22483,9 @@ stripcamfun.com
 stripchat.com
 stripe-terminal-local-reader.net
 stripe.com
+stripe.dev
+stripe.events
+stripe.global
 stripe.network
 stripecdn.com
 stripparadise.com
@@ -25111,7 +25113,6 @@ voyeurpapa.com
 voyeurporntapes.com
 voyeurstyle.com
 voyeurweb.com
-vpl.bib.com
 vpl.bibliocommons.com
 vpn.ac
 vpn.cmu.edu
