@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+.com
 000webhost.com
 01.org
 02weqj32.com
@@ -2065,9 +2066,9 @@ appleexpo.eu
 appleexpo.info
 applefilmaker.com
 applefilmmaker.com
-applefinalcutproworld.com
 applefinalcutproworld.net
 applefinalcutproworld.org
+applefinalcutproworldapplecensorship.com
 applefruity.com
 applehealth.com.hk
 applehongkong.com
@@ -5752,6 +5753,7 @@ code-class.ru
 code.org
 codeberg.org
 codeberg.page
+codebuff.com
 codecademy.com
 codeforaliving.io
 codeforces.com
@@ -8882,10 +8884,12 @@ fiotolia.com
 fire-emblem-heroes.com
 firearmsworld.net
 firebase.com
+firebase.dev
 firebase.io
 firebaseapp.com
 firebaseio.com
 fireemblemawakening.com
+firefox-portal-detection.com
 firefox.com
 firefox.hu
 firefoxtweetmachine.com
@@ -9301,6 +9305,7 @@ freebigmovies.com
 freebrowser.org
 freebs.com
 freebsd.org
+freebuff.com
 freecamsfan.com
 freecartoons.biz
 freechatnow.com
@@ -9678,9 +9683,10 @@ full:fandom.zendesk.com
 full:faronics.kayako.com
 full:favoritescc-hamivideo2.cdn.hinet.net
 full:fbcdn-a.akamaihd.net
-full:firebase.google.com
 full:firebase.googleapis.com
 full:firebaseappcheck.googleapis.com
+full:firebaseappdistribution.googleapis.com
+full:firebaseapptesters.googleapis.com
 full:firebasedynamiclinks-ipv4.googleapis.com
 full:firebasedynamiclinks-ipv6.googleapis.com
 full:firebasedynamiclinks.googleapis.com
@@ -23011,6 +23017,7 @@ textnow.com
 textnow.me
 texttobuy.org
 texture.com
+tfbnw.net
 tfc-taiwan.org.tw
 tferwq.com
 tfhub.dev
