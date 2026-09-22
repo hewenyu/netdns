@@ -1,8 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
+0.zone
 00.net
 000.link
 000000.net
@@ -24433,7 +24434,6 @@ colourlife.com
 columbia-china.com
 columbia-kaiyuan.com
 columbia-wuxi.com
-com
 com.fi
 com.mp
 com.tv
@@ -35532,7 +35532,6 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -42043,7 +42042,7 @@ gyjc88.com
 gyjdgs.com
 gyjiangyuan.com
 gyjs.net
-gykgcqtm.full:a1.mzstatic.com
+gykgcqtm.com
 gykggz.com
 gykghb.com
 gykgsx.com

@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -930,7 +930,7 @@ adskeng.net
 adskengineering.net
 adskengpp.net
 adskengpr.net
-adtcc.com
+adtefly.com
 adtidy.net
 adtidy.org
 adult
@@ -2068,7 +2068,7 @@ applefilmaker.com
 applefilmmaker.com
 applefinalcutproworld.net
 applefinalcutproworld.org
-applefinalcutproworldapplecensorship.com
+applefinalcutproworldlian.net
 applefruity.com
 applehealth.com.hk
 applehongkong.com
@@ -3123,7 +3123,7 @@ beatsaudiobydre.net
 beatsaudios.net
 beatsbeatsmonster.com
 beatsbestdeals.com
-beatsblackfridaydeals.net
+beatsblackfridaydeals.ooni.org
 beatsblackfridayretails.com
 beatsboxingdayuksale.com
 beatsbydrdre-headphones.com
@@ -3299,7 +3299,6 @@ beatsheadphonesforcheap.net
 beatsheadphonesonline.com
 beatsheadphoness.com
 beatsheadphonestudio.com
-beatsheadphonesusamall.com
 beatshopuk.com
 beatsincanada.com
 beatsinsingapore.com
@@ -4760,6 +4759,7 @@ bwh88.net
 bwh89.net
 bwhstatus.com
 bwin.com
+bx.com.au
 bx.in.th
 byabcde.com
 byapis.com
@@ -4803,6 +4803,7 @@ cableav.xyz
 cablegatesearch.net
 cabletv.com.hk
 cabletvdirectv.com
+cach000webhost.com
 cachefly.com
 cachefly.net
 cacnw.com
@@ -5413,6 +5414,7 @@ chinesedemocracy.com
 chinesegay.org
 chinesen.de
 chinesenews.net.au
+chineseposters.net
 chineseradioseattle.com
 chinesespanking.com
 chineseupress.com
@@ -7484,6 +7486,7 @@ easynike.com
 easypic.com
 easysexporn.com
 eater.com
+eatsheadphonesusamall.com
 ebahy.com
 ebalovo.com
 ebates.ca
@@ -11840,6 +11843,7 @@ hentaizilla.com
 hentaizz.net
 henti-night.com
 heptio.com
+heqingcc.com
 heqinglian.net
 heraldsun.com.au
 hereistheporn.com
@@ -17674,6 +17678,7 @@ nordvpn.com
 norsk.mobi
 norton.com
 nos.nl
+note.com
 notegpt.io
 notepad-plus-plus.org
 noticias-rt.com
@@ -26475,6 +26480,7 @@ xxxmovies.pro
 xxxn.me
 xxxn.tv
 xxxner.com
+xxxnet
 xxxnewvideos.com
 xxxnu.com
 xxxnxx.me
