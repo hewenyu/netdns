@@ -1,4 +1,4 @@
-# another-direct.net full:265.com
+# another-direct.net full:a1.mzstatic.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -35532,6 +35532,7 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
+full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -35704,6 +35705,7 @@ full:download.visualstudio.microsoft.com
 full:downloaddispatch.itunes.apple.com
 full:dreamspark.download.prss.microsoft.com
 full:dreamsparkuat.download.prss.microsoft.com
+full:drivers.amd.com
 full:edge.geo.kaspersky.com
 full:end-api.shallow.ink
 full:end.shallow.ink
@@ -82669,6 +82671,7 @@ sjez.com
 sjf029.com
 sjfcdn.com
 sjfh168.com
+sjfls6.com
 sjfpro.com
 sjfzxm.com
 sjg8.com
