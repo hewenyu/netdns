@@ -25881,9 +25881,9 @@ csjvision.com
 csjwang.com
 cskaoyan.com
 cskefu.com
+cskfull:a1.mzstatic.com
 cskjgc.com
 cskrl.com
-csksoft.net
 cskx.com
 cskxjk.com
 cslbbs.net
@@ -83553,6 +83553,7 @@ sofeiya.net
 sofi-tech.com
 sofoo.com
 sofreight.com
+soft.net
 soft128.com
 soft2005.com
 soft50.com
