@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -4790,6 +4789,7 @@ c-ij.com
 c-msedge.net
 c-span.org
 c-spanvideo.org
+c.go-mpulse.net
 c.mi.com
 c0930.com
 c2cx.com
@@ -6067,6 +6067,7 @@ csdparty.com
 cshive.com
 csifund.org
 csis.org
+csmo.jp
 csmonitor.com
 csrankings.org
 css.pixnet.in
@@ -7399,7 +7400,7 @@ dxyav.co
 dydx.exchange
 dyfl1.pw
 dykycl.com
-dynacw.co.jp
+dynacw.co000webhost.com
 dynacw.com
 dynacw.com.cn
 dynacw.com.hk
@@ -9031,6 +9032,7 @@ fontshop.com
 fontsinuse.com
 foofle.com
 fooooo.com
+footprint.net
 footprintdns.com
 footseen.com
 footstockings.com
@@ -10371,7 +10373,6 @@ gamemeca.com
 gameon-masters.com
 gameover.com.hk
 gamepass.com
-gamepedia.com
 gamer.com.tw
 gamer.ne.jp
 gameroom.com
@@ -11559,7 +11560,7 @@ hbo-europe.com
 hbo.ba
 hbo.bg
 hbo.com
-hbo.com.c.footprint.net
+hbo.com.c.dio.com.hk
 hbo.cz
 hbo.eu
 hbo.hr
@@ -13961,8 +13962,8 @@ jerk-porn.com
 jerk24.com
 jerkdolls.com
 jerkdude.com
+jerkmaoojj.de
 jerkmate.com
-jerkmate.tv
 jerkmatelive.org
 jerkofftocelebs.com
 jessicaturner.co.uk
@@ -15235,6 +15236,7 @@ madvr.net
 madvrlabs.llc
 maedahiroyuki.com
 mafia-linkz.to
+mag.com.tw
 mageconf.com
 mageconf.com.ua
 magento.com
@@ -15762,6 +15764,7 @@ metro.taipei
 metrolife.ca
 metropolitana.tokyo
 metroradio.com.hk
+metroragamepedia.com
 metrotoons.com
 meuhentai.com
 mewe.com
@@ -17299,6 +17302,7 @@ nexongames.co.kr
 nexpart.com
 nexpart.tv
 next.com
+next.es
 next.hk
 nextapple.com
 nextdigital.com.hk
@@ -17308,7 +17312,6 @@ nextfilm.com.hk
 nextgenerationcam.com
 nextgenerationcenter.com
 nextjs.org
-nextmag.com.tw
 nextmedia.com
 nextmedia.com.tw
 nextmgz.com
@@ -17608,6 +17611,7 @@ niosii.net
 nirsoft.net
 nishinipponbank.co.jp
 nist.gov
+nitor.com
 nitter.cc
 nitter.net
 niu.moe
@@ -24330,6 +24334,7 @@ vaultify.com
 vaultify.info
 vaultify.net
 vaultproject.io
+vava8.com
 vbcdn.com
 vbcdn.net
 vbejeyv.shop
@@ -24928,7 +24933,7 @@ voazimbabwe.com
 vocaroo.com
 vocus.cc
 vod-abematv.akamaized.net
-vod.wwe.com
+vod.wwe.cte.tv
 vod360.net
 vodafone.co.uk
 vodafone.com
@@ -26381,6 +26386,7 @@ xvideosjingxiang.com
 xvideosnovinha.com
 xvideosnovinha.com.br
 xvideosnovinhas.com
+xvideosom
 xvideostravestis.xxx
 xvideosup.com.br
 xvideosx.com.br
