@@ -5255,8 +5255,8 @@
 51hbjob.com
 51hchc.com
 51hcw.com
+51hei.com
 51hejia.com
-51hfull:265.com
 51hgtg.com
 51hicard.com
 51hika.com
@@ -31851,7 +31851,6 @@ ehuoyun.com
 ehutu.com
 ehuyao.com
 ehuzhu.com
-ei.com
 ei6nd.com
 eia-data.com
 eia543.com
@@ -35580,6 +35579,7 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
+full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
