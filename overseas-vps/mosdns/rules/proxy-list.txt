@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+-pay.ru
 000webhost.com
 01.org
 02weqj32.com
@@ -1759,7 +1760,7 @@ animehentaihub.com
 animeidhentai.com
 animepornhd.com
 animesex.me
-animesexhq.com
+animesoojj.de
 animestigma.com
 animezilla.com
 aniscartujo.com
@@ -2331,7 +2332,6 @@ ashemaletube.com
 ashemaletv.com
 ashikagabank.co.jp
 ashleysageellison.com
-asia-pay.ru
 asiacrazy.xyz
 asiaharvest.org
 asiamoviepass.com
@@ -2363,6 +2363,7 @@ asiansmaster.com
 asianthumbs.org
 asianwifeporn.com
 asianxxxvideos.cc
+asiaom
 asiaone.com
 asiasociety.org
 asjmapihost.cc
@@ -9704,6 +9705,8 @@ full:foxnewsplayer-a.akamaihd.net
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
 full:gamer2-cds.cdn.hinet.net
+full:geminiweb-pa.clients.google.com
+full:geminiweb-pa.clients6.google.com
 full:gigabyte2.azureedge.net
 full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
@@ -12442,6 +12445,7 @@ huanyuju.com
 huaren.us
 huarenav.com
 huarenporn.com
+huarun.win
 huashangnews.com
 huashundg.com
 huati.cc
@@ -15741,6 +15745,7 @@ messytube.com
 met-nude.com
 meta.ai
 meta.com
+metaaivm.com
 metabora.io
 metabrainz.org
 metacloud.com
@@ -16752,6 +16757,7 @@ musashinobank.co.jp
 muscache.com
 muscdn.com
 musclegirlflix.com
+muse.ai
 mushroomtrack.com
 mushymush.tv
 music.amazon.com
@@ -18229,6 +18235,7 @@ openart.ai
 openbook.org.tw
 opencas.io
 openclaw.ai
+opencode.ai
 opencollective.com
 opencreate.org
 opencritic.com
@@ -24930,7 +24937,7 @@ voazimbabwe.com
 vocaroo.com
 vocus.cc
 vod-abematv.akamaized.net
-vod.wwe.com
+vod.wwe.cexhq.com
 vod360.net
 vodafone.co.uk
 vodafone.com
