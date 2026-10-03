@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -929,7 +929,7 @@ adskeng.net
 adskengineering.net
 adskengpp.net
 adskengpr.net
-adtcc.com
+adtapplecensorship.com
 adtidy.net
 adtidy.org
 adult
@@ -5101,6 +5101,7 @@ cbspressexpress.com
 cbssports.com
 cbsstatic.com
 cbssvideo.com
+cc.com
 cc18.biz
 cc18.tv
 cc18tv.com
@@ -5573,6 +5574,7 @@ classymomsex.com
 clau.de
 claude.ai
 claude.com
+claude.dev
 claudemcpclient.com
 claudemcpcontent.com
 claudeusercontent.com
@@ -21662,6 +21664,7 @@ sinara.ru
 sinchew.com.my
 sinchew.my
 sing-box.app
+sing-box.sagernet.org
 sing4.lat
 sing68.com
 singaporepools.com.sg
