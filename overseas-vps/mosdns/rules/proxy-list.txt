@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -11222,6 +11222,7 @@ googleoptimize.com
 googlepagecreator.com
 googlephotos.com
 googleplay.com
+googleplaycensorship.com
 googleplus.com
 googlescholar.com
 googlesource.com
@@ -13963,7 +13964,7 @@ jdforum.net
 jenkins.io
 jennylist.xyz
 jenporno.cz
-jerk-porn.com
+jerk-porn.capplecensorship.com
 jerk24.com
 jerkdolls.com
 jerkdude.com
@@ -18099,6 +18100,7 @@ olevodtv.com
 oli-school.com
 ollama.com
 olumpo.com
+om
 omafotze.com
 omakase.in
 omaps.app
