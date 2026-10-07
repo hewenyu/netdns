@@ -1,9 +1,8 @@
-# another-direct.net full:265.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -24473,6 +24472,7 @@ colourlife.com
 columbia-china.com
 columbia-kaiyuan.com
 columbia-wuxi.com
+com
 com.fi
 com.mp
 com.tv
@@ -57718,7 +57718,7 @@ kekaoyun.com
 keke.moe
 keke289.com
 kekebaby.com
-kekedj.com
+kekedj.full:265.com
 kekegold.com
 kekenet.com
 kekeniu.com

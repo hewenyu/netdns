@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -1072,6 +1072,7 @@ ai7995.site
 ai91porn.cc
 aiaa.org
 aiasahi.jp
+aidc.com.tw
 aihub.top
 aimei133.com
 aimsciences.org
@@ -3913,6 +3914,7 @@ blpevents.com
 blpprofessional.com
 blubank.com
 blubrry.com
+blue-plus.net
 bluearchive.jp
 bluefootcms.com
 bluehatil.com
@@ -4906,6 +4908,7 @@ candidforum-videos.com
 candycrush.com
 candycumcity.com
 candypleasure.com
+cangku.moe
 canny.io
 canon
 canon-cee.com
@@ -5977,6 +5980,7 @@ coze.com
 cozydrdrebeats.com
 cp44.net
 cpan.org
+cpc.com.tw
 cpedge.com
 cpj.org
 cplsb.ru
@@ -6065,6 +6069,7 @@ crystalmiss.com
 cs.co
 cs4hs.com
 csakporno.hu
+csc.com.tw
 csdparty.com
 cshive.com
 csifund.org
@@ -6686,6 +6691,7 @@ dfvpn.com
 dgaqp.com
 dgg.gg
 dgwav.com
+dh.net
 dh44.lol
 dhlestudio.com.co
 diablo.com
@@ -8165,6 +8171,7 @@ exeporn.net
 exgfvideos.xxx
 exgirlfriendmarket.com
 exhentai.org
+eximbank.com.tw
 exiporn.com
 exmo.com
 exmormon.org
@@ -11511,7 +11518,9 @@ hanime.me
 hanime.tv
 hanime.xxx
 hanime.xyz
+hanime1.com
 hanime1.me
+hanimeone.me
 hanr-bao.mom
 hanzhen.xmulib.org
 hao21.xyz
@@ -12625,6 +12634,7 @@ ibradome.com
 ibvpn.com
 icashpassport.com.mx
 iccf.com
+icdf.org.tw
 icedrive.net
 icegay.tv
 icegaytube.tv
@@ -13082,6 +13092,7 @@ indiemerch.com
 indienudes.com
 indies-av.co.jp
 indonesiaporn.name
+indsr.org.tw
 industrialtoys.com
 inews-api.tvb.com
 infinitetoons.com
@@ -13466,6 +13477,7 @@ ip.gs
 ip.sb
 ip73.com
 ipa-iphone.net
+ipac.global
 ipad.co.kr
 ipad.de
 ipad.host
@@ -13830,6 +13842,7 @@ javbuz.com
 javcc.cc
 javcc.com
 javcdn.cc
+javchu.com
 javcl.com
 javct.net
 javcup.com
@@ -13964,7 +13977,7 @@ jdforum.net
 jenkins.io
 jennylist.xyz
 jenporno.cz
-jerk-porn.capplecensorship.com
+jerk-porn.com
 jerk24.com
 jerkdolls.com
 jerkdude.com
@@ -14385,6 +14398,7 @@ kgslb.com
 khanacademy.org
 khangar.net
 khatrimaza.org
+khc.edu.tw
 khotruyentranhx.com
 kichiku-doujinko.com
 kichikuou.com
@@ -14628,6 +14642,7 @@ lama.com.tw
 lamayeshe.com
 lamnia.co.uk
 lanasbigboobs.com
+landbank.com.tw
 landofhope.tv
 langchain.com
 langsuirs.com
@@ -15517,6 +15532,7 @@ matchmover.com
 mate-desktop.org
 material.io
 mathoverflow.net
+matichon.co.th
 matome-plus.com
 matome-plus.net
 matrix.org
@@ -16263,6 +16279,7 @@ mirabilis.com
 miraheze.org
 mirailab.tech
 mirandaicq.com
+mirdc.org.tw
 miroguide.com
 mirror.xyz
 mirrorbooks.com
@@ -16386,6 +16403,7 @@ moeero-library.com
 moeerolibrary.com
 moefuns.co
 moeimg.net
+moeli-desu.com
 moepedia.net
 moeshare.cc
 moez-m.com
@@ -17053,6 +17071,7 @@ nationalgeographic.com
 nationalgeographicpartners.com
 nationalinterest.org
 nationalreview.com
+nationthailand.com
 nationwide.com
 nativeincolour.com.au
 naturalvoices.com
@@ -17107,6 +17126,7 @@ ndi.org
 near.by
 nebay.net
 neborder.com
+ned.org
 nee4you.com
 needforspeed.com
 needforspeedboost.com
@@ -17734,6 +17754,7 @@ nsfwmemes.com
 nsimg.net
 nsloon.com
 nspk.ru
+nstc.org.tw
 ntc.party
 ntd.com
 ntd.tv
@@ -18100,7 +18121,6 @@ olevodtv.com
 oli-school.com
 ollama.com
 olumpo.com
-om
 omafotze.com
 omakase.in
 omaps.app
@@ -19181,6 +19201,7 @@ pokemonvgc.com
 pokemonwifi.net
 pokerstars.com
 pokerstars.net
+poland.tw
 politicalchina.org
 poloniex.com
 polygon.com
@@ -20617,6 +20638,7 @@ rocksextube.com
 rockstargames.com
 rockstarnorth.com
 rockylinux.org
+rocmgov.org
 rojo.com
 roku.com
 rokutime.com
@@ -23032,6 +23054,7 @@ texttobuy.org
 texture.com
 tfbnw.net
 tfc-taiwan.org.tw
+tfd.org.tw
 tferwq.com
 tfhub.dev
 tfiflve.com
@@ -23732,6 +23755,7 @@ tsyum.com
 tt1069.com
 ttcdn-us.com
 tteshop.com
+ttl.com.tw
 ttlivecdn.com
 ttoverseaus.net
 tttan.com
@@ -23877,6 +23901,7 @@ tweetwally.com
 tweez.net
 twelve.today
 twerkingbutt.com
+twfhcsec.com.tw
 twftp.org
 twgov.tw
 twgreatdaily.com
@@ -23959,6 +23984,7 @@ txvia.com
 txvlog.com
 txxx.com
 txxx1.com
+tybio.com.tw
 tycool.com
 tyler-brown.com
 tyms2022.com
@@ -25200,6 +25226,7 @@ vsassets.io
 vscale.blog
 vscale.io
 vscale.ru
+vscc.org.tw
 vscode-cdn.net
 vscode-unpkg.net
 vscode-webview.net
@@ -26407,6 +26434,7 @@ xvxx.stream
 xvxxtube.com
 xwbo.com
 xx-map.com
+xx.net
 xx9.app
 xxbay.com
 xxbook.cc
