@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -15696,6 +15696,7 @@ meetyourdevices.com
 mega.co.nz
 mega.io
 mega.nz
+megaad.nz
 megacamz.com
 megaeth.com
 megafilmporno.com
@@ -15706,11 +15707,13 @@ megalodon.jp
 megamarket.ru
 megamarket.tech
 megamon.co.kr
+megapay.nz
 megaphone.fm
 megapornfreehd.com
 megaporno.com.br
 megapornpics.com
 megaproxy.com
+megas4.com
 megasrv.de
 megatitsminka.com
 megogo.net
@@ -23627,6 +23630,7 @@ trans500.com
 transangels.com
 transarmuito.com
 transcamslive.com
+transfer.it
 transferwise.com
 translate.goog
 translatetheweb.com
