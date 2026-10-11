@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -5197,7 +5198,7 @@ celebritymoviearchive.com
 celebritynakeds.com
 celebrityslips.com
 celebritystorysite.com
-celebspapplecensorship.com
+celebsporno.com
 celebsroulette.com
 celeron.com
 celeron.net
@@ -8501,7 +8502,7 @@ facesbooc.com
 facesofnyfw.com
 facesoftibetanselfimmolators.info
 facesounds.com
-facetim000webhost.com
+facetime.net
 facetook.com
 facevbook.com
 facewbook.co
@@ -10375,10 +10376,10 @@ fxporn.net
 fzdm.com
 fzdshare.net
 g-area.org
-g-edu.tw
 g-ib.ae
 g-ib.ru
 g-ib.sg
+g-ib.us
 g-queen.com
 g-technology.com
 g-tun.com
@@ -11573,12 +11574,12 @@ happymeal.com
 happymeal.com.au
 happymealdigital.com
 happysrv.de
+hardcore-sex-filme.com
 hardcoregayblog.com
 hardsex8.com
 hardsextube.com
 hardx.com
 harica.gr
-harokx.com
 harperacademic.com
 harperapps.com
 harpercollins.ca
@@ -11729,7 +11730,6 @@ hebiphone.com
 hec.su
 hecaitou.net
 hechaji.com
-heeact.e.net
 heeact.edu.tw
 hegre-art.com
 hegre.com
@@ -12643,7 +12643,6 @@ iana.org
 iask.ca
 iavian.net
 iavnight.com
-ib.us
 ibamoscow.ru
 ibb.co
 ibeats-uk.com
@@ -16250,8 +16249,8 @@ miningpoolhub.com
 minioakville.com
 miniofmonrovia.com
 minipetfriendly.com
-minirichjp
 minirichmond.ca
+minirichmond.com
 minisaskatoon.ca
 minisaskatoon.com
 minisexdoll.com
@@ -16504,7 +16503,6 @@ momtarts3d.com
 momtube.club
 monaitv.me
 monbeats2013.com
-mond.com
 mondex.org
 moneta.ru
 money-link.com.tw
@@ -18410,7 +18408,6 @@ orithegame.com
 orl.ly
 orlandohurricane.com
 orn.jp
-orno.com
 orsm.net
 orthopaedic-cadcam.com
 orthotics-cadcam.com
@@ -20104,7 +20101,6 @@ radeon.com
 radgametools.com
 radian6.com
 radiko-cf.com
-radiko.dcore-sex-filme.com
 radiko.jp
 radio-canada.ca
 radio-en-ligne.fr
