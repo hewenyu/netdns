@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -4812,6 +4812,7 @@ c-spanvideo.org
 c.go-mpulse.net
 c.mi.com
 c0930.com
+c2applecensorship.com
 c2cx.com
 c3pool.com
 c4rex.co
@@ -6191,6 +6192,7 @@ cutt.ly
 cve.org
 cw.com.tw
 cwcams.com
+cx.com
 cxacg.com
 cy22.tv
 cyber-bay.info
