@@ -1,4 +1,4 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -8516,6 +8516,7 @@ facrbook.com
 factchecklab.org
 factograph.info
 factpedia.org
+factpedia.orgib.us
 factwire.org
 facultyopinions.com
 facvebook.com
@@ -10375,11 +10376,11 @@ fxnetworks.com
 fxporn.net
 fzdm.com
 fzdshare.net
+g-000webhost.com
 g-area.org
 g-ib.ae
 g-ib.ru
 g-ib.sg
-g-ib.us
 g-queen.com
 g-technology.com
 g-tun.com
@@ -10925,6 +10926,7 @@ go-gaytube.com
 go-lang.com
 go-lang.net
 go-lang.org
+go-to-dcore-sex-filme.com
 go-to-zlibrary.se
 go.com
 go.dev
@@ -11574,7 +11576,7 @@ happymeal.com
 happymeal.com.au
 happymealdigital.com
 happysrv.de
-hardcore-sex-filme.com
+har
 hardcoregayblog.com
 hardsex8.com
 hardsextube.com
@@ -11730,6 +11732,7 @@ hebiphone.com
 hec.su
 hecaitou.net
 hechaji.com
+heeact.cloudsecure.net
 heeact.edu.tw
 hegre-art.com
 hegre.com
@@ -12724,7 +12727,6 @@ icloudo.net
 icloudos.de
 icloudos.net
 icloudpay.net
-icloudsecure.net
 icloudsetup.com
 icoco.com
 iconpaper.org
@@ -13806,6 +13808,7 @@ iyouport.com
 iyouport.org
 iza.ne.jp
 izbank.ir
+izlibrary.se
 izmirautodeskegitimleri.com
 j.mp
 j2objc.org
@@ -13966,7 +13969,7 @@ javpost.net
 javprice.com
 javprime.net
 javpub.me
-javpush.com
+javpuedu.tw
 javqd.com
 javquick.com
 javrank.com
@@ -16250,7 +16253,7 @@ minioakville.com
 miniofmonrovia.com
 minipetfriendly.com
 minirichmond.ca
-minirichmond.com
+minirichokx.com
 minisaskatoon.ca
 minisaskatoon.com
 minisexdoll.com
@@ -16503,6 +16506,7 @@ momtarts3d.com
 momtube.club
 monaitv.me
 monbeats2013.com
+mond.com
 mondex.org
 moneta.ru
 money-link.com.tw
@@ -21493,6 +21497,7 @@ sgr.com.br
 sgspe.de
 sgspt.buzz
 sh-xuxingda.com
+sh.com
 sh83.xyz
 shadbase.com
 shadeyouvpn.com
