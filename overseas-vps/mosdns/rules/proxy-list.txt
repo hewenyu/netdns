@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -7402,7 +7401,7 @@ durex.us
 durexcam.com
 durexcanada.com
 durexchina.com
-durexindia.com
+durexi000webhost.com
 durexloveclub.com
 durexukraine.com
 durexusa.com
@@ -8516,7 +8515,6 @@ facrbook.com
 factchecklab.org
 factograph.info
 factpedia.org
-factpedia.orgib.us
 factwire.org
 facultyopinions.com
 facvebook.com
@@ -10376,8 +10374,8 @@ fxnetworks.com
 fxporn.net
 fzdm.com
 fzdshare.net
-g-000webhost.com
 g-area.org
+g-edu.tw
 g-ib.ae
 g-ib.ru
 g-ib.sg
@@ -10926,7 +10924,6 @@ go-gaytube.com
 go-lang.com
 go-lang.net
 go-lang.org
-go-to-dcore-sex-filme.com
 go-to-zlibrary.se
 go.com
 go.dev
@@ -11576,7 +11573,7 @@ happymeal.com
 happymeal.com.au
 happymealdigital.com
 happysrv.de
-har
+hardcore-sex-filme.com
 hardcoregayblog.com
 hardsex8.com
 hardsextube.com
@@ -11732,8 +11729,8 @@ hebiphone.com
 hec.su
 hecaitou.net
 hechaji.com
-heeact.cloudsecure.net
 heeact.edu.tw
+heeact.ndia.com
 hegre-art.com
 hegre.com
 heiguab.top
@@ -12646,6 +12643,7 @@ iana.org
 iask.ca
 iavian.net
 iavnight.com
+ib.us
 ibamoscow.ru
 ibb.co
 ibeats-uk.com
@@ -12727,6 +12725,7 @@ icloudo.net
 icloudos.de
 icloudos.net
 icloudpay.net
+icloudsecure.net
 icloudsetup.com
 icoco.com
 iconpaper.org
@@ -13808,7 +13807,6 @@ iyouport.com
 iyouport.org
 iza.ne.jp
 izbank.ir
-izlibrary.se
 izmirautodeskegitimleri.com
 j.mp
 j2objc.org
@@ -13969,7 +13967,7 @@ javpost.net
 javprice.com
 javprime.net
 javpub.me
-javpuedu.tw
+javpuokx.com
 javqd.com
 javquick.com
 javrank.com
@@ -16253,7 +16251,7 @@ minioakville.com
 miniofmonrovia.com
 minipetfriendly.com
 minirichmond.ca
-minirichokx.com
+minirichmond.com
 minisaskatoon.ca
 minisaskatoon.com
 minisexdoll.com
@@ -16506,7 +16504,6 @@ momtarts3d.com
 momtube.club
 monaitv.me
 monbeats2013.com
-mond.com
 mondex.org
 moneta.ru
 money-link.com.tw
@@ -19183,6 +19180,7 @@ playshowtv.com
 playstation
 playstation.com
 playstation.net
+playstationnetwork.com
 playvalorant.com
 playvids.com
 playwarcraft3.com
@@ -21102,6 +21100,7 @@ scatvids.club
 scatville.com
 scb.ru
 scdn.co
+scea.com
 scene7.com
 scenesource.me
 scharferporno.com
@@ -22072,6 +22071,7 @@ sony.com.ni
 sony.com.pa
 sony.com.pe
 sony.com.ph
+sony.com.py
 sony.com.sg
 sony.com.sv
 sony.com.tr
@@ -22115,8 +22115,10 @@ sonydesign.com
 sonydna.com
 sonyentertainmentnetwork.com
 sonyglobalsolutions.jp
+sonyinteractive.com
 sonykigyo.jp
 sonylatvija.com
+sonymusic.com.hk
 sonynetwork.co.jp
 sonypcl.jp
 sonypictures.com
