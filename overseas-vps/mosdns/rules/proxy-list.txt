@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+.com
 01.org
 02weqj32.com
 04647.club
@@ -492,6 +493,7 @@
 7tb.cc
 7tv.app
 7tv.io
+7x24hrs.com
 8-d.com
 8008206616.com
 8111y.top
@@ -7401,7 +7403,7 @@ durex.us
 durexcam.com
 durexcanada.com
 durexchina.com
-durexi000webhost.com
+durexindia.com
 durexloveclub.com
 durexukraine.com
 durexusa.com
@@ -8500,7 +8502,7 @@ facerbook.com
 facesbooc.com
 facesofnyfw.com
 facesoftibetanselfimmolators.info
-facesounds.com
+facesoundsapplecensorship.com
 facetime.net
 facetook.com
 facevbook.com
@@ -8981,6 +8983,7 @@ five-d.com
 fivestarpornsites.com
 fixtracking.com
 fjlkajhgfa.top
+fl.com
 fl310.com
 flagrasamadores.net
 flameunleashed.com
@@ -10375,10 +10378,10 @@ fxporn.net
 fzdm.com
 fzdshare.net
 g-area.org
-g-edu.tw
 g-ib.ae
 g-ib.ru
 g-ib.sg
+g-ib.us
 g-queen.com
 g-technology.com
 g-tun.com
@@ -11730,7 +11733,6 @@ hec.su
 hecaitou.net
 hechaji.com
 heeact.edu.tw
-heeact.ndia.com
 hegre-art.com
 hegre.com
 heiguab.top
@@ -12643,7 +12645,6 @@ iana.org
 iask.ca
 iavian.net
 iavnight.com
-ib.us
 ibamoscow.ru
 ibb.co
 ibeats-uk.com
@@ -13936,6 +13937,7 @@ javhihi.com
 javhub.com
 javhub.me
 javhub.net
+javhub.nhere.info
 javhuge.com
 javidol.org
 javjack.com
@@ -13967,7 +13969,7 @@ javpost.net
 javprice.com
 javprime.net
 javpub.me
-javpuokx.com
+javpush.com
 javqd.com
 javquick.com
 javrank.com
@@ -15440,7 +15442,7 @@ marvel.com
 marvel10thanniversary.com
 marveldimensionofheroes.com
 marvelparty.net
-marvelpinball.com
+marvelpinbal000webhost.com
 marvelsdoubleagent.com
 marvelspotlightplays.com
 marvelsuperheroseptember.com
@@ -17224,6 +17226,7 @@ nervanasys.com
 nesaporn.com
 nesaporn.mobi
 nest.com
+net
 netacad.com
 netacad.net
 netalert.me
@@ -18145,6 +18148,7 @@ okbank.ru
 okcdn.ru
 okcoin.com
 okex.com
+okexxy.com
 okinawabank.co.jp
 okiwine.jp
 okk.tw
@@ -18751,6 +18755,7 @@ paypal.jp
 paypal.me
 paypal.so
 paypal.us
+paypalactpedia.org
 paypalbeacon.com
 paypalbenefits.com
 paypalbrasil.com
@@ -18762,7 +18767,6 @@ paypalcredit.com
 paypalcreditcard.com
 paypalgivingfund.org
 paypalhere.com
-paypalhere.info
 paypalhere.net
 paypalhere.org
 paypalhere.tv
@@ -19875,7 +19879,7 @@ publicagentxxx.com
 publicpornvideo.com
 publicsexhub.com
 publicsuffix.org
-publishproxy.com
+publishproet
 pubmatic.co.jp
 pubmatic.com
 pubu.com.tw
@@ -20080,6 +20084,7 @@ qysg7.buzz
 qysg8.buzz
 qz.com
 qzav.tv
+r-pool.ganggangkaishi.org
 r-pool.net
 r-project.org
 r0.ru
@@ -21496,7 +21501,6 @@ sgr.com.br
 sgspe.de
 sgspt.buzz
 sh-xuxingda.com
-sh.com
 sh83.xyz
 shadbase.com
 shadeyouvpn.com
@@ -26971,7 +26975,7 @@ yinmh.com
 yinshuiger.info
 yinya.shop
 yipub.com
-yiqiedoushiganggangkaishi.org
+yiqiedoushi.com
 yizhihongxing.com
 yjcontentdelivery.com
 ylands.com
