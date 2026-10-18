@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-.com
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -6167,6 +6167,7 @@ cursor-cdn.com
 cursor.com
 cursor.sh
 cursorapi.com
+cursorvm.com
 curve.fi
 curvefish.com
 curvybbwwives.com
@@ -8502,7 +8503,7 @@ facerbook.com
 facesbooc.com
 facesofnyfw.com
 facesoftibetanselfimmolators.info
-facesoundsapplecensorship.com
+facesounds.com
 facetime.net
 facetook.com
 facevbook.com
@@ -8983,7 +8984,6 @@ five-d.com
 fivestarpornsites.com
 fixtracking.com
 fjlkajhgfa.top
-fl.com
 fl310.com
 flagrasamadores.net
 flameunleashed.com
@@ -13937,7 +13937,6 @@ javhihi.com
 javhub.com
 javhub.me
 javhub.net
-javhub.nhere.info
 javhuge.com
 javidol.org
 javjack.com
@@ -15442,7 +15441,7 @@ marvel.com
 marvel10thanniversary.com
 marveldimensionofheroes.com
 marvelparty.net
-marvelpinbal000webhost.com
+marvelpinball.com
 marvelsdoubleagent.com
 marvelspotlightplays.com
 marvelsuperheroseptember.com
@@ -17226,7 +17225,6 @@ nervanasys.com
 nesaporn.com
 nesaporn.mobi
 nest.com
-net
 netacad.com
 netacad.net
 netalert.me
@@ -18148,7 +18146,6 @@ okbank.ru
 okcdn.ru
 okcoin.com
 okex.com
-okexxy.com
 okinawabank.co.jp
 okiwine.jp
 okk.tw
@@ -18312,6 +18309,7 @@ op7979.com
 opac-project.eu
 open.firstory.me
 openai.com
+openai.org
 openamt.com
 openapi-quote.longbridge.cn
 openapi-trade.longbridge.cn
@@ -18755,7 +18753,6 @@ paypal.jp
 paypal.me
 paypal.so
 paypal.us
-paypalactpedia.org
 paypalbeacon.com
 paypalbenefits.com
 paypalbrasil.com
@@ -18767,6 +18764,7 @@ paypalcredit.com
 paypalcreditcard.com
 paypalgivingfund.org
 paypalhere.com
+paypalhere.info
 paypalhere.net
 paypalhere.org
 paypalhere.tv
@@ -19879,7 +19877,7 @@ publicagentxxx.com
 publicpornvideo.com
 publicsexhub.com
 publicsuffix.org
-publishproet
+publishproxy.com
 pubmatic.co.jp
 pubmatic.com
 pubu.com.tw
@@ -20084,7 +20082,6 @@ qysg7.buzz
 qysg8.buzz
 qz.com
 qzav.tv
-r-pool.ganggangkaishi.org
 r-pool.net
 r-project.org
 r0.ru
@@ -21119,6 +21116,7 @@ schwab.com.cn
 schwab.com.hk
 schwab.com.sg
 schwabassetmanagement.com
+schwabcdn.com
 schwabplan.com
 sci-hub.ee
 sci-hub.it.nf
@@ -23490,6 +23488,8 @@ timesofindia.indiatimes.com
 timestalks.com
 timeweb.cloud
 timeweb.com
+timeweb.tech
+timewebcloud.kz
 timi1.me
 timo0.com
 timtales.com
@@ -24073,6 +24073,7 @@ typekit.com
 typekit.net
 typenetwork.com
 typepad.com
+typesafe.ai
 typeset.io
 typesquare.com
 typography.com
@@ -26975,7 +26976,7 @@ yinmh.com
 yinshuiger.info
 yinya.shop
 yipub.com
-yiqiedoushi.com
+yiqiedoushiganggangkaishi.org
 yizhihongxing.com
 yjcontentdelivery.com
 ylands.com
