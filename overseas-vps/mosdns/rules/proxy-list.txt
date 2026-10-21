@@ -1,8 +1,9 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+.com
 000webhost.com
 01.org
 02weqj32.com
@@ -2705,8 +2706,10 @@ avinetworks.com
 avinin.com
 avira.com
 avistaz.to
+avito.com
 avito.ru
 avito.st
+avito.tech
 avizoon.site
 avizoone.com
 avjb.com
@@ -3127,7 +3130,7 @@ beats1.tv
 beats123.com
 beats4.net
 beats4outlets.com
-beats4salecheap.com.com
+beats4salecheap.com
 beatsallsale.com
 beatsaudifonos.com
 beatsaudiobydre.com
@@ -4066,7 +4069,7 @@ bmw-motorrad.cl
 bmw-motorrad.co
 bmw-motorrad.co.id
 bmw-motorrad.co.kr
-bmw-motorrad.co.nzce.com.au
+bmw-motorrad.co.nz
 bmw-motorrad.co.th
 bmw-motorrad.co.uk
 bmw-motorrad.co.za
@@ -18159,7 +18162,7 @@ okbank.ru
 okcdn.ru
 okcoin.com
 okex.com
-okex000webhost.com
+okexapplecensorship.com
 okinawabank.co.jp
 okiwine.jp
 okk.tw
@@ -23434,7 +23437,6 @@ tibethouse.org
 tibethouse.us
 tibetmuseum.org
 tibetnetwork.org
-tibetoffi
 tibetoffice.ch
 tibetoffice.com.au
 tibetoffice.org
