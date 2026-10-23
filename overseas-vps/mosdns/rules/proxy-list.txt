@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-.com
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -226,6 +226,7 @@
 22112211.xyz
 233abc.com
 2371tom.com
+24.place
 24h.tv
 24hbook.com
 24hjav.com
@@ -929,7 +930,7 @@ adskengineering.net
 adskengpp.net
 adskengpr.net
 adtcc.com
-adtidy.nes.org
+adtidy.net
 adtidy.org
 adult
 adult-doujin-free-information-bureau.officialblog.jp
@@ -3779,6 +3780,8 @@ blizzard.com
 blizzardgearstore.com
 blockcast.it
 blockchain.com
+blockchair.com
+blockchair.net
 blockcn.com
 blockedbyhk.com
 blockfrost.io
@@ -6032,6 +6035,7 @@ cq99.us
 cqcorea.com
 crabporn.com
 crackle.com
+craftifyx.com
 craigslist.org
 crankplayer.com
 crashbandicoot.com
@@ -6105,6 +6109,7 @@ crustwebsites.net
 cruxpool.com
 crypto.com
 cryptocompare.com
+cryptoid.info
 cryptomus.com
 crypton.co.jp
 crysis.jp
@@ -6454,6 +6459,7 @@ delcamp.net
 delcamtv.com
 delcamuniversity.com
 delcamusa.com
+delets.cash
 delets.online
 delicious.com.au
 delivery-club.ru
@@ -8610,6 +8616,7 @@ fanatical.com
 fanbox.cc
 fandango.com
 fandom.com
+fanfiction.net
 fanfictionero.com
 fanfox.net
 fangeqiang.com
@@ -9783,6 +9790,7 @@ full:firebaseremoteconfig.googleapis.com
 full:firstsearch.oclc.org
 full:fontshop-prod-responsive-images.s3.amazonaws.com
 full:foxnewsplayer-a.akamaihd.net
+full:funko.my.site.com
 full:gamedownloads-rockstargames-com.akamaized.net
 full:gamer-cds.cdn.hinet.net
 full:gamer2-cds.cdn.hinet.net
@@ -10335,6 +10343,7 @@ fundpaypal.com
 fundraisingwithfacebook.com
 fundsupermart.com
 funimation.com
+funko.com
 funkyimg.com
 funnyfacebook.org
 funnyordie.com
@@ -10451,6 +10460,7 @@ game-platform.net
 game-repack.site
 game735.com
 gameapps.hk
+gamebanana.com
 gamebase.com.tw
 gamebeforethegame.com
 gamebiz.jp
@@ -10702,6 +10712,7 @@ getpersonas.com
 getpocket.com
 getporn.tv
 getprintersupports.com
+getsafety.com
 getscorecash.com
 getsentry.com
 getsession.org
@@ -10870,6 +10881,8 @@ glasamerike.net
 glass8.eu
 gle
 gleline.com
+glitchprod.com
+glitchproductions.store
 glitchwave.com
 global-sci.org
 global.bing.com
@@ -10951,7 +10964,6 @@ gmp4.com
 gnai-dh.sbs
 gnailapp.sbs
 gnci.org.hk
-gnew000webhost.com
 gnews.org
 gnom-cham.com
 gnome.org
@@ -14681,6 +14693,7 @@ kumapon.jp
 kumo.com
 kun66.xyz
 kundun1069.com
+kurs.expert
 kurtmunger.com
 kusugurizanmai.com
 kutjeporno.com
@@ -15377,6 +15390,7 @@ makeitrealcontest.com
 makemymood.com
 makerepeater.jp
 makesenseofdata.com
+makeship.com
 makeshop.jp
 makingstartshere.com
 maktoob.com
@@ -18184,7 +18198,6 @@ okbank.ru
 okcdn.ru
 okcoin.com
 okex.com
-okext
 okinawabank.co.jp
 okiwine.jp
 okk.tw
@@ -18509,6 +18522,7 @@ ovpn.com
 ow.ly
 owl.li
 owltail.com
+ownaj.com
 owxd.xyz
 oxfordaasc.com
 oxfordartonline.com
@@ -19985,6 +19999,7 @@ pyrobot.org
 python.com.tw
 python.org
 pythonhosted.org
+pyup.io
 pzforever.skin
 pzforever01.homes
 pzhanfor.today
@@ -20135,6 +20150,7 @@ r18av.com
 r18lu-avi.shop
 r18lu.com
 r2.dev
+r2modman.com
 r34porn.net
 rabbitcounter.com
 rabbitscams.com
@@ -20987,6 +21003,7 @@ safeguarddefenders.com
 safeliner.tech
 safepal.com
 safervpn.com
+safetycli.com
 saffrontech.com
 sagabank.co.jp
 sage-observability.tech
@@ -22539,6 +22556,7 @@ steamgames.com
 steaminventoryhelper.com
 steamladder.com
 steamofporn.com
+steamos.cloud
 steampowered.com
 steamserver.net
 steamstatic.com
@@ -23179,6 +23197,7 @@ tgirlcentral.com
 tgirlpostop.com
 tgp6.com
 tgstat.com
+tgtime.store
 tgtube.com
 tgutube.com
 thai-xxx.com
@@ -23416,6 +23435,8 @@ thumbzilla.com
 thunderbird.net
 thunderbolttechnology.net
 thundermail.com
+thunderstore.io
+thunderstore.org
 thywords.com
 thz7.net
 thzu.cc
@@ -23584,6 +23605,7 @@ tmdb.org
 tmei-taoyuan.com
 tmi.me
 tmiaf.ru
+tmimgcdn.com
 tmpp.org
 tmsnrt.rs
 tn1.shemalez.com
@@ -25972,6 +25994,7 @@ worldoftanks.com
 worldoftanks.eu
 worldofwarcraft.com
 worldofwarplanes.com
+worldofwarships.asia
 worldofwarships.com
 worldpornvideos.com
 worldscientific.com
@@ -27130,6 +27153,7 @@ yourwifemymeat.com
 yourxxxvideos.pro
 yousendit.com
 youskbe.com
+youtooz.com
 youtrack.cloud
 youtrannytube.com
 youtu.be
