@@ -3,7 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
+.co.jp
 01.org
 02weqj32.com
 04647.club
@@ -1499,8 +1499,8 @@ alpherafs.in
 alpherafs.my
 alpinelinux.org
 alt.com
-altera.co.jp
 altera.com
+alteraapplecensorship.com
 alteraforum.com
 alternate-tools.com
 altmetric.com
@@ -3128,8 +3128,8 @@ beats-headphones.us
 beats-sale.com
 beats-seller.com
 beats-soaho.com
+beats000webhost.com
 beats1.cc
-beats1.tv
 beats123.com
 beats4.net
 beats4outlets.com
@@ -5933,6 +5933,7 @@ conscrypt.com
 conscrypt.org
 consentmanager.net
 consentpro.com
+console.typesafe.ai
 constructware.com
 consul.io
 contactossexoecuador.com
@@ -10438,6 +10439,7 @@ g.page
 g0v.social
 g1.com.br
 g6hentai.com
+ga.jspm.io
 gab.com
 gabocorp.com
 gacebook.com
@@ -10955,6 +10957,7 @@ gmo.media
 gmoask.jp
 gmobb.jp
 gmocloud.com
+gmodule1.tv
 gmodules.com
 gmoney.org
 gmopg.jp
@@ -11771,6 +11774,7 @@ healthcarecareeronline.com
 healthreach.hk
 heartbreakers.gallery
 heartbreakers.info
+heartyit.
 heartyit.com
 heaven-burns-red.com
 heavenlyhentai.com
@@ -13968,7 +13972,7 @@ javgrown.com
 javhard.net
 javhard.org
 javhaven.com
-javhay.net
+javhay.nets.com
 javhd.com
 javhd.icu
 javhd.pro
@@ -15163,7 +15167,7 @@ lovegirls.cam
 lovehomeporn.com
 lovehtbooks.com
 lovejav.net
-loveloveskill.com
+lovelovecom
 lovemarca.com
 loveminiso.com.br
 loveparents.org
@@ -21864,6 +21868,7 @@ sketchbookmobile.com
 sketchbooknews.com
 sketchbookpro.com
 sketchfab.com
+skill.com
 skillbox.pro
 skillbox.ru
 skillfactory.ru
