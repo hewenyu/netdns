@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -929,7 +928,7 @@ ads-twitter.com
 adsense.com
 adskcloud.com
 adskcloud.net
-adskeapplecensorship.com
+adske000webhost.com
 adskeng.net
 adskengpp.net
 adskengpr.net
@@ -1856,6 +1855,7 @@ api.pureapk.com
 api.recaptcha.net
 api.shuaiapi.com
 api.steampowered.com
+api.themoviedb.org
 apiary.io
 apiauto.ru
 apibay.org
@@ -2071,6 +2071,7 @@ applecoronavirus.com
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
+appledaily.com.twcreader.com
 appledaily.hk
 appledarwin.com
 appledarwin.net
@@ -4070,7 +4071,7 @@ bmw-motorrad-motorsport.com
 bmw-motorrad-now-or-never.com
 bmw-motorrad-service-inclusive.com
 bmw-motorrad-test-ride.com
-bmw-motorrad.at
+bmw-motorrad.aiangyou.org
 bmw-motorrad.be
 bmw-motorrad.bg
 bmw-motorrad.bh
@@ -5203,7 +5204,7 @@ cdnpure.com
 cdnuc.vip
 cdnvideo.ru
 cdnvideohub.com
-cdnxxx-proxy.co
+cdnxxvaleursactuelles.com
 cdnxxx-proxy.xyz
 cdp1998.org
 cdp2006.org
@@ -20047,6 +20048,7 @@ pyup.io
 pzforever.skin
 pzforever01.homes
 pzhanfor.today
+q
 q10.jp
 q13.com
 q13fox.com
@@ -22923,6 +22925,7 @@ szabadeuropa.hu
 szcheapmonsterheadphones.com
 szexvideo.top
 szwinnertechnology.com
+t
 t-access.ru
 t-bank-app.ru
 t-bank-app.su
@@ -23739,6 +23742,7 @@ toroporno.com
 torproject.org
 torrentgalaxy.to
 torrentkitty.tv
+torrentleech.org
 torrentprivacy.com
 torrentproject.se
 torrenty.org
@@ -26154,6 +26158,7 @@ x-artvideo.net
 x-berry.com
 x-caprice.com
 x-fetish.org
+x-proxy.co
 x-wall.org
 x.ai
 x.co
@@ -27338,6 +27343,7 @@ youtubego.in
 youtubekids.com
 youtubemobilesupport.com
 youversion.com
+youversionapi.com
 youwin.com
 youwuss.com
 youx.xxx
