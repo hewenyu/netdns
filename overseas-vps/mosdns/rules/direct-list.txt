@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-.com
 00.net
 000.link
 000000.net
@@ -2479,7 +2478,7 @@
 1more.com
 1mpi.com
 1ms.run
-1mushroomfull:265.com
+1mushroom.com
 1mutian.com
 1mxian.com
 1n1v97c96h.com
@@ -17103,6 +17102,7 @@ busnc.com
 bustoprint.com
 bustruckexpo.com
 busuanzi.cc
+busyming.com
 but7.com
 butair.com
 butao.com
@@ -19842,7 +19842,7 @@ che777.com
 cheaa.com
 cheaa.org
 cheaca.org
-cheapdoma.com
+cheapfull:265.com
 cheaphost.me
 cheapreplicawatch.com
 cheapyou.com
@@ -28873,6 +28873,7 @@ dolphincube.com
 dolphinpaper.com
 dolphinphp.com
 dom-3d.net
+doma.com
 domabio.com
 domain.email
 domaingz.com
@@ -29111,6 +29112,7 @@ doubaninfo.com
 doubanio.com
 doubao-dev.com
 doubao.com
+doubaoapps.com
 doubaocdn.com
 doubaozhidao.com
 doubean.com
@@ -109930,6 +109932,7 @@ zylianto.com
 zymc1.com
 zymkcdn.com
 zymkshop.com
+zymls.com
 zyoffice.com
 zyoo.net
 zyoogame.com

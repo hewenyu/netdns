@@ -928,8 +928,8 @@ ads-twitter.com
 adsense.com
 adskcloud.com
 adskcloud.net
-adske000webhost.com
 adskeng.net
+adskengineering.net
 adskengpp.net
 adskengpr.net
 adtcc.com
@@ -2071,7 +2071,6 @@ applecoronavirus.com
 appledaily.com
 appledaily.com.hk
 appledaily.com.tw
-appledaily.com.twcreader.com
 appledaily.hk
 appledarwin.com
 appledarwin.net
@@ -3971,6 +3970,7 @@ bmi.ir
 bmia.org
 bmj.com
 bml.info
+bmonkeys.net
 bmw
 bmw-abudhabi.com
 bmw-adventskalender.com
@@ -4071,7 +4071,7 @@ bmw-motorrad-motorsport.com
 bmw-motorrad-now-or-never.com
 bmw-motorrad-service-inclusive.com
 bmw-motorrad-test-ride.com
-bmw-motorrad.aiangyou.org
+bmw-motorrad.at
 bmw-motorrad.be
 bmw-motorrad.bg
 bmw-motorrad.bh
@@ -4395,6 +4395,7 @@ boj.or.jp
 bokep.net
 bokepseks.org
 bokepvidz.com
+boldgrid.com
 bolehvpn.net
 bollywoodlife.com
 boltdns.net
@@ -5204,7 +5205,7 @@ cdnpure.com
 cdnuc.vip
 cdnvideo.ru
 cdnvideohub.com
-cdnxxvaleursactuelles.com
+cdnxxx-proxy.co
 cdnxxx-proxy.xyz
 cdp1998.org
 cdp2006.org
@@ -5736,6 +5737,7 @@ cloudn.me
 cloudproxy.app
 cloudrobotics.com
 cloudvolumes.com
+cloudwp.dev
 cloudyzgirl.com
 cloupia.com
 cloupia.net
@@ -8398,6 +8400,7 @@ facebook.de
 facebook.design
 facebook.hu
 facebook.in
+facebook.ive.akamaized.net
 facebook.net
 facebook.nl
 facebook.org
@@ -9512,6 +9515,7 @@ fringenetwork.com
 frishoes.com
 fritchy.com
 frommel.net
+front.net
 frontiersin.org
 frontlinedefenders.org
 frontrow.com
@@ -9713,7 +9717,7 @@ full:d22qjgkvxw22r6.cloudfront.net
 full:d25xi40x97liuc.cloudfront.net
 full:d26rnz3bwp7rlk.cloudfront.net
 full:d27xxe7juh1us6.cloudfront.net
-full:d28odxiw1asdj8.cloudfront.net
+full:d28odxiw1asdj8.cloud000webhost.com
 full:d29vzk4ow07wi7.cloudfront.net
 full:d2aba1wr3818hz.cloudfront.net
 full:d2anahhhmp1ffz.cloudfront.net
@@ -10227,7 +10231,7 @@ full:vod-sub-uk-live.akamaized.net
 full:vod-thumb-uk-live.akamaized.net
 full:vod-thumb-ww-live.akamaized.net
 full:vs-cmaf-push-uk-live.akamaized.net
-full:vs-cmaf-pushb-ww-live.akamaized.net
+full:vs-cmaf-pushb-ww-lcreader.com
 full:vs-hls-push-uk-live.akamaized.net
 full:vs-hls-pushb-uk-live.akamaized.net
 full:vscode-sync-insiders.trafficmanager.net
@@ -17514,7 +17518,6 @@ nftstorage.link
 nga.mil
 ngeo.com
 ngfiles.com
-ngineering.net
 nginx.com
 nginx.org
 nginxconfig.io
@@ -20048,7 +20051,6 @@ pyup.io
 pzforever.skin
 pzforever01.homes
 pzhanfor.today
-q
 q10.jp
 q13.com
 q13fox.com
@@ -20483,6 +20485,7 @@ reform-apple.com
 reg.cloud
 reg.com
 reg.ru
+regenl
 regex101.com
 regexp:(^|\.)13mei[5-7]\.buzz$
 regexp:(^|\.)18j[efg]\.life$
@@ -20605,7 +20608,6 @@ regexp:(^|\.)ttghg[1-9][0-9]\.xyz$
 regexp:(^|\.)tttv([1-9][0-9]?|100)\.com$
 regexp:(^|\.)twav[1-9]\.xyz$
 regexp:(^|\.)twseb([1-9][0-9]?)?\.com$
-regexp:(^|\.)uu[a-z][1-9][0-9]?\.com$
 regexp:(^|\.)whtdh0[1-3]\.cc$
 regexp:(^|\.)wmm33[0-5]\.com$
 regexp:(^|\.)wyfuli[1-9]\.net$
@@ -22602,6 +22604,7 @@ steaminventoryhelper.com
 steamladder.com
 steamofporn.com
 steamos.cloud
+steampeek.hu
 steampowered.com
 steamserver.net
 steamstatic.com
@@ -22925,7 +22928,6 @@ szabadeuropa.hu
 szcheapmonsterheadphones.com
 szexvideo.top
 szwinnertechnology.com
-t
 t-access.ru
 t-bank-app.ru
 t-bank-app.su
@@ -25163,6 +25165,7 @@ vodafone.com.tr
 vodafone.de
 vodafone.it
 vodafone.nl
+vodafoneziggo.nl
 voicettank.org
 vokevr.com
 vol.moe
@@ -25623,7 +25626,9 @@ webex.com.mx
 webex.de
 webex.es
 webex.fr
+webflow-ext.com
 webflow.com
+webflow.io
 webgata.net
 webgirlsonline.net
 webhosting.com
@@ -25646,6 +25651,7 @@ webpkgcache.com
 webrtc.org
 websdr.org
 webshare.io
+website-files.com
 website.new
 webtoons.com
 webtoonscorp.com
@@ -26158,7 +26164,6 @@ x-artvideo.net
 x-berry.com
 x-caprice.com
 x-fetish.org
-x-proxy.co
 x-wall.org
 x.ai
 x.co
@@ -26516,6 +26521,7 @@ xoomcom.com
 xoteens.com
 xoxoteiras.com
 xozilla.com
+xp:(^|\.)uu[a-z][1-9][0-9]?\.com$
 xpaja.net
 xpee.com
 xplr.co
@@ -27502,6 +27508,7 @@ zhuichaguoji.org
 zhuzhushipin-app.com
 zi.media
 zibacity.com
+ziggo.nl
 ziglang.org
 zigzag.kr
 zillionk.com
