@@ -3,7 +3,6 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -1499,9 +1498,9 @@ alpherafs.co.nz
 alpherafs.com.hk
 alpherafs.com.my
 alpherafs.ie
-alpherafs.in
 alpherafs.my
 alpinelinux.org
+alpstyle.com
 alt.com
 altera.co.jp
 altera.com
@@ -11988,6 +11987,7 @@ hentaizz.net
 henti-night.com
 heptio.com
 heqinglian.net
+herafs.in
 heraldsun.com.au
 hereistheporn.com
 herexxx.com
@@ -18136,7 +18136,7 @@ nypost.help
 nypostreprints.com
 nyt.com
 nyt.net
-nytapplecensorship.com
+nyt000webhost.com
 nytchina.com
 nytcn.me
 nytco.com
@@ -22741,7 +22741,6 @@ stxmosquito.com
 stxmosquitoproject.com
 stxmosquitoproject.net
 stxmosquitoproject.org
-style.com
 sub147.com
 subhd.tv
 sublimedirectory.com
