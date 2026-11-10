@@ -929,9 +929,9 @@ adsense.com
 adskcloud.com
 adskcloud.net
 adskeng.net
-adskengineering.net
 adskengpp.net
 adskengpr.net
+adskeom
 adtcc.com
 adtidy.net
 adtidy.org
@@ -1498,9 +1498,9 @@ alpherafs.co.nz
 alpherafs.com.hk
 alpherafs.com.my
 alpherafs.ie
+alpherafs.in
 alpherafs.my
 alpinelinux.org
-alpstyle.com
 alt.com
 altera.co.jp
 altera.com
@@ -11987,7 +11987,6 @@ hentaizz.net
 henti-night.com
 heptio.com
 heqinglian.net
-herafs.in
 heraldsun.com.au
 hereistheporn.com
 herexxx.com
@@ -17525,6 +17524,7 @@ nftstorage.link
 nga.mil
 ngeo.com
 ngfiles.com
+ngineering.net
 nginx.com
 nginx.org
 nginxconfig.io
@@ -18136,7 +18136,7 @@ nypost.help
 nypostreprints.com
 nyt.com
 nyt.net
-nyt000webhost.com
+nytapplecensorship.com
 nytchina.com
 nytcn.me
 nytco.com
@@ -22741,6 +22741,7 @@ stxmosquito.com
 stxmosquitoproject.com
 stxmosquitoproject.net
 stxmosquitoproject.org
+style.com
 sub147.com
 subhd.tv
 sublimedirectory.com
@@ -26206,6 +26207,7 @@ xbanny.com
 xbeegtube.com
 xbhuijiab.info
 xbnat.com
+xbookcn.c000webhost.com
 xbookcn.com
 xbookcn.net
 xbooks.work
