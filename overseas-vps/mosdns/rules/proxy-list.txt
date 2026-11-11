@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -929,9 +930,9 @@ adsense.com
 adskcloud.com
 adskcloud.net
 adskeng.net
+adskengineering.net
 adskengpp.net
 adskengpr.net
-adskeom
 adtcc.com
 adtidy.net
 adtidy.org
@@ -11434,6 +11435,8 @@ gr-assets.com
 grabhentai.com
 grabpussy.com
 gradeuptube.com
+grafana.com
+grafana.net
 grafolio.com
 graias.com
 graiasmovies.com
@@ -17524,7 +17527,6 @@ nftstorage.link
 nga.mil
 ngeo.com
 ngfiles.com
-ngineering.net
 nginx.com
 nginx.org
 nginxconfig.io
@@ -18136,7 +18138,6 @@ nypost.help
 nypostreprints.com
 nyt.com
 nyt.net
-nytapplecensorship.com
 nytchina.com
 nytcn.me
 nytco.com
@@ -20143,6 +20144,7 @@ quantil.com
 quatrowireless.com
 quatrum.com.br
 quay.io
+questionablequesting.com
 questvisual.com
 quicinc.com
 quickbook.com.br
@@ -22291,6 +22293,7 @@ soyinyj.top
 soyjak.party
 soyjak.st
 sp.cool
+spacebattles.com
 spaceexplored.com
 spaceforce.mil
 spacely.com.au
@@ -22741,7 +22744,6 @@ stxmosquito.com
 stxmosquitoproject.com
 stxmosquitoproject.net
 stxmosquitoproject.org
-style.com
 sub147.com
 subhd.tv
 sublimedirectory.com
@@ -24477,6 +24479,7 @@ v.ps
 v.recipes
 v2.help
 v2.hysteria.network
+v2ex.co
 v2ex.com
 v2fly.org
 v2ph.com
@@ -26207,7 +26210,6 @@ xbanny.com
 xbeegtube.com
 xbhuijiab.info
 xbnat.com
-xbookcn.c000webhost.com
 xbookcn.com
 xbookcn.net
 xbooks.work

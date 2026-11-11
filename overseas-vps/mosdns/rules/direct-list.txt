@@ -1,9 +1,9 @@
-# another-direct.net 0.zone
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-.com
+0.zone
 00.net
 000.link
 000000.net
@@ -2479,7 +2479,7 @@
 1more.com
 1mpi.com
 1ms.run
-1mushroomfull:265.com
+1mushroom.com
 1mutian.com
 1mxian.com
 1n1v97c96h.com
@@ -67660,6 +67660,7 @@ nhzj.com
 nhzs.com
 ni8.com
 ni93.com
+nia-teams.com
 nianchu.net
 nianhuawan.com
 niankawang.com
