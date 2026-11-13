@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -662,7 +661,6 @@ aboluowang.com
 about.gitlab.com
 about.me
 aboutamazon.co.uk
-aboutamazon.com
 aboutamazon.com.au
 aboutamazon.de
 aboutamazon.es
@@ -673,6 +671,7 @@ aboutamazon.it
 aboutamazon.jp
 aboutamazon.pl
 aboutamazon.sg
+aboutamazoom
 aboutfacebook.com
 aboutmcdonalds.com
 aboutporno.net
@@ -929,8 +928,8 @@ ads-twitter.com
 adsense.com
 adskcloud.com
 adskcloud.net
+adskeapplecensorship.com
 adskeng.net
-adskengineering.net
 adskengpp.net
 adskengpr.net
 adtcc.com
@@ -17165,6 +17164,7 @@ myyoungwifeisnude.com
 mzed.com
 mzl.la
 mzstatic.com
+n.com
 n0vadesktop.com
 n26.com
 n3ro.lol
@@ -17527,6 +17527,7 @@ nftstorage.link
 nga.mil
 ngeo.com
 ngfiles.com
+ngineering.net
 nginx.com
 nginx.org
 nginxconfig.io
@@ -26210,6 +26211,7 @@ xbanny.com
 xbeegtube.com
 xbhuijiab.info
 xbnat.com
+xbookcn.c000webhost.com
 xbookcn.com
 xbookcn.net
 xbooks.work
