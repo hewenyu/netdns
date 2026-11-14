@@ -1,8 +1,9 @@
-# another-proxy.net 000webhost.com
+# another-proxy.net applecensorship.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -394,6 +395,7 @@
 51luoben.com
 51luoli.info
 51mh.app
+51papaya.com
 51pincha.cc
 51tuqiang.com
 520aa.tv
@@ -661,6 +663,7 @@ aboluowang.com
 about.gitlab.com
 about.me
 aboutamazon.co.uk
+aboutamazon.com
 aboutamazon.com.au
 aboutamazon.de
 aboutamazon.es
@@ -671,7 +674,6 @@ aboutamazon.it
 aboutamazon.jp
 aboutamazon.pl
 aboutamazon.sg
-aboutamazoom
 aboutfacebook.com
 aboutmcdonalds.com
 aboutporno.net
@@ -928,8 +930,8 @@ ads-twitter.com
 adsense.com
 adskcloud.com
 adskcloud.net
-adskeapplecensorship.com
 adskeng.net
+adskengineering.net
 adskengpp.net
 adskengpr.net
 adtcc.com
@@ -1913,6 +1915,7 @@ appexchange.com
 appget.com
 appl-e.com
 appl.com
+appl000webhost.com
 appl4e.com
 appla.com
 apple
@@ -3129,7 +3132,7 @@ beats-bydrestore.com
 beats-bydreuk.com
 beats-deal.com
 beats-dre-us.com
-beats-headphones-buy-cheap.com
+beats-headphones-buy-cheap.hu
 beats-headphones.us
 beats-sale.com
 beats-seller.com
@@ -4071,7 +4074,7 @@ bmw-motorrad-authorities.com
 bmw-motorrad-dubai.com
 bmw-motorrad-motorsport.com
 bmw-motorrad-now-or-never.com
-bmw-motorrad-service-inclusive.com
+bmw-motorrad-service-incluanime1.com
 bmw-motorrad-test-ride.com
 bmw-motorrad.at
 bmw-motorrad.be
@@ -7398,7 +7401,6 @@ duga.jp
 duihua.org
 duihuahrjournal.org
 dukgo.com
-dulceecuador.com
 dump.xxx
 dumpxxx.net
 dungeonkeeper.cn
@@ -7464,6 +7466,7 @@ durexusa.com
 dutrai.com
 duyaoss.com
 duyaossr.com
+duytimg.com
 dvbank.ru
 dvdpac.com
 dvdstudiopro.biz
@@ -8438,6 +8441,7 @@ facebookcredits.info
 facebookdating.net
 facebookdevelopergarage.com
 facebookdusexe.org
+facebookedaily.com.tw
 facebookemail.com
 facebookenespanol.com
 facebookexchange.com
@@ -11586,6 +11590,7 @@ h-flash.com
 h-moe.com
 h-top.supertop-100.com
 h-webtoon.com
+h.com
 h0930.com
 h18ani1.vip
 h264.io
@@ -14828,6 +14833,7 @@ lbctrl.com
 lbfmaddiction.com
 lbkrs.com
 lbtube.com
+lceecuador.com
 lcgirls.com
 lcsmerch.com
 ldoceonline.com
@@ -17164,7 +17170,6 @@ myyoungwifeisnude.com
 mzed.com
 mzl.la
 mzstatic.com
-n.com
 n0vadesktop.com
 n26.com
 n3ro.lol
@@ -17527,7 +17532,6 @@ nftstorage.link
 nga.mil
 ngeo.com
 ngfiles.com
-ngineering.net
 nginx.com
 nginx.org
 nginxconfig.io
@@ -17919,6 +17923,7 @@ nsfw.xxx
 nsfw247.to
 nsfwmemes.com
 nsimg.net
+nsive.com
 nskbl.ru
 nsloon.com
 nspk.ru
@@ -26211,7 +26216,6 @@ xbanny.com
 xbeegtube.com
 xbhuijiab.info
 xbnat.com
-xbookcn.c000webhost.com
 xbookcn.com
 xbookcn.net
 xbooks.work
