@@ -928,9 +928,9 @@ adporn.cc
 adpornu.xyz
 ads-twitter.com
 adsense.com
+adsk000webhost.com
 adskcloud.com
 adskcloud.net
-adskeng.net
 adskengineering.net
 adskengpp.net
 adskengpr.net
@@ -1762,7 +1762,6 @@ animalsporn.tv
 animalzoosex.me
 animary.jp
 anime-pictures.net
-anime-tube.pw
 animedao-tv.com
 animegal.net
 animehentaihub.com
@@ -2587,7 +2586,7 @@ autodeskdesigncompetition.com
 autodeskdesigncompetitions.com
 autodeskdiscussions.com
 autodeskdocandmedia.com
-autodeskdocandmediaamericas.com
+autodeskdocandmediaamericahad.net
 autodeskdocandmediaasia.com
 autodeskdocandmediaemea.com
 autodeskdocandmediaeurope.com
@@ -4073,7 +4072,7 @@ bmw-motorrad-authorities.com
 bmw-motorrad-dubai.com
 bmw-motorrad-motorsport.com
 bmw-motorrad-now-or-never.com
-bmw-motorrad-service-inclusive.com
+bmw-motorrad-service-incluytimg.com
 bmw-motorrad-test-ride.com
 bmw-motorrad.at
 bmw-motorrad.be
@@ -6072,6 +6071,7 @@ crazyfiction.xyz
 crazylivecams.com
 crazynovel.xyz
 crazypool.org
+crazyshit.ceng.net
 crazyshit.com
 crazyxxx3dworld.com
 crazyxxx3dworld.net
@@ -6439,6 +6439,7 @@ dealtree.org
 deasians.com
 debank.com
 debian.org
+debot.ai
 debug.com
 debugproject.com
 decentr.net
@@ -9672,6 +9673,7 @@ full:bnetcmsus-a.akamaihd.net
 full:bnetproduct-a.akamaihd.net
 full:bnetshopus.akamaized.net
 full:brightcove.imgix.net
+full:builds.dotnet.microsoft.com
 full:bybit-exchange.github.io
 full:bybit.ada.support
 full:c.ppy.sh
@@ -9774,6 +9776,7 @@ full:dlmobilegarena-a.akamaihd.net
 full:dmqdd6hw24ucf.cloudfront.net
 full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 full:docker-pinata-support.s3.amazonaws.com
+full:dotnetcli.trafficmanager.net
 full:doy2mn9upadnk.cloudfront.net
 full:dqd0jw5gvbchn.cloudfront.net
 full:dqrpb9wgowsf5.cloudfront.net
@@ -10142,6 +10145,7 @@ full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
 full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+full:sundry-star-net-geo.trafficmanager.net
 full:supercell.helpshift.com
 full:supercell.zendesk.com
 full:t.ssp.hinet.net
@@ -10928,6 +10932,7 @@ global-sci.org
 global.bing.com
 global.ssl.fastly.net
 globaledu.org
+globaljianime-tube.pw
 globaljihad.net
 globalrescue.net
 globalriskregulator.com
@@ -17914,6 +17919,7 @@ nrdh99.buzz
 nrk.no
 nrooms-dh.sbs
 ns-bank.ru
+ns.com
 nsd.ru
 nsfw.xxx
 nsfw247.to
@@ -18290,6 +18296,7 @@ olevodtv.com
 oli-school.com
 ollama.com
 olumpo.com
+om
 omafotze.com
 omakase.in
 omaps.app
@@ -20657,6 +20664,7 @@ relateiq.com
 relay.firefox.com
 religionnews.com
 remirepo.net
+remna.dev
 remna.st
 rencapbank.ru
 renchead.com
@@ -21910,6 +21918,7 @@ siteripz.com
 siteripz.net
 sites.new
 situero.com
+sive.com
 six-degrees.io
 six9dy.pw
 sjcollect.com

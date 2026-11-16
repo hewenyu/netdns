@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -14285,6 +14285,7 @@ beestor.com
 beeui.com
 beeweart.com
 befar.com
+befull:a1.mzstatic.com
 begcl.com
 begeel.com
 begindcc.com
@@ -14642,7 +14643,6 @@ bestwehotel.com
 bestweshop.com
 bestwesternfelicityshenzhen.com
 bestzone.org
-bet007.com
 bet2396.com
 bet33040.com
 bet3739.com
@@ -18017,6 +18017,7 @@ caps-china.org
 capsuleshanghai.com
 captain-cro.com
 captainbi.com
+captive.apple.com
 capturetheflag.fun
 capvision.com
 capwhale.com
@@ -34814,7 +34815,6 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -34929,6 +34929,7 @@ full:collaborateppe.download.prss.microsoft.com
 full:communities.apple.com
 full:configuration.apple.com
 full:configuration.apple.com.akadns.net
+full:configuration.ls.apple.com
 full:connectivitycheck.gstatic.com
 full:crashlyticsreports-pa.googleapis.com
 full:crl-lb.apple.com.akadns.net
@@ -35148,10 +35149,12 @@ full:msdn.download.prss.microsoft.com
 full:msdprod-ad.download.prss.microsoft.com
 full:msproduct.download.prss.microsoft.com
 full:music.apple.com
+full:musicstatus.itunes.apple.com
 full:musicstatus.music.apple.com
 full:mvod.itunes.apple.com
 full:myapp.itunes.apple.com
 full:myvs.download.prss.microsoft.com
+full:mzstorekit.itunes.apple.com
 full:np-edge.itunes.apple.com
 full:ntp.aliyun.com
 full:ntp.tencent.com
@@ -85682,6 +85685,7 @@ t.biz
 t.tt
 t0001.com
 t003005.com
+t007.com
 t00ls.cc
 t00ls.net
 t00y.com
