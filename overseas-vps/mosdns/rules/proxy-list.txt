@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -928,9 +928,9 @@ adporn.cc
 adpornu.xyz
 ads-twitter.com
 adsense.com
-adsk000webhost.com
 adskcloud.com
 adskcloud.net
+adskeng.net
 adskengineering.net
 adskengpp.net
 adskengpr.net
@@ -1762,6 +1762,7 @@ animalsporn.tv
 animalzoosex.me
 animary.jp
 anime-pictures.net
+anime-tube.pw
 animedao-tv.com
 animegal.net
 animehentaihub.com
@@ -2586,7 +2587,7 @@ autodeskdesigncompetition.com
 autodeskdesigncompetitions.com
 autodeskdiscussions.com
 autodeskdocandmedia.com
-autodeskdocandmediaamericahad.net
+autodeskdocandmediaamericas.com
 autodeskdocandmediaasia.com
 autodeskdocandmediaemea.com
 autodeskdocandmediaeurope.com
@@ -4072,7 +4073,7 @@ bmw-motorrad-authorities.com
 bmw-motorrad-dubai.com
 bmw-motorrad-motorsport.com
 bmw-motorrad-now-or-never.com
-bmw-motorrad-service-incluytimg.com
+bmw-motorrad-service-inclusive.com
 bmw-motorrad-test-ride.com
 bmw-motorrad.at
 bmw-motorrad.be
@@ -6071,7 +6072,6 @@ crazyfiction.xyz
 crazylivecams.com
 crazynovel.xyz
 crazypool.org
-crazyshit.ceng.net
 crazyshit.com
 crazyxxx3dworld.com
 crazyxxx3dworld.net
@@ -6254,6 +6254,7 @@ cybertrust.co.jp
 cybertrust.ne.jp
 cyberx.com
 cygames.co.jp
+cygames.com
 cygames.jp
 cygwin.com
 cylink.pro
@@ -10932,7 +10933,6 @@ global-sci.org
 global.bing.com
 global.ssl.fastly.net
 globaledu.org
-globaljianime-tube.pw
 globaljihad.net
 globalrescue.net
 globalriskregulator.com
@@ -17919,7 +17919,6 @@ nrdh99.buzz
 nrk.no
 nrooms-dh.sbs
 ns-bank.ru
-ns.com
 nsd.ru
 nsfw.xxx
 nsfw247.to
@@ -18296,7 +18295,6 @@ olevodtv.com
 oli-school.com
 ollama.com
 olumpo.com
-om
 omafotze.com
 omakase.in
 omaps.app
@@ -21918,7 +21916,6 @@ siteripz.com
 siteripz.net
 sites.new
 situero.com
-sive.com
 six-degrees.io
 six9dy.pw
 sjcollect.com
@@ -27048,6 +27045,7 @@ yavtube.com
 yaya.cyou
 yayadizhi.xyz
 yazhouse8.com
+yb-payment.ru
 yccdn.ru
 yclients.com
 ycombinator.com
