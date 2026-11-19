@@ -1,4 +1,4 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
@@ -7860,6 +7860,7 @@ elephanttube.com
 elephanttubenew.com
 elevenlabs.com
 elevenlabs.io
+elevenlabsusercontent.com
 elgaronline.com
 elgoog.im
 elifesciences.org
@@ -27010,7 +27011,6 @@ yandexdataschool.ru
 yandexgo.com
 yandexlyceum.ru
 yandexwebcache.net
-yandexwebcache.org
 yango-b2b.com
 yango-team.com
 yango-tech.com

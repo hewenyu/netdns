@@ -1,9 +1,8 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net 0.zone
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
 # 自定义强制直连域名列表
-0.zone
 00.net
 000.link
 000000.net
@@ -10190,6 +10189,7 @@ aifuxi.com
 aigaixie.com
 aigame.com
 aigame100.com
+aigames.com
 aiganggu.com
 aigc-cloud.com
 aigc369.com
@@ -23431,7 +23431,7 @@ cnshzm.com
 cnside.com
 cnsihai.com
 cnsimeng.com
-cnsimg.net
+cnsimfull:265.com
 cnsimin.com
 cnsiwu.com
 cnskg.com
@@ -34815,7 +34815,6 @@ fulitec.com
 fuliti.com
 fuliw.net
 full-way.com
-full:265.com
 full:2mdn-cn.net
 full:2mdn.net
 full:a1.mzstatic.com
@@ -35861,6 +35860,7 @@ g-spin.com
 g-tar.com
 g-var.com
 g.biz
+g.net
 g00gle.vip
 g015bs0428137.luxe
 g052m43e2ghn.com
@@ -57978,7 +57978,6 @@ kuaifaka.net
 kuaifawu.com
 kuaifeng.com
 kuaifuinfo.com
-kuaigames.com
 kuaigeng.com
 kuaigou.co
 kuaiguohui.com
@@ -58136,6 +58135,7 @@ kufaka.com
 kufangwuyou.com
 kufaxian.com
 kufei.com
+kufull:a1.mzstatic.com
 kugoo.com
 kugou.com
 kugou.net
@@ -59586,6 +59586,7 @@ lenovocloudos.com
 lenovoconnect.com
 lenovoeservice.com
 lenovofile.com
+lenovofuturecenter.com
 lenovogame.com
 lenovohci.com
 lenovohuishang.com
@@ -74253,6 +74254,7 @@ qpjylm.com
 qpkaifa.com
 qplus.com
 qplusstatic.com
+qpmcn.com
 qpoc.com
 qpstar.com
 qpwater.com
@@ -89045,6 +89047,7 @@ troxchina.com
 trpc.center
 trpc.group
 trpc.tech
+trpcdn.com
 trpcdn.net
 trs-logistics.com
 trsoft.vip
@@ -106646,6 +106649,7 @@ zhaoketang.com
 zhaokuaizhao.com
 zhaolaobanla.com
 zhaoliangji.com
+zhaoliangjipc.com
 zhaoliming.net
 zhaoming.biz
 zhaomishijie.com
