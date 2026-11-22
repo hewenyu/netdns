@@ -1,9 +1,8 @@
-# another-proxy.net applecensorship.com
+# another-proxy.net 000webhost.com
 # example-proxy.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
-000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -2027,6 +2026,7 @@ apple.us
 apple.xn--czr694b
 apple.xn--fiqs8s
 apple.xyz
+apple000webhost.com
 appleaccount.net
 appleafrica.com
 appleantilles.com
@@ -2071,7 +2071,6 @@ appledarwin.com
 appledarwin.net
 appleenews.com
 appleexpo.eu
-appleexpo.info
 applefilmaker.com
 applefilmmaker.com
 applefinalcutproworld.com
@@ -3130,7 +3129,7 @@ beats1.tv
 beats123.com
 beats4.net
 beats4outlets.com
-beats4salecheap.com
+beats4salecheap.twilcox.net
 beatsallsale.com
 beatsaudifonos.com
 beatsaudiobydre.com
@@ -4514,6 +4513,7 @@ bravoporn.com
 bravoteens.com
 bravotube.net
 bravotube.tv
+bravotv.com
 brawlstars.com
 brawlstarsgame.com
 brazilpartneruniversity.com
@@ -5745,6 +5745,7 @@ cn.theaustralian.com.au
 cna.com.tw
 cnbbnews.wordpress.com
 cnbc.com
+cnbccouncils.com
 cnbcfm.com
 cnbeta.com
 cnbeta.com.tw
@@ -6266,6 +6267,7 @@ dahl.su
 dahlmessenger.com
 daidostup.ru
 daiichibank.co.jp
+dailtw
 dailybasis.com
 dailym.ai
 dailymail.co.uk
@@ -8640,6 +8642,7 @@ fantasti.cc
 fantom.foundation
 fantom.network
 fantv.hk
+fanza.jp
 fap-xxx.com
 fap18.net
 fap666.com
@@ -9090,6 +9093,7 @@ fnlondon.com
 fnmt.es
 foampositeshoes.com
 fochk.org
+focusfeatures.com
 focustaiwan.tw
 fofg.org
 foftolia.com
@@ -11659,6 +11663,7 @@ hayabusa.io
 hayabusa.media
 hayday.com
 haydaygame.com
+hayu.com
 hayya.ae
 hbabit.com
 hbfile.net
@@ -12107,6 +12112,7 @@ hkpeanut.com
 hkporn.net
 hkreadingcity.net
 hkreporter.com
+hkt
 hkt-enterprise.com
 hkt-eye.com
 hkt.com
@@ -13034,6 +13040,7 @@ ilife.gr
 ilife.wang
 illawarramercury.com.au
 illgames.jp
+illumination.com
 illusion111.com
 illusionas.com
 illusionchn.com
@@ -15615,6 +15622,7 @@ matainja.com
 matchmover.com
 mate-desktop.org
 material.io
+matexpo.info
 mathoverflow.net
 matichon.co.th
 matome-plus.com
@@ -16805,7 +16813,6 @@ msk.ilnk.info
 msk.kitazawa.me
 msn.com
 msn.net
-msnbc.com
 msnewskids.com
 msnewskids.net
 msnewskids.org
@@ -17206,8 +17213,11 @@ nbcnews.com
 nbcolympics.com
 nbcsports.com
 nbcudigitaladops.com
+nbcumv.com
 nbcuni.com
+nbcunicareers.com
 nbcuniversal.com
+nbcuniversalprivacy.com
 nbdh15.buzz
 nbtvpn.com
 nbys.tv
@@ -18846,6 +18856,7 @@ pbxes.com
 pbxes.org
 pc.com
 pca.st
+pccw
 pccw.com
 pccwglobal.com
 pccwsolutions.com
@@ -19917,6 +19928,7 @@ publicsuffix.org
 publishproxy.com
 pubmatic.co.jp
 pubmatic.com
+pubu.com.com
 pubu.com.tw
 puffinbrowser.com
 pugetsoundbmw.com
@@ -20598,6 +20610,7 @@ rentry.co
 renyurenquan.org
 renzhe.cloud
 repe21.com
+replit.com
 repo.new
 report-megafon.ru
 repotama.com
@@ -23075,6 +23088,7 @@ telegram.space
 telegramdownload.com
 telekom.com
 telekom.de
+telemundo.com
 telerik.com
 telesco.pe
 telesec.de
@@ -23671,6 +23685,7 @@ torrentprivacy.com
 torrentproject.se
 torrenty.org
 torrindex.net
+tortoisegit.org
 tortoisesvn.net
 torvpn.com
 tosh.comedycentral.com
@@ -24164,6 +24179,7 @@ udndata.com
 udnfunlife.com
 udomain.hk
 udtrucksmeena.com
+udxfpp.com
 ueberamazon.de
 uflash.tv
 uforadio.com.tw
@@ -24241,11 +24257,18 @@ uniswap.org
 united.ru
 unity.com
 unity3d.com
+universalbeijingresort.com
+universalhorrorunleashed.com
+universalkidsresort.com
 universalorlando.com
+universalpictures.co.uk
 universalpictures.com
+universalpicturesathome.com
 universalpicturesinternational.com
+universalproductsexperiences.com
 universalscalablefirmware.org
 universalstudioshollywood.com
+universalukproject.co.uk
 universitypressscholarship.com
 unknownspace.org
 unkoscene.com
@@ -24273,6 +24296,7 @@ updatetube.com
 upfrontcfd.com
 upfrontfea.com
 upghsbc.com
+uphe.com
 upholdjustice.org
 upjav.cc
 uplay-istrip.com
@@ -24324,6 +24348,7 @@ userpxt.io
 usersdrive.com
 usertrust.com
 usfk.mil
+usj.co.jp
 usma.edu
 usno.navy.mil
 usocial.pro
@@ -26983,6 +27008,7 @@ yiqiedoushiganggangkaishi.org
 yizhihongxing.com
 yjcontentdelivery.com
 ylands.com
+ymail.co.uk
 ymail.com
 ymhsf.top
 ymhsf1.top
