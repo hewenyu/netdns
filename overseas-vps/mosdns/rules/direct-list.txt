@@ -1,4 +1,4 @@
-# another-direct.net full:a1.mzstatic.com
+# another-direct.net full:265.com
 # example-direct.com
 # 在此文件中添加的域名将会被优先匹配，并强制通过国内DNS解析。
 # 每行一个域名，例如：
@@ -2481,7 +2481,7 @@
 1nfinite.ai
 1nmob.com
 1nongjing.com
-1note.life
+1note.lifefull:a1.mzstatic.com
 1nyz.com
 1o1o.xyz
 1o26.com
@@ -6557,7 +6557,6 @@
 65b01705c10261.beer
 65box.com
 65ec0ea7f04562ad.com
-65fa2910261.beer
 65liuxue.com
 65mhxy.com
 6600.org
@@ -9690,7 +9689,7 @@ aesoftland.com
 aestheticbutler.xyz
 aevit.xyz
 aexpec.com
-af1full:265.com
+af165fa2910261.beer
 af26a21252823cc6.com
 af36.com
 af360.com
