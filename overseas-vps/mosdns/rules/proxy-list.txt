@@ -3,6 +3,7 @@
 # 在此文件中添加的域名将会被优先匹配，并强制通过国外DNS解析。
 # 每行一个域名，例如：
 # 自定义强制代理域名列表
+000webhost.com
 01.org
 02weqj32.com
 04647.club
@@ -928,7 +929,7 @@ adsense.com
 adskcloud.com
 adskcloud.net
 adskeng.net
-adskengineering.ne000webhost.com
+adskengineering.net
 adskengpp.net
 adskengpr.net
 adtcc.com
@@ -2043,7 +2044,6 @@ applecare.eu
 applecare.hamburg
 applecare.wang
 applecensorship.com
-applecensorship.org
 applecentar.co.rs
 applecentar.rs
 applecentre.com.au
@@ -2071,6 +2071,7 @@ appledarwin.com
 appledarwin.net
 appleenews.com
 appleexpo.eu
+appleexpo.info
 applefilmaker.com
 applefilmmaker.com
 applefinalcutproworld.com
@@ -4599,7 +4600,6 @@ brightline.tv
 brill.com
 brilliant.org
 britsexcash.com
-britynakeds.com
 brizzly.com
 brni.com
 broadbandreports.com
@@ -4806,7 +4806,6 @@ byjhd.com
 bymj.io
 bynet.co.il
 bypasscensorship.org
-bypasst
 byrut.org
 byspotify.com
 bystrobank.ru
@@ -5209,13 +5208,13 @@ celebgramme.com
 celebmasta.live
 celebritygay.com
 celebritymoviearchive.com
+celebritynakeds.com
 celebrityslips.com
 celebritystorysite.com
 celebsporno.com
 celebsroulette.com
 celeron.com
 celeron.net
-celethlink.com
 cell.com
 cellulo.info
 cencoastbmw.com
@@ -17440,7 +17439,6 @@ nexoncdn.co.kr
 nexongames.co.kr
 nexpart.com
 nexpart.tv
-nexpo.info
 next.com
 next.hk
 nextapple.com
